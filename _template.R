@@ -13,6 +13,16 @@ index_header <- glue('
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <link rel="stylesheet" href="css/bootstrap_{BS_THEME}.min.css">
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-30013353-3"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){{dataLayer.push(arguments);}}
+      gtag(\'js\', new Date());
+    
+      gtag(\'config\', \'UA-30013353-3\');
+    </script>
+
 
     <title>30 Day Map Challenge #30DayMapChallenge - Introduction</title>
   </head>
@@ -82,6 +92,15 @@ stats_header <- glue('
     <link rel="stylesheet" href="css/bootstrap_{BS_THEME}.min.css">
     <link rel="stylesheet" href="css/custom.css">
 
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-30013353-3"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){{dataLayer.push(arguments);}}
+      gtag(\'js\', new Date());
+    
+      gtag(\'config\', \'UA-30013353-3\');
+    </script>
+
     <title>30 Day Map Challenge #30DayMapChallenge - Statistics</title>
   </head>
 <body>
@@ -136,6 +155,15 @@ maps_header <- glue('
 
     <link rel="stylesheet" href="css/bootstrap_{BS_THEME}.min.css">
     <link rel="stylesheet" href="css/custom.css">
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-30013353-3"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){{dataLayer.push(arguments);}}
+      gtag(\'js\', new Date());
+    
+      gtag(\'config\', \'UA-30013353-3\');
+    </script>
 
     <title>30 Day Map Challenge #30DayMapChallenge - Map Gallery</title>
   </head>
