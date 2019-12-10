@@ -73,6 +73,9 @@ index_footer <- '
 
 
 
+<script src="js/jquery-3.3.1.slim.min.js"></script>
+<script src="js/popper-1.14.7.min.js"></script>
+<script src="js/bootstrap-4.3.1.min.js"></script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </body>
 </html>
@@ -118,7 +121,7 @@ stats_header_nav <- '
     <div class="collapse navbar-collapse" id="navbarColor01">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item">
-          <a class="nav-link" href="index.html">Intro</a>
+          <a class="nav-link" href="/">Intro</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="maps.html">Map Gallery</a>
@@ -137,6 +140,9 @@ stats_header_nav <- '
 
 
 stats_footer <- '
+<script src="js/jquery-3.3.1.slim.min.js"></script>
+<script src="js/popper-1.14.7.min.js"></script>
+<script src="js/bootstrap-4.3.1.min.js"></script>
 </body>
 </html>
 '
@@ -182,7 +188,7 @@ maps_header_nav <- '
     <div class="collapse navbar-collapse" id="navbarColor01">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item">
-          <a class="nav-link" href="index.html">Intro</a>
+          <a class="nav-link" href="/">Intro</a>
         </li>
         <li class="nav-item active">
           <a class="nav-link" href="#">Map Gallery <span class="sr-only">(current)</span></a>

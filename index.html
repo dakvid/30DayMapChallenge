@@ -60,17 +60,22 @@
   </div> <div class="row">
   <div class="col-12">
     <p>
-      There have been so many awesome maps shared as part of #30DayMapChallenge,
-      but they've been dispersed across Twitter. I thought I'd try to collate them
+      There were so many awesome maps shared as part of #30DayMapChallenge in November 2019,
+      but they were dispersed across Twitter. I thought I'd try to collate them
       so they're all in one place and somewhat explorable. I'm looking forward
       to catching up on the ones I missed and coming back time and again for
-      inspiration. Hopefully you enjoy them to. Thanks to everyone who took part!
+      inspiration. Hopefully you enjoy them too. Thanks to everyone who took part!
     </p>
     <h3>Where are the maps?</h3>
-    <p class="text-info">
-      Click through to the
-      <a href="maps.html">map gallery</a>
-      where you can explore all* the maps.
+    <p>
+      <span class="text-info">
+        Click through to the
+        <a href="maps.html">map gallery</a>
+        where you can explore all* the maps.
+      </span>
+      Turning the unstructured data of thousands of tweets (map submissions and random discussion)
+      into a structured dataset is naturally a long and partly manual process, so the gallery
+      content continues to grow.
     </p>
     <p>
       The interface allows you to filter by challenge days and the
@@ -119,7 +124,9 @@
     <p>
       Yes, of course!
       I'm happy to accept corrections to mistakes or additional metadata
-      via email (myname at frigge.nz) or
+      via email (myname at frigge.nz),
+      <a href="https://twitter.com/dakvid">tweet,</a>
+      or
       <a href="https://github.com/dakvid/30DayMapChallenge">Github</a>
       issues or pull requests.
     </p>
@@ -130,6 +137,11 @@
       topics, types and tools. My source data file
       <a href="https://github.com/dakvid/30DayMapChallenge/blob/master/data/map_classification.tsv">is here</a>
       - please feel welcome to fill in any of the gaps.
+    </p>
+    <p>
+      Note that I decided to only allow one map per theme/day per person.
+      Some people made multiple maps for a theme - generally you can see
+      the others if you click through to the original tweet.
     </p>
     <h3>Who are you?</h3>
     <p>
@@ -143,15 +155,16 @@
     </p>
     <h3>How did you make this site?</h3>
     <p>
-      It's the
+      With
       <a href="https://getbootstrap.com/">Bootstrap 4</a>
-      theme
-      <a href="https://bootswatch.com/lux/">Lux.</a>
+      and the
+      <a href="https://bootswatch.com/lux/">Lux</a>
+      theme from Bootswatch.
       The gallery was made with
       <a href="https://vestride.github.io/Shuffle/">shuffle.js</a>
       and
       <a href="https://github.com/aFarkas/lazysizes">lazysizes.</a>
-      The final product is cobbled together with some rough
+      The data munging and HTML construction is performed by some rough
       <a href="https://github.com/dakvid/30DayMapChallenge">R code.</a>
     </p>
     <h3>Is a FAQ style the best way to structure this page?</h3>
@@ -162,6 +175,9 @@
 
 
 
+<script src="js/jquery-3.3.1.slim.min.js"></script>
+<script src="js/popper-1.14.7.min.js"></script>
+<script src="js/bootstrap-4.3.1.min.js"></script>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </body>
 </html>

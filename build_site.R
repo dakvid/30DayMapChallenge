@@ -11,16 +11,14 @@ library(purrr)
 library(stringr)
 library(htmltools)
 library(ggplot2)
-library(hrbrthemes)
+library(cowplot)
 library(showtext)
 showtext_auto()
 
 font_add_google("Nunito Sans", "nunitosans")
 CHART_FONT <- "nunitosans"
 
-# BS_THEME <- "sketchy"
 BS_THEME <- "lux"
-# BS_THEME <- "superhero"
 source("_template.R", encoding = "UTF-8")
 
 
@@ -97,15 +95,19 @@ index_page <-
     index_header,
     div(class = "row",
         div(class = "col-12",
-            p("There have been so many awesome maps shared as part of #30DayMapChallenge,",
-              "but they've been dispersed across Twitter. I thought I'd try to collate them",
+            p("There were so many awesome maps shared as part of #30DayMapChallenge in November 2019,",
+              "but they were dispersed across Twitter. I thought I'd try to collate them",
               "so they're all in one place and somewhat explorable. I'm looking forward",
               "to catching up on the ones I missed and coming back time and again for",
-              "inspiration. Hopefully you enjoy them to. Thanks to everyone who took part!"),
+              "inspiration. Hopefully you enjoy them too. Thanks to everyone who took part!"),
             h3("Where are the maps?"),
-            p(class = "text-info",
-              "Click through to the", a(href = "maps.html", "map gallery"),
-              "where you can explore all* the maps."),
+            p(span(class = "text-info",
+                  "Click through to the", a(href = "maps.html", "map gallery"),
+                  "where you can explore all* the maps."),
+              "Turning the unstructured data of thousands of tweets (map submissions and random discussion)",
+              "into a structured dataset is naturally a long and partly manual process, so the gallery",
+              "content continues to grow."
+              ),
             p("The interface allows you to filter by challenge days and the",
               "areas being mapped, as well as other metadata - the types of",
               "maps and the tools used (where they've so far been classified).",
@@ -143,7 +145,8 @@ index_page <-
             h3("Can I help complete the metadata for the maps?"),
             p("Yes, of course!",
               "I'm happy to accept corrections to mistakes or additional metadata",
-              "via email (myname at frigge.nz) or",
+              "via email (myname at frigge.nz),",
+              a(href = "https://twitter.com/dakvid", "tweet,"), "or",
               a(href = "https://github.com/dakvid/30DayMapChallenge", "Github"),
               "issues or pull requests."),
             p("If a map is missing from the gallery then it should be in my",
@@ -152,6 +155,9 @@ index_page <-
               "topics, types and tools. My source data file",
               a(href = "https://github.com/dakvid/30DayMapChallenge/blob/master/data/map_classification.tsv", "is here"),
               "- please feel welcome to fill in any of the gaps."),
+            p("Note that I decided to only allow one map per theme/day per person.",
+              "Some people made multiple maps for a theme - generally you can see",
+              "the others if you click through to the original tweet."),
             h3("Who are you?"),
             p("I'm", a(href = "https://david.frigge.nz/about", "David Friggens"),
               a(href="https://twitter.com/dakvid", "(@dakvid)"),
@@ -160,11 +166,11 @@ index_page <-
               "in the second half, but wanted to see more of what everyone else",
               "made as there have been so many amazing maps."),
             h3("How did you make this site?"),
-            p("It's the", a(href = "https://getbootstrap.com/", "Bootstrap 4"),
-              "theme", a(href = "https://bootswatch.com/lux/", "Lux."),
+            p("With", a(href = "https://getbootstrap.com/", "Bootstrap 4"),
+              "and the", a(href = "https://bootswatch.com/lux/", "Lux"), "theme from Bootswatch.",
               "The gallery was made with", a(href="https://vestride.github.io/Shuffle/", "shuffle.js"),
               "and", a(href="https://github.com/aFarkas/lazysizes", "lazysizes."),
-              "The final product is cobbled together with some rough",
+              "The data munging and HTML construction is performed by some rough",
               a(href = "https://github.com/dakvid/30DayMapChallenge", "R code.")),
             h3("Is a FAQ style the best way to structure this page?"),
             p("No, probably not."),
@@ -189,10 +195,15 @@ num_cities <- nrow(cities)-1
 num_maps <- nrow(map_classification)
 
 num_unc_area <- map_classification %>% filter(area == "_") %>% nrow()
+pc_unc_area <- round(num_unc_area / num_maps * 100, 1)
 num_unc_city <- map_classification %>% filter(city == "_") %>% nrow()
+pc_unc_city <- round(num_unc_city / num_maps * 100, 1)
 num_unc_topic <- map_classification %>% filter(topics == "_") %>% nrow()
+pc_unc_topic <- round(num_unc_topic / num_maps * 100, 1)
 num_unc_type <- map_classification %>% filter(types == "_") %>% nrow()
+pc_unc_type <- round(num_unc_type / num_maps * 100, 1)
 num_unc_tool <- map_classification %>% filter(tools == "_") %>% nrow()
+pc_unc_tool <- round(num_unc_tool / num_maps * 100, 1)
 
 
 full30 <- 
@@ -212,13 +223,53 @@ g_challenges <-
   ggplot(aes(x = challenge, y = n)) +
   geom_col() + 
   coord_flip() +
-  theme_ipsum(base_family = CHART_FONT) +
+  theme_minimal_vgrid(font_family = CHART_FONT) +
   labs(x = NULL, y = NULL,
        title = "People who completed each daily map")
 ggsave(filename = "challenge_count.png",
        path = "images/",
        plot = g_challenges,
-       width = 6.5, height = 8, units = "cm")
+       width = 7, height = 5.5, units = "cm")
+
+
+g_countries <- 
+  map_classification %>% 
+  select(area) %>% 
+  filter(area != "_") %>% 
+  separate_rows(area, sep = ",") %>% 
+  count(area) %>% 
+  arrange(desc(n)) %>% 
+  head(20) %>% 
+  mutate(area = area %>% fct_inorder() %>% fct_rev()) %>% 
+  ggplot(aes(x = area, y = n)) +
+  geom_col() +
+  coord_flip() +
+  theme_minimal_vgrid(font_family = CHART_FONT) +
+  labs(x = NULL, y = NULL,
+       title = "Top 20 Map Areas")
+ggsave(filename = "area_count.png",
+       path = "images/",
+       plot = g_countries,
+       width = 7, height = 4, units = "cm")
+
+g_tools <- 
+  map_classification %>% 
+  select(tools) %>% 
+  filter(tools != "_") %>% 
+  separate_rows(tools, sep = ",") %>% 
+  count(tools) %>% 
+  arrange(desc(n)) %>% 
+  mutate(tools = tools %>% fct_inorder() %>% fct_rev()) %>% 
+  ggplot(aes(x = tools, y = n)) +
+  geom_col() +
+  coord_flip() +
+  theme_minimal_vgrid(font_family = CHART_FONT) +
+  labs(x = NULL, y = NULL,
+       title = "Tools Used to Make Maps")
+ggsave(filename = "tool_count.png",
+       path = "images/",
+       plot = g_tools,
+       width = 7, height = 4, units = "cm")
 
 
 # > Page & Save -----------------------------------------------------------
@@ -251,24 +302,38 @@ stats_page <-
                   "just discussion rather than new maps.",
                   "Of those I have indexed, the majority initially only had a day",
                   "assigned (in the interest of time). Currently,",
-                  glue("{round(num_unc_area / num_maps * 100, 1)}% don't have"),
-                  "an area assigned (ie continent or country),",
-                  glue("{round(num_unc_city / num_maps * 100, 1)}% don't have"),
-                  "a city assigned (though many don't need one),",
-                  glue("{round(num_unc_tool / num_maps * 100, 1)}% don't have any tools assigned,"),
-                  glue("{round(num_unc_type / num_maps * 100, 1)}% don't have the type of map assigned, and"),
-                  glue("{round(num_unc_topic / num_maps * 100, 1)}% don't have topics assigned.")),
+                  span(class = "text-danger", glue("{pc_unc_area}%")),
+                  "don't have an area assigned (ie continent or country) and",
+                  span(class = "text-danger", glue("{pc_unc_city}%")),
+                  "don't have a city assigned (though many don't need one);",
+                  "these are usually pretty easily to determine manually (though it's slow) but",
+                  "there's limited scope for automation.",
+                  span(class = "text-danger", glue("{pc_unc_tool}%")),
+                  "don't have any tools assigned; I've automated pretty much all I can here from",
+                  "the tweets so the rest will have to come from the creators.",
+                  span(class = "text-danger", glue("{pc_unc_type}%")),
+                  "don't have the type of map assigned and",
+                  span(class = "text-danger", glue("{pc_unc_topic}%")),
+                  "don't have topics assigned; both of these require manual inspection and assessment",
+                  "which is quite slow."),
                 h3("Daily Themes"),
                 img(src = "images/challenge_count.png"),
                 h3("People"),
-                p(glue("Currently I have {nrow(full30)} people recorded as completing all 30 maps - ",
-                       "{full30 %>% pull(handle) %>% paste0('@', .) %>% paste(collapse = ', ')} - ",
-                       "but that will increase.")),
+                p(glue("Currently I have {nrow(full30)} people recorded as completing all 30 maps,",
+                       "but that will likely increase.")),
+                tags$ul(
+                  full30 %>%
+                    pull(handle) %>%
+                    map(~ tags$li(a(href = glue("https://twitter.com/{.x}/"), glue("@{.x}"))))
+                  ),
                 p(tags$em("I'll aim to identify the location of the map authors, but haven't done that yet.")),
                 h3("Places"),
-                p(tags$em("Best to wait until we have more data.")),
+                p(glue("Bear in mind that only {100 - pc_unc_area}% of the maps have an area assigned,"),
+                  "so this might reflect my interests to start with."),
+                img(src = "images/area_count.png"),
                 h3("Tools"),
-                p(tags$em("Best to wait until we have more data.")),
+                p("Only approximately one third of the tweets mention the tools used."),
+                img(src = "images/tool_count.png"),
                 h3("Map Types"),
                 p(tags$em("Best to wait until we have more data.")),
                 h3("Topics"),
