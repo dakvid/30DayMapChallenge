@@ -206,22 +206,22 @@ AlsuhailFaris	28	Thailand,Cambodia,Vietnam,Laos	_	_	_	_
 AlsuhailFaris	29	Other	_	_	_	Blender
 AlsuhailFaris	30	Finland	Helsinki	_	_	_
 alyne_daluz	02	Italy	Rome	_	_	_
-AMbabani	01	_	_	_	_	_
-AMbabani	02	_	_	_	_	QGIS
-AnalisisGeo	11	_	_	_	_	_
-analytiikka	27	_	_	_	_	_
+AMbabani	01	Uganda	_	_	_	_
+AMbabani	02	Uganda	_	_	_	QGIS
+AnalisisGeo	11	Mexico	_	_	_	_
+analytiikka	27	Finland	_	_	_	_
 Anamhoo	05	_	_	_	_	_
-andrewdc_nz	03	_	_	_	_	QGIS
-andrewdc_nz	04	_	_	_	_	_
-andrewdc_nz	05	_	_	_	_	_
-andrewdc_nz	07	_	_	_	_	QGIS
-andrewdc_nz	10	_	_	_	_	_
-andrewdc_nz	11	_	_	_	_	_
-andrewdc_nz	14	_	_	_	_	_
-andrewdc_nz	15	_	_	_	_	_
-andrewdc_nz	22	_	_	_	_	_
-andrewdc_nz	26	_	_	_	_	_
-andrewdc_nz	28	_	_	_	_	_
+andrewdc_nz	03	New Zealand	Christchurch	_	_	QGIS
+andrewdc_nz	04	New Zealand	_	_	_	_
+andrewdc_nz	05	New Zealand	_	_	_	_
+andrewdc_nz	07	New Zealand	_	_	_	QGIS
+andrewdc_nz	10	New Zealand	_	_	_	_
+andrewdc_nz	11	New Zealand	_	_	_	_
+andrewdc_nz	14	New Zealand	_	_	_	_
+andrewdc_nz	15	New Zealand	_	_	_	_
+andrewdc_nz	22	New Zealand	_	_	_	_
+andrewdc_nz	26	New Zealand	Christchurch	_	_	_
+andrewdc_nz	28	New Zealand	Bulls	_	_	_
 AndrewRenninger	01	_	_	_	_	_
 AndrewRenninger	02	_	_	_	_	R
 AndrewRenninger	03	_	_	_	_	R
@@ -1827,39 +1827,39 @@ lvmgeo	12	_	_	_	_	_
 lyzidiamond	01	_	_	_	_	Mapbox
 lyzidiamond	03	_	_	_	_	QGIS,Mapbox,Leaflet
 lyzidiamond	05	_	_	_	_	Mapbox,Leaflet
-m_michalko	11	_	_	_	_	_
-m_raistr	01	_	_	_	_	_
-m_raistr	02	_	_	_	_	_
-m_raistr	03	_	_	_	_	_
-maartenzam	01	_	_	_	_	_
-maartenzam	02	_	_	_	_	R
-maartenzam	03	_	_	_	_	_
-maartenzam	04	_	_	_	_	R
-maartenzam	05	_	_	_	_	_
-maartenzam	06	_	_	_	_	_
-maartenzam	07	_	_	_	_	_
-maartenzam	09	_	_	_	_	_
-maartenzam	10	_	_	_	_	_
-maartenzam	11	_	_	_	_	_
-maartenzam	12	_	_	_	_	_
-maartenzam	13	_	_	_	_	_
-maartenzam	14	_	_	_	_	_
-maartenzam	15	_	_	_	_	_
-maartenzam	16	_	_	_	_	_
-maartenzam	17	_	_	_	_	_
-maartenzam	18	_	_	_	_	_
-maartenzam	19	_	_	_	_	_
-maartenzam	20	_	_	_	_	_
-maartenzam	21	_	_	_	_	_
-maartenzam	22	_	_	_	_	_
-maartenzam	23	_	_	_	_	_
-maartenzam	24	_	_	_	_	_
-maartenzam	25	_	_	_	_	_
-maartenzam	26	_	_	_	_	_
-maartenzam	27	_	_	_	_	_
-maartenzam	28	_	_	_	_	_
-maartenzam	29	_	_	_	_	_
-maartenzam	30	_	_	_	_	_
+m_michalko	11	Slovakia	_	_	_	_
+m_raistr	01	United Kingdom	_	_	_	_
+m_raistr	02	United Kingdom	_	_	_	_
+m_raistr	03	United Kingdom	_	_	_	_
+maartenzam	01	Europe	_	_	_	_
+maartenzam	02	World	_	_	_	R
+maartenzam	03	Belgium	_	_	_	_
+maartenzam	04	Europe	_	_	_	R
+maartenzam	05	Belgium	_	_	_	_
+maartenzam	06	Belgium	_	_	_	_
+maartenzam	07	World	_	_	_	_
+maartenzam	09	Belgium	Geel	_	_	_
+maartenzam	10	Belgium	Brussels	_	_	_
+maartenzam	11	Belgium	_	_	_	_
+maartenzam	12	Belgium	_	_	_	_
+maartenzam	13	Other	_	_	_	_
+maartenzam	14	Belgium,Netherlands	_	_	_	_
+maartenzam	15	Belgium	_	_	_	_
+maartenzam	16	World	_	_	_	_
+maartenzam	17	Belgium	_	_	_	_
+maartenzam	18	World	_	_	_	_
+maartenzam	19	World	_	_	_	_
+maartenzam	20	Belgium	Diest	_	_	_
+maartenzam	21	Belgium	Diest	_	_	_
+maartenzam	22	Belgium	Diest	_	_	_
+maartenzam	23	Belgium	_	_	_	_
+maartenzam	24	Belgium	_	_	_	_
+maartenzam	25	World	_	_	cartogram	_
+maartenzam	26	Europe	_	_	_	_
+maartenzam	27	Europe	_	_	_	_
+maartenzam	28	Europe	_	_	_	_
+maartenzam	29	Belgium	_	_	_	_
+maartenzam	30	Belgium	_	_	_	_
 mackenzieob210	26	USA	_	_	_	_
 magonza9	01	Chile	Santiago	_	_	_
 magonza9	02	Chile	_	_	_	_
@@ -2122,19 +2122,19 @@ OLjohnel	10	_	_	_	_	_
 OLjohnel	11	_	_	_	_	_
 OLjohnel	12	_	_	_	_	QGIS
 OLjohnel	13	_	_	_	_	_
-onestopmap	02	_	_	_	_	_
-onestopmap	05	_	_	_	_	Photoshop
-onestopmap	10	_	_	_	_	_
-onestopmap	14	_	_	_	_	_
-osornomarcela	24	_	_	_	_	_
-ouzmetee	05	_	_	_	_	QGIS
+onestopmap	02	Netherlands	_	_	_	_
+onestopmap	05	Oceania	_	_	_	Photoshop
+onestopmap	10	USA	_	_	_	_
+onestopmap	14	Belgium,Netherlands	_	_	_	_
+osornomarcela	24	Mexico	_	_	_	_
+ouzmetee	05	Turkey	Istanbul	_	_	QGIS
 owenjpowell	04	_	_	_	_	Blender
-owenjpowell	07	_	_	_	_	Blender
+owenjpowell	07	United Kingdom	_	_	_	Blender
 owenjpowell	08	_	_	_	_	Blender
-owenjpowell	12	_	_	_	_	Blender
-ozy_man	12	_	_	_	_	_
-Paola_barbarbo	28	_	_	_	_	_
-pascal_n	29	_	_	_	_	_
+owenjpowell	12	United Kingdom	_	_	_	Blender
+ozy_man	12	World,New Zealand	_	_	_	_
+Paola_barbarbo	28	Germany	_	_	_	_
+pascal_n	29	World	_	_	_	_
 patalgura	02	_	_	_	_	_
 patriloto	04	_	_	_	_	R
 pedro_com_es	01	_	_	_	_	_
@@ -2412,10 +2412,10 @@ robert_squared	04	_	_	_	_	_
 robert_squared	05	_	_	_	_	_
 robert_squared	10	_	_	_	_	_
 robert_squared	11	_	_	_	_	_
-robhawkes	02	_	_	_	_	three.js,Inkscape
-robhawkes	03	_	_	_	_	QGIS
-robhawkes	04	_	_	_	_	QGIS
-robhawkes	07	_	_	_	_	QGIS
+robhawkes	02	United Kingdom	London	_	_	three.js,Inkscape
+robhawkes	03	USA	New York	_	_	QGIS
+robhawkes	04	United Kingdom	London	_	_	QGIS
+robhawkes	07	United Kingdom	London	_	_	QGIS
 rojo_neon	07	_	_	_	_	R
 rojo_neon	08	_	_	_	_	R
 rojo_neon	09	_	_	_	_	R
