@@ -1223,35 +1223,35 @@ hansakwast	27	Germany	_	_	_	QGIS
 hansakwast	30	Netherlands	Rotterdam	_	_	QGIS,three.js,Inkscape
 HarelDan	04	_	_	_	_	_
 Havegum	02	_	_	_	_	_
-HeikkiVesanto	01	_	_	_	_	_
-HeikkiVesanto	03	_	_	_	_	_
-HeikkiVesanto	04	_	_	_	_	_
-HeikkiVesanto	05	_	_	_	_	_
-HeikkiVesanto	06	_	_	_	_	_
-HeikkiVesanto	07	_	_	_	_	_
-HeikkiVesanto	08	_	_	_	_	_
-HeikkiVesanto	09	_	_	_	_	_
-HeikkiVesanto	10	_	_	_	_	_
-HeikkiVesanto	11	_	_	_	_	_
-HeikkiVesanto	12	_	_	_	_	_
-HeikkiVesanto	13	_	_	_	_	_
-HeikkiVesanto	14	_	_	_	_	_
-HeikkiVesanto	15	_	_	_	_	_
-HeikkiVesanto	16	_	_	_	_	_
-HeikkiVesanto	17	_	_	_	_	_
-HeikkiVesanto	18	_	_	_	_	_
-HeikkiVesanto	19	_	_	_	_	_
-HeikkiVesanto	20	_	_	_	_	_
-HeikkiVesanto	21	_	_	_	_	_
-HeikkiVesanto	22	_	_	_	_	_
-HeikkiVesanto	23	_	_	_	_	_
-HeikkiVesanto	24	_	_	_	_	_
-HeikkiVesanto	25	_	_	_	_	_
-HeikkiVesanto	26	_	_	_	_	_
-HeikkiVesanto	27	_	_	_	_	_
-HeikkiVesanto	28	_	_	_	_	_
-HeikkiVesanto	29	_	_	_	_	_
-HeikkiVesanto	30	_	_	_	_	_
+HeikkiVesanto	01	Ireland	_	population	dot density	QGIS,PostGIS
+HeikkiVesanto	03	Ireland	Dublin	transport	choropleth	QGIS
+HeikkiVesanto	04	Ireland	_	sport	hexagons	QGIS
+HeikkiVesanto	05	Ireland	_	rainfall	raster	QGIS,GRASS
+HeikkiVesanto	06	Ireland	_	ocean	_	QGIS
+HeikkiVesanto	07	Ireland	Dublin	transport	choropleth	QGIS
+HeikkiVesanto	08	Ireland	Dublin	land use	_	QGIS
+HeikkiVesanto	09	Ireland	Dublin	transport	lines	QGIS
+HeikkiVesanto	10	Ireland	Dublin	pubs	_	QGIS
+HeikkiVesanto	11	Ireland	_	elevation	contour	QGIS
+HeikkiVesanto	12	Ireland	Dublin	transport	animation	QGIS
+HeikkiVesanto	13	Ireland	Dublin	transport	lines	QGIS
+HeikkiVesanto	14	Ireland	_	transport	lines	QGIS
+HeikkiVesanto	15	World	_	placenames	_	QGIS
+HeikkiVesanto	16	United Kingdom	London	transport	_	QGIS,PostGIS
+HeikkiVesanto	17	Ireland	_	_	_	QGIS
+HeikkiVesanto	18	World	_	sport	_	QGIS
+HeikkiVesanto	19	Ireland	Dublin	streets	_	QGIS
+HeikkiVesanto	20	Ireland	_	transport	lines	QGIS
+HeikkiVesanto	21	Europe	_	animals	_	QGIS
+HeikkiVesanto	22	Ireland	Dublin	buildings	3D	Aerialod
+HeikkiVesanto	23	Ireland	Dublin	population	dot density	QGIS
+HeikkiVesanto	24	Ireland	Dublin	transport	points	QGIS,PostGIS
+HeikkiVesanto	25	North America	_	weather	lines	QGIS
+HeikkiVesanto	26	Scotland	Glasgow	water	_	QGIS
+HeikkiVesanto	27	United Kingdom	_	_	_	QGIS
+HeikkiVesanto	28	United Kingdom	London	_	_	QGIS
+HeikkiVesanto	29	Scotland	_	_	animation	D3
+HeikkiVesanto	30	Ireland	_	_	lego	QGIS
 HelenOfStow	01	_	_	_	_	_
 HelenOfStow	02	_	_	_	_	_
 HelenOfStow	03	_	_	_	_	_
