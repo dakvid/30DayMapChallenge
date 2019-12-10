@@ -121,7 +121,7 @@ stats_header_nav <- '
     <div class="collapse navbar-collapse" id="navbarColor01">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item">
-          <a class="nav-link" href="/">Intro</a>
+          <a class="nav-link" href="index.html">Intro</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="maps.html">Map Gallery</a>
@@ -188,7 +188,7 @@ maps_header_nav <- '
     <div class="collapse navbar-collapse" id="navbarColor01">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item">
-          <a class="nav-link" href="/">Intro</a>
+          <a class="nav-link" href="index.html">Intro</a>
         </li>
         <li class="nav-item active">
           <a class="nav-link" href="#">Map Gallery <span class="sr-only">(current)</span></a>
