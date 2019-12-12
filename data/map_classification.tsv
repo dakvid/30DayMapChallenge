@@ -202,6 +202,7 @@ AllisonCully	24	World	_	health	choropleth	_
 AllisonCully	25	Arctic	_	climate	animation	ArcGIS
 AllisonCully	26	USA	_	_	_	ArcGIS
 AllisonCully	27	USA	_	_	_	ArcGIS
+AllisonCully	28	Other	_	_	_	_
 AllisonCully	29	Canada	_	_	_	ArcGIS
 AllisonCully	30	Canada	_	_	_	hand drawn
 AlsuhailFaris	01	Finland	Helsinki	_	_	_
@@ -286,115 +287,115 @@ andy_rutkowski	07	_	_	_	_	_
 andy_rutkowski	08	_	_	_	_	_
 andy_rutkowski	09	_	_	_	_	_
 andy_rutkowski	10	_	_	_	_	_
-anlugonz	03	_	_	_	_	QGIS
-anlugonz	05	_	_	_	_	_
-anlugonz	06	_	_	_	_	_
-anlugonz	10	_	_	_	_	_
-AnthonyJohnG	12	_	_	_	_	_
-antoaasa	01	_	_	_	_	_
-antoaasa	02	_	_	_	_	_
-antoaasa	03	_	_	_	_	_
-antoaasa	04	_	_	_	_	_
-antoaasa	05	_	_	_	_	_
-antoaasa	06	_	_	_	_	_
-antoaasa	07	_	_	_	_	_
-antoaasa	08	_	_	_	_	_
-antoaasa	09	_	_	_	_	_
-antoaasa	10	_	_	_	_	_
-antoaasa	11	_	_	_	_	_
-antoaasa	12	_	_	_	_	_
-AntoinePeris	07	_	_	_	_	_
-AntonyBarja1	01	_	_	_	_	_
-AntonyBarja1	03	_	_	_	_	QGIS
+anlugonz	03	Colombia	_	_	_	QGIS
+anlugonz	05	Colombia	_	_	_	_
+anlugonz	06	Colombia	_	_	_	_
+anlugonz	10	Colombia	Bogotá	_	_	_
+AnthonyJohnG	12	United Kingdom	_	_	_	_
+antoaasa	01	Georgia	Tbilisi	_	_	_
+antoaasa	02	Estonia	_	_	_	_
+antoaasa	03	Estonia	_	_	_	_
+antoaasa	04	Estonia	Tartu	_	_	_
+antoaasa	05	Estonia	Tartu	_	_	_
+antoaasa	06	Estonia	_	_	_	_
+antoaasa	07	Estonia	_	_	_	_
+antoaasa	08	Estonia	_	_	_	_
+antoaasa	09	Estonia	_	_	_	_
+antoaasa	10	Estonia	_	_	_	_
+antoaasa	11	Estonia	_	_	_	_
+antoaasa	12	Estonia	Tartu	_	_	_
+AntoinePeris	07	France	_	_	_	_
+AntonyBarja1	01	Peru	_	_	_	QGIS
+AntonyBarja1	02	_	_	_	_	QGIS
 AppDemography	03	_	_	_	_	_
-aptx4869yuyang	04	_	_	_	_	_
-aptx4869yuyang	07	_	_	_	_	_
-aptx4869yuyang	13	_	_	_	_	_
-Arash_Hajikhani	04	_	_	_	_	_
-arevaju	04	_	_	_	_	_
-arevaju	05	_	_	_	_	_
-Arnold_Platon	01	_	_	_	_	_
-Arnold_Platon	15	_	_	_	_	_
-Arnold_Platon	17	_	_	_	_	_
-Arnold_Platon	18	_	_	_	_	_
-Arnold_Platon	19	_	_	_	_	_
-Arnold_Platon	22	_	_	_	_	_
-Arnold_Platon	23	_	_	_	_	_
-Arnold_Platon	24	_	_	_	_	_
-Arnold_Platon	28	_	_	_	_	_
-Artisans_Cartos	01	_	_	_	_	_
-Artisans_Cartos	02	_	_	_	_	_
-Artisans_Cartos	03	_	_	_	_	_
-Artisans_Cartos	04	_	_	_	_	_
-Artisans_Cartos	05	_	_	_	_	_
-Artisans_Cartos	06	_	_	_	_	_
-Artisans_Cartos	07	_	_	_	_	_
-Artisans_Cartos	08	_	_	_	_	_
-Artisans_Cartos	09	_	_	_	_	_
-Artisans_Cartos	10	_	_	_	_	_
-Artisans_Cartos	11	_	_	_	_	_
-Artisans_Cartos	14	_	_	_	_	_
-aschiff	01	_	_	_	_	_
-aschiff	02	_	_	_	_	_
-aschiff	03	_	_	_	_	_
-aschiff	04	_	_	_	_	_
-aschiff	05	_	_	_	_	_
-aschiff	06	_	_	_	_	_
-aschiff	07	_	_	_	_	_
-aschiff	08	_	_	_	_	_
-aschiff	09	_	_	_	_	_
-aschiff	10	_	_	_	_	_
-aschiff	11	_	_	_	_	_
-aschiff	12	_	_	_	_	_
-aschiff	13	_	_	_	_	D3.js
-aschiff	14	_	_	_	_	_
-aschiff	15	_	_	_	_	_
-aschiff	16	_	_	_	_	_
-aschiff	17	_	_	_	_	_
-aschiff	18	_	_	_	_	_
-aschiff	19	_	_	_	_	_
-aschiff	20	_	_	_	_	_
-aschiff	21	_	_	_	_	_
-atdodkonfektes	01	_	_	_	_	_
-atdodkonfektes	02	_	_	_	_	_
+aptx4869yuyang	04	China	Beijing	_	_	_
+aptx4869yuyang	07	World	_	_	_	_
+aptx4869yuyang	13	Asia	_	_	_	_
+Arash_Hajikhani	04	Finland	_	_	_	_
+arevaju	04	Burkina Faso	_	_	_	_
+arevaju	05	Europe	_	_	_	_
+Arnold_Platon	01	Europe	_	_	_	_
+Arnold_Platon	15	Romania	Oradea	_	_	_
+Arnold_Platon	17	World	_	_	_	_
+Arnold_Platon	18	World	_	_	_	_
+Arnold_Platon	19	Romania	Oradea	_	_	_
+Arnold_Platon	22	Romania	Oradea	_	animation	_
+Arnold_Platon	23	Romania	Oradea	_	_	_
+Arnold_Platon	24	Europe	_	_	_	_
+Arnold_Platon	28	Romania	Oradea	_	_	_
+Artisans_Cartos	01	France	_	_	_	_
+Artisans_Cartos	02	France	_	_	_	_
+Artisans_Cartos	03	France	_	_	_	_
+Artisans_Cartos	04	France	_	_	_	_
+Artisans_Cartos	05	France	_	_	_	_
+Artisans_Cartos	06	France	_	_	_	_
+Artisans_Cartos	07	France	_	_	_	_
+Artisans_Cartos	08	France	_	_	_	_
+Artisans_Cartos	09	France	_	_	_	_
+Artisans_Cartos	10	France	_	_	_	_
+Artisans_Cartos	11	France	_	_	_	_
+Artisans_Cartos	14	France	_	_	_	_
+aschiff	01	New Zealand	Auckland	_	_	_
+aschiff	02	New Zealand	_	_	_	_
+aschiff	03	New Zealand	Auckland	_	_	_
+aschiff	04	New Zealand	_	_	_	_
+aschiff	05	New Zealand	_	_	_	_
+aschiff	06	New Zealand	_	_	_	_
+aschiff	07	New Zealand	Auckland	_	_	_
+aschiff	08	New Zealand	_	_	_	_
+aschiff	09	World	_	_	_	_
+aschiff	10	New Zealand	_	_	_	_
+aschiff	11	New Zealand	_	_	_	_
+aschiff	12	World	_	_	_	_
+aschiff	13	Oceania	_	climate	_	R
+aschiff	14	New Zealand	Auckland	_	_	_
+aschiff	15	New Zealand	_	_	_	_
+aschiff	16	New Zealand	_	_	_	_
+aschiff	17	New Zealand	Auckland	_	_	_
+aschiff	18	New Zealand	Auckland,Wellington,Christchurch,Dunedin	_	_	_
+aschiff	19	New Zealand	Auckland	_	_	_
+aschiff	20	New Zealand	Auckland	_	_	_
+aschiff	21	New Zealand	_	_	_	_
+atdodkonfektes	01	Latvia	Riga	_	_	_
+atdodkonfektes	02	Latvia	_	_	_	_
 atdodkonfektes	03	_	_	_	_	_
-atdodkonfektes	04	_	_	_	_	_
-atdodkonfektes	05	_	_	_	_	_
-atdodkonfektes	06	_	_	_	_	_
-atdodkonfektes	07	_	_	_	_	QGIS
-atdodkonfektes	08	_	_	_	_	_
-atdodkonfektes	09	_	_	_	_	_
-atdodkonfektes	10	_	_	_	_	_
-atdodkonfektes	11	_	_	_	_	_
-atdodkonfektes	12	_	_	_	_	_
-atdodkonfektes	13	_	_	_	_	_
-atdodkonfektes	14	_	_	_	_	_
-atdodkonfektes	15	_	_	_	_	_
-atdodkonfektes	16	_	_	_	_	_
-atdodkonfektes	17	_	_	_	_	_
-atdodkonfektes	18	_	_	_	_	Blender
-atdodkonfektes	19	_	_	_	_	_
-atdodkonfektes	20	_	_	_	_	_
-atdodkonfektes	21	_	_	_	_	_
-atdodkonfektes	22	_	_	_	_	_
-atdodkonfektes	23	_	_	_	_	_
-atdodkonfektes	24	_	_	_	_	_
-atdodkonfektes	25	_	_	_	_	_
-atdodkonfektes	26	_	_	_	_	_
-atdodkonfektes	27	_	_	_	_	_
-atdodkonfektes	28	_	_	_	_	_
-atdodkonfektes	29	_	_	_	_	_
-atdodkonfektes	30	_	_	_	_	_
-AurelienChaumet	01	_	_	_	_	_
-AurelienChaumet	03	_	_	_	_	QGIS
-AurelienChaumet	05	_	_	_	_	_
-AurelienChaumet	06	_	_	_	_	QGIS
-AurelienChaumet	10	_	_	_	_	_
-AurelienChaumet	12	_	_	_	_	QGIS
-AyrtonBourn	01	_	_	_	_	_
-AyrtonBourn	27	_	_	_	_	_
-azolnai	11	_	_	_	_	_
-azolnai	21	_	_	_	_	_
+atdodkonfektes	04	Latvia	_	_	_	_
+atdodkonfektes	05	Latvia	_	_	_	_
+atdodkonfektes	06	Latvia	_	_	_	_
+atdodkonfektes	07	Latvia	Riga	_	_	QGIS
+atdodkonfektes	08	Latvia	Riga	_	_	_
+atdodkonfektes	09	Latvia	_	crime	_	_
+atdodkonfektes	10	Latvia	_	_	_	_
+atdodkonfektes	11	Latvia	_	_	_	_
+atdodkonfektes	12	Latvia	_	_	_	_
+atdodkonfektes	13	Latvia	Gulbene	_	_	_
+atdodkonfektes	14	Latvia,Russia	_	_	_	_
+atdodkonfektes	15	Latvia	_	_	_	_
+atdodkonfektes	16	Latvia	Ventspils	_	_	_
+atdodkonfektes	17	Latvia	_	_	_	_
+atdodkonfektes	18	World	_	_	_	Blender
+atdodkonfektes	19	Latvia	Riga	_	_	_
+atdodkonfektes	20	Latvia	_	_	_	_
+atdodkonfektes	21	Latvia	_	_	_	_
+atdodkonfektes	22	Latvia	Riga	_	_	_
+atdodkonfektes	23	Latvia	Jūrmala	_	_	_
+atdodkonfektes	24	Latvia	_	_	_	_
+atdodkonfektes	25	Latvia	_	_	_	_
+atdodkonfektes	26	Latvia	_	_	_	_
+atdodkonfektes	27	Latvia	_	_	_	_
+atdodkonfektes	28	Latvia	_	_	_	_
+atdodkonfektes	29	Latvia	_	_	_	_
+atdodkonfektes	30	Other	_	_	_	_
+AurelienChaumet	01	France	_	_	_	_
+AurelienChaumet	03	France	_	_	_	QGIS
+AurelienChaumet	05	France	_	_	_	_
+AurelienChaumet	06	France	_	_	_	QGIS
+AurelienChaumet	10	France	_	_	_	_
+AurelienChaumet	12	France	_	_	_	QGIS
+AyrtonBourn	01	United Kingdom	_	_	_	_
+AyrtonBourn	27	South Africa	_	_	_	_
+azolnai	11	United Kingdom	_	_	_	_
+azolnai	21	United Kingdom	_	_	_	_
 bbroex	01	_	_	_	_	_
 bbroex	02	_	_	_	_	_
 bbroex	03	_	_	_	_	_
@@ -437,8 +438,8 @@ benfriin	23	_	_	_	_	_
 benfriin	24	_	_	_	_	QGIS
 benfriin	25	_	_	_	_	QGIS
 benfriin	26	_	_	_	_	_
-BethJackson1x	07	_	_	_	_	_
-BethJackson1x	17	_	_	_	_	_
+BethJackson1x	07	World	_	_	_	_
+BethJackson1x	17	India,Bangladesh,Myanmar	_	administrative boundaries	_	_
 bettermeasured	01	_	_	_	_	_
 bettermeasured	02	_	_	_	_	R
 bettermeasured	03	_	_	_	_	R
@@ -595,46 +596,46 @@ cartiqomaps	08	_	_	_	_	QGIS,Inkscape
 cartiqomaps	11	_	_	_	_	QGIS
 cartiqomaps	12	_	_	_	_	D3.js
 cartiqomaps	13	_	_	_	_	QGIS
-cartocalypse	02	_	_	_	_	_
-cartocalypse	03	_	_	_	_	QGIS
-cartocalypse	04	_	_	_	_	QGIS
-cartocalypse	15	_	_	_	_	_
+cartocalypse	02	Germany	Hamburg	_	_	QGIS
+cartocalypse	03	Switzerland	_	_	lego	QGIS
+cartocalypse	04	_	_	_	animation	QGIS
+cartocalypse	15	Germany	_	names	interactive	_
 cartocalypse	29	_	_	_	_	_
-CatastroBogota	05	_	_	_	_	_
-CatastroBogota	06	_	_	_	_	_
-CatastroBogota	07	_	_	_	_	_
-CatastroBogota	08	_	_	_	_	_
-CatastroBogota	13	_	_	_	_	_
-CatastroBogota	14	_	_	_	_	_
-CatastroBogota	20	_	_	_	_	_
-Cchurchili	01	_	_	_	_	ArcGIS
-Cchurchili	02	_	_	_	_	ArcGIS
-Cchurchili	03	_	_	_	_	_
-Cchurchili	04	_	_	_	_	Photoshop
-Cchurchili	05	_	_	_	_	_
-Cchurchili	06	_	_	_	_	D3.js
-Cchurchili	07	_	_	_	_	QGIS
-Cchurchili	08	_	_	_	_	Photoshop
-Cchurchili	09	_	_	_	_	_
-Cchurchili	10	_	_	_	_	QGIS,Photoshop
-Cchurchili	11	_	_	_	_	QGIS
-Cchurchili	12	_	_	_	_	_
-Cchurchili	13	_	_	_	_	_
-Cchurchili	14	_	_	_	_	_
-Cchurchili	15	_	_	_	_	_
-Cchurchili	17	_	_	_	_	QGIS
-Cchurchili	19	_	_	_	_	Mapbox
-Cchurchili	20	_	_	_	_	_
-Cchurchili	21	_	_	_	_	Photoshop,Mapbox
-Cchurchili	22	_	_	_	_	Photoshop,Mapbox
-Cchurchili	23	_	_	_	_	_
-Cchurchili	24	_	_	_	_	Photoshop,Mapbox
-Cchurchili	25	_	_	_	_	_
-Cchurchili	26	_	_	_	_	_
-Cchurchili	27	_	_	_	_	_
-Cchurchili	28	_	_	_	_	_
-Cchurchili	29	_	_	_	_	_
-Cchurchili	30	_	_	_	_	_
+CatastroBogota	05	Colombia	Bogotá	_	_	_
+CatastroBogota	06	Colombia	Bogotá	_	_	_
+CatastroBogota	07	Colombia	Bogotá	_	_	_
+CatastroBogota	08	Colombia	Bogotá	_	_	_
+CatastroBogota	13	Colombia	Bogotá	_	_	_
+CatastroBogota	14	Colombia	Bogotá	_	_	_
+CatastroBogota	20	Colombia	Bogotá	_	_	_
+Cchurchili	01	Europe	_	_	_	ArcGIS
+Cchurchili	02	USA	_	_	_	ArcGIS
+Cchurchili	03	USA	Denver	_	_	_
+Cchurchili	04	Other	_	_	_	Photoshop
+Cchurchili	05	Mexico	_	administrative boundaries,history	_	_
+Cchurchili	06	Iceland	_	_	_	D3.js
+Cchurchili	07	New Zealand	_	_	_	QGIS
+Cchurchili	08	Ireland	_	_	_	Photoshop
+Cchurchili	09	USA	_	_	_	_
+Cchurchili	10	Spain,Portugal	_	history	_	QGIS,Photoshop
+Cchurchili	11	Philippines	_	_	_	QGIS
+Cchurchili	12	USA	_	_	_	_
+Cchurchili	13	Mali	_	history	_	_
+Cchurchili	14	Europe	_	history,administrative boundaries	animation	QGIS,Photoshop
+Cchurchili	15	Norway,Sweden,Finland,Russia	_	_	_	hand drawn
+Cchurchili	17	USA	_	_	_	QGIS
+Cchurchili	19	USA	_	_	_	Mapbox
+Cchurchili	20	USA	_	_	_	_
+Cchurchili	21	Paraguay	_	_	_	Photoshop,Mapbox
+Cchurchili	22	Zambia	_	_	_	Photoshop,Mapbox
+Cchurchili	23	Oman	_	_	_	_
+Cchurchili	24	Estonia	Tallinn	_	_	Photoshop,Mapbox
+Cchurchili	25	Asia,Oceania	_	_	_	_
+Cchurchili	26	Suriname	_	_	_	_
+Cchurchili	27	Uzbekistan	_	_	_	_
+Cchurchili	28	New Zealand	_	_	_	_
+Cchurchili	29	Lesotho	_	_	_	_
+Cchurchili	30	USA	_	_	_	_
 CedScherer	01	_	_	_	_	_
 CedScherer	02	_	_	_	_	_
 CedScherer	03	_	_	_	_	R
@@ -1747,9 +1748,9 @@ josephlewis1992	01	China	_	_	_	_
 josephlewis1992	02	United Kingdom	_	_	_	_
 josephlewis1992	03	United Kingdom	_	_	_	_
 josephlewis1992	04	China	_	_	_	_
-joshua_sumers	04	_	_	_	_	_
+joshua_sumers	04	USA	_	_	_	_
 joshua_sumers	05	USA	_	_	_	_
-joshua_sumers	09	_	_	_	_	_
+joshua_sumers	09	Ecuador	_	land use	_	_
 Juanizio_C	01	Chile	Santiago	_	_	_
 Juanizio_C	02	Chile	Santiago	_	_	_
 Juanizio_C	03	Chile	Santiago	_	_	_
@@ -1846,7 +1847,7 @@ Kaihopu	06	_	_	_	_	_
 Kaihopu	11	_	_	_	_	_
 karim_douieb	01	World	_	_	_	_
 karim_douieb	02	Belgium,Netherlands	Brussels,Amsterdam	_	_	_
-karim_douieb	03	USA,Belgium,United Kingdom,Germany,Netherlands,France,Canada,Italy,Japan,India,Egypt,Australia,South Africa,Mexico,Brazil	San Francisco,Brussels,New York,London,Berlin,Amsterdam,Paris,Montreal,Rome,Tokyo,New Delhi,Cairo,Sydney,Johannesburg,Mexico City,São Paulo	_	_	Mapbox
+karim_douieb	03	USA,Belgium,United Kingdom,Germany,Netherlands,France,Canada,Italy,Japan,India,Egypt,Australia,South Africa,Mexico,Brazil	San Francisco,Brussels,New York City,London,Berlin,Amsterdam,Paris,Montreal,Rome,Tokyo,New Delhi,Cairo,Sydney,Johannesburg,Mexico City,São Paulo	_	_	Mapbox
 karim_douieb	04	USA	_	_	_	_
 karim_douieb	05	_	_	_	_	_
 karim_douieb	06	World	_	_	_	_
@@ -1891,7 +1892,7 @@ kimus_93	05	_	_	_	_	_
 kimus_93	06	_	_	_	_	GIMP
 kimus_93	07	_	_	_	_	_
 kimus_93	08	_	_	_	_	QGIS
-KiriCarini	02	USA	New York	_	_	QGIS,D3.js
+KiriCarini	02	USA	New York City	_	_	QGIS,D3.js
 kiwirebecca	13	New Zealand	Wellington	_	_	_
 knozi1	08	Austria	_	_	_	_
 knozi1	12	Austria	_	_	_	_
@@ -2590,8 +2591,8 @@ prospero021	08	_	_	_	_	QGIS
 prospero021	09	_	_	_	_	QGIS
 prospero021	10	_	_	_	_	QGIS
 prospero021	11	_	_	_	_	QGIS
-rajbhagatt	02	_	_	_	_	_
-rajbhagatt	04	_	_	_	_	_
+rajbhagatt	02	India	_	_	_	_
+rajbhagatt	04	Asia	_	earthquakes	_	_
 ramya_ragupathy	02	India	_	_	_	_
 ramya_ragupathy	04	India	_	_	_	_
 ramya_ragupathy	05	Asia	_	_	_	_
@@ -2608,7 +2609,7 @@ ramya_ragupathy	15	World	_	_	_	_
 ramya_ragupathy	16	India	_	_	_	_
 ramya_ragupathy	17	India	Bengaluru	_	_	_
 ramya_ragupathy	18	World	_	_	_	D3.js
-ramya_ragupathy	19	USA	New York	_	_	_
+ramya_ragupathy	19	USA	New York City	_	_	_
 ramya_ragupathy	20	India	_	_	_	_
 ramya_ragupathy	21	India	_	_	_	_
 ramya_ragupathy	22	USA	Newark	_	_	_
@@ -2678,7 +2679,7 @@ robert_squared	05	_	_	_	_	_
 robert_squared	10	_	_	_	_	_
 robert_squared	11	_	_	_	_	_
 robhawkes	02	United Kingdom	London	_	_	three.js,Inkscape
-robhawkes	03	USA	New York	_	_	QGIS
+robhawkes	03	USA	New York City	_	_	QGIS
 robhawkes	04	United Kingdom	London	_	_	QGIS
 robhawkes	07	United Kingdom	London	_	_	QGIS
 rojo_neon	07	_	_	_	_	R
@@ -2689,11 +2690,11 @@ rojo_neon	14	_	_	_	_	_
 rojo_neon	15	_	_	_	_	_
 rojo_neon	21	_	_	_	_	_
 RomMoyon	04	_	_	_	_	_
-rorich	02	_	_	_	_	_
-rorich	03	_	_	_	_	R
-rorich	04	_	_	_	_	R
-rorich	06	_	_	_	_	R
-rorich	07	_	_	_	_	R
+rorich	02	USA	_	_	_	_
+rorich	03	USA	_	_	_	R
+rorich	04	USA	_	_	_	R
+rorich	06	USA	_	_	_	R
+rorich	07	USA	_	_	_	R
 Rrenzokutai	09	_	_	_	_	_
 rustie5555	01	New Zealand	Wellington	_	_	_
 rustie5555	04	New Zealand	_	_	_	_
@@ -2701,7 +2702,7 @@ rustie5555	14	New Zealand	Auckland	_	_	_
 ruth_mottram	01	Greenland	_	_	_	_
 ruth_mottram	26	_	_	_	_	_
 ruydg	19	Mexico	Monterrey	_	_	_
-ryanpkyle	05	USA	New York	_	_	R
+ryanpkyle	05	USA	New York City	_	_	R
 rynbtmn	01	_	_	_	_	_
 Saint_GIS	12	India	_	_	_	_
 Saint_GIS	20	India	_	_	_	_
@@ -2932,8 +2933,8 @@ swiss_geoportal	28	_	_	_	_	_
 swiss_geoportal	29	_	_	_	_	_
 swiss_geoportal	30	_	_	_	_	_
 SzwagrzykMarcin	11	_	_	_	_	_
-Tadusk0	12	_	_	_	_	QGIS
-TastesLike_	28	_	_	_	_	_
+Tadusk0	12	Finland	Helsinki	_	_	QGIS
+TastesLike_	28	France	_	_	_	_
 TeamInteractCA	14	_	_	_	_	_
 TeamInteractCA	19	_	_	_	_	_
 TeamInteractCA	22	_	_	_	_	_
@@ -2956,17 +2957,17 @@ TeemuSaloriutta	23	_	_	_	_	_
 TeemuSaloriutta	24	_	_	_	_	_
 TeemuSaloriutta	26	_	_	_	_	_
 The_Martini_Cat	01	_	_	_	_	_
-TheAgermeister	01	_	_	_	_	_
-TheAgermeister	02	_	_	_	_	_
-thecristen	01	_	_	_	_	_
-theworksla	01	_	_	_	_	_
-theworksla	02	_	_	_	_	_
-ThomasBanafa	01	_	_	_	_	_
-ThomasBanafa	02	_	_	_	_	_
-ThomasBanafa	04	_	_	_	_	_
-ThomasBanafa	12	_	_	_	_	QGIS,GIMP,PostGIS
-ThomasBanafa	15	_	_	_	_	QGIS
-ThomasBanafa	26	_	_	_	_	QGIS
+TheAgermeister	01	Netherlands	_	_	_	_
+TheAgermeister	02	USA	_	_	_	_
+thecristen	01	World	_	_	_	_
+theworksla	01	USA	Los Angeles	_	_	_
+theworksla	02	USA	Los Angeles	_	_	_
+ThomasBanafa	01	Finland	_	_	_	_
+ThomasBanafa	02	Finland	_	_	_	_
+ThomasBanafa	04	Finland	_	_	_	_
+ThomasBanafa	12	Finland	_	_	_	QGIS,GIMP,PostGIS
+ThomasBanafa	15	Finland	Helsinki	_	_	QGIS
+ThomasBanafa	26	Finland	Helsinki	_	_	QGIS
 ThomasG77	02	_	_	_	_	QGIS
 ThomasG77	03	_	_	_	_	QGIS
 ThomasG77	04	_	_	_	_	QGIS
@@ -2984,22 +2985,22 @@ ThomasG77	16	_	_	_	_	_
 ThomasG77	17	_	_	_	_	_
 ThomasG77	19	_	_	_	_	_
 ThomasG77	20	_	_	_	_	_
-Thoughtfulnz	03	_	_	_	_	_
-Thoughtfulnz	04	_	_	_	_	_
-Thoughtfulnz	09	_	_	_	_	_
-Thoughtfulnz	10	_	_	_	_	_
-Thoughtfulnz	11	_	_	_	_	_
-Thoughtfulnz	16	_	_	_	_	R
-Thoughtfulnz	17	_	_	_	_	_
-Thoughtfulnz	18	_	_	_	_	_
-Thoughtfulnz	23	_	_	_	_	_
-Thoughtfulnz	24	_	_	_	_	_
-Thoughtfulnz	25	_	_	_	_	_
-Thoughtfulnz	28	_	_	_	_	_
-Thoughtfulnz	29	_	_	_	_	R
-thoughtisdead	01	_	_	_	_	_
-thoughtisdead	02	_	_	_	_	_
-thoughtisdead	03	_	_	_	_	_
+Thoughtfulnz	03	New Zealand	_	_	_	R
+Thoughtfulnz	04	New Zealand	_	_	_	R
+Thoughtfulnz	09	New Zealand	_	animals	_	R
+Thoughtfulnz	10	New Zealand	_	_	_	R
+Thoughtfulnz	11	New Zealand	_	_	_	r
+Thoughtfulnz	16	New Zealand	_	_	_	R
+Thoughtfulnz	17	New Zealand	_	_	_	r
+Thoughtfulnz	18	World,New Zealand	_	_	_	R
+Thoughtfulnz	23	New Zealand	_	_	_	R
+Thoughtfulnz	24	New Zealand	_	_	_	R
+Thoughtfulnz	25	Oceania	_	_	_	R
+Thoughtfulnz	28	New Zealand	_	_	_	R
+Thoughtfulnz	29	Other	_	_	_	R
+thoughtisdead	01	India	_	_	_	_
+thoughtisdead	02	World	_	_	_	_
+thoughtisdead	03	India	_	_	_	_
 TimStOnge	01	_	_	_	_	D3.js
 TimStOnge	02	_	_	_	_	_
 TimStOnge	03	_	_	_	_	_
@@ -3084,6 +3085,7 @@ TSThrondsen	05	Norway	Oslo	_	_	_
 ttso	01	_	_	_	_	_
 ttso	02	_	_	_	_	_
 ttso	03	_	_	_	_	R
+ttso	04	Finland	Helsinki	_	_	_
 ttso	05	_	_	_	_	QGIS,R,Leaflet
 ttso	06	_	_	_	_	R,Leaflet
 ttso	07	_	_	_	_	R
@@ -3257,24 +3259,23 @@ XyCarto	19	_	_	_	_	_
 XyCarto	20	_	_	_	_	QGIS
 XyCarto	22	_	_	_	_	QGIS
 yanncabon	23	_	_	_	_	ArcGIS
-yavannie24	02	_	_	_	_	_
-yavannie24	03	_	_	_	_	_
-yavannie24	04	_	_	_	_	_
-yavannie24	06	_	_	_	_	_
-yavannie24	07	_	_	_	_	_
-yavannie24	08	_	_	_	_	_
-yavannie24	09	_	_	_	_	_
-yavannie24	10	_	_	_	_	_
-yavannie24	11	_	_	_	_	_
-yavannie24	13	_	_	_	_	_
-yavannie24	14	_	_	_	_	_
-yavannie24	15	_	_	_	_	_
-yavannie24	16	_	_	_	_	_
-yavannie24	17	_	_	_	_	_
-yavannie24	18	_	_	_	_	_
-yavannie24	19	_	_	_	_	_
-yavannie24	20	_	_	_	_	_
-yuxtap	16	_	_	_	_	_
+yavannie24	02	USA	Salt Lake City	_	_	_
+yavannie24	03	Iceland	_	_	_	_
+yavannie24	04	USA	_	_	_	_
+yavannie24	06	Central America	_	_	lego	_
+yavannie24	07	USA	_	_	_	_
+yavannie24	08	Greenland	_	_	_	_
+yavannie24	09	China	_	_	_	_
+yavannie24	10	Peru	_	_	_	_
+yavannie24	11	Canada	_	_	_	_
+yavannie24	13	USA	_	_	_	_
+yavannie24	14	USA	_	_	_	_
+yavannie24	15	New Zealand	_	_	_	_
+yavannie24	17	United Kingdom	_	_	_	_
+yavannie24	18	Antarctica	_	_	_	_
+yavannie24	19	USA	New York City	_	_	_
+yavannie24	20	Canada	_	_	_	_
+yuxtap	16	World	_	_	_	_
 zentree	01	New Zealand	_	_	points	R
 zentree	02	Chile	Valparaíso	_	lines	R
 zentree	03	Chile	_	_	choropleth	R

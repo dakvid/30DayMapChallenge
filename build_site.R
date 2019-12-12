@@ -319,8 +319,8 @@ stats_page <-
                 h3("Daily Themes"),
                 img(src = "images/challenge_count.png"),
                 h3("People"),
-                p(glue("Currently I have {nrow(full30)} people recorded as completing all 30 maps,",
-                       "but that will likely increase.")),
+                p(glue("There were {nrow(full30)} people who managed the massive task of creating all 30 maps!",
+                       "(If you're not on this list and should be then let me know!)")),
                 tags$ul(
                   full30 %>%
                     pull(handle) %>%
@@ -565,7 +565,7 @@ maps_filter_challenge_2130 <-
 maps_filter_area_continent <- 
     div(class = "col-12@sm",
         div(class = "dropdown",
-            tags$button(class = "btn btn-secondary dropdown-toggle",
+            tags$button(class = "btn btn-info dropdown-toggle",
                         type = "button",
                         id = "FilterAreaContinent",
                         `data-toggle` = "dropdown",
@@ -588,7 +588,7 @@ maps_filter_area_continent <-
 maps_filter_area_country_AF <- 
   div(class = "col-12@sm",
       div(class = "dropdown",
-          tags$button(class = "btn btn-secondary dropdown-toggle",
+          tags$button(class = "btn btn-info dropdown-toggle",
                       type = "button",
                       id = "FilterAreaCountryAF",
                       `data-toggle` = "dropdown",
@@ -609,7 +609,7 @@ maps_filter_area_country_AF <-
 maps_filter_area_country_GO <- 
   div(class = "col-12@sm",
       div(class = "dropdown",
-          tags$button(class = "btn btn-secondary dropdown-toggle",
+          tags$button(class = "btn btn-info dropdown-toggle",
                       type = "button",
                       id = "FilterAreaCountryGO",
                       `data-toggle` = "dropdown",
@@ -630,7 +630,7 @@ maps_filter_area_country_GO <-
 maps_filter_area_country_PZ <- 
   div(class = "col-12@sm",
       div(class = "dropdown",
-          tags$button(class = "btn btn-secondary dropdown-toggle",
+          tags$button(class = "btn btn-info dropdown-toggle",
                       type = "button",
                       id = "FilterAreaCountryPZ",
                       `data-toggle` = "dropdown",
@@ -653,20 +653,41 @@ maps_filter_area_country_PZ <-
 
 # > Filter City -----------------------------------------------------------
 
-maps_filter_cities_AL <- 
+maps_filter_cities_AC <- 
   div(class = "col-12@sm",
       div(class = "dropdown",
-          tags$button(class = "btn btn-secondary dropdown-toggle",
+          tags$button(class = "btn btn-info dropdown-toggle",
                       type = "button",
-                      id = "FilterCitiesAL",
+                      id = "FilterCitiesAC",
                       `data-toggle` = "dropdown",
                       `aria-haspopup` = "true",
                       `aria-expanded` = "false",
-                      "City A-L"),
+                      "City A-C"),
           div(class = "dropdown-menu mapfilter-city",
-              `aria-labelledby` = "FilterCitiesAL",
+              `aria-labelledby` = "FilterCitiesAC",
               cities %>% 
-                filter(city < "M", city != "_") %>% 
+                filter(city < "D", city != "_") %>% 
+                pmap(~ tags$button(class = "dropdown-item",
+                                   type = "button",
+                                   `data-value` = .x,
+                                   if (.x == "_") { "unclassified" } else { .x }))
+          )
+      )
+  )
+maps_filter_cities_DL <- 
+  div(class = "col-12@sm",
+      div(class = "dropdown",
+          tags$button(class = "btn btn-info dropdown-toggle",
+                      type = "button",
+                      id = "FilterCitiesDL",
+                      `data-toggle` = "dropdown",
+                      `aria-haspopup` = "true",
+                      `aria-expanded` = "false",
+                      "D-L"),
+          div(class = "dropdown-menu mapfilter-city",
+              `aria-labelledby` = "FilterCitiesDL",
+              cities %>% 
+                filter(city > "D", city < "M", city != "_") %>% 
                 pmap(~ tags$button(class = "dropdown-item",
                                    type = "button",
                                    `data-value` = .x,
@@ -677,7 +698,7 @@ maps_filter_cities_AL <-
 maps_filter_cities_MR <- 
   div(class = "col-12@sm",
       div(class = "dropdown",
-          tags$button(class = "btn btn-secondary dropdown-toggle",
+          tags$button(class = "btn btn-info dropdown-toggle",
                       type = "button",
                       id = "FilterCitiesMR",
                       `data-toggle` = "dropdown",
@@ -687,7 +708,7 @@ maps_filter_cities_MR <-
           div(class = "dropdown-menu mapfilter-city",
               `aria-labelledby` = "FilterCitiesMR",
               cities %>% 
-                filter(city > "M", city < "S") %>% 
+                filter(city > "M", city < "S", city != "_") %>% 
                 pmap(~ tags$button(class = "dropdown-item",
                                    type = "button",
                                    `data-value` = .x,
@@ -698,7 +719,7 @@ maps_filter_cities_MR <-
 maps_filter_cities_SZ <- 
   div(class = "col-12@sm",
       div(class = "dropdown",
-          tags$button(class = "btn btn-secondary dropdown-toggle",
+          tags$button(class = "btn btn-info dropdown-toggle",
                       type = "button",
                       id = "FilterCitiesSZ",
                       `data-toggle` = "dropdown",
@@ -724,7 +745,7 @@ maps_filter_cities_SZ <-
 maps_filter_topics <- 
   div(class = "col-12@sm",
       div(class = "dropdown",
-          tags$button(class = "btn btn-info dropdown-toggle",
+          tags$button(class = "btn btn-secondary dropdown-toggle",
                       type = "button",
                       id = "FilterTopics",
                       `data-toggle` = "dropdown",
@@ -749,7 +770,7 @@ maps_filter_topics <-
 maps_filter_types <- 
   div(class = "col-12@sm",
       div(class = "dropdown",
-          tags$button(class = "btn btn-info dropdown-toggle",
+          tags$button(class = "btn btn-secondary dropdown-toggle",
                       type = "button",
                       id = "FilterTypes",
                       `data-toggle` = "dropdown",
@@ -775,7 +796,7 @@ maps_filter_types <-
 maps_filter_tools <- 
   div(class = "col-12@sm",
       div(class = "dropdown",
-          tags$button(class = "btn btn-info dropdown-toggle",
+          tags$button(class = "btn btn-secondary dropdown-toggle",
                       type = "button",
                       id = "FilterTools",
                       `data-toggle` = "dropdown",
@@ -869,7 +890,7 @@ maps_page <-
         div(class = "row",
             maps_filter_challenge_0110, maps_filter_challenge_1120, maps_filter_challenge_2130,
             maps_filter_area_continent, maps_filter_area_country_AF, maps_filter_area_country_GO, maps_filter_area_country_PZ,
-            maps_filter_cities_AL, maps_filter_cities_MR, maps_filter_cities_SZ,
+            maps_filter_cities_AC, maps_filter_cities_DL, maps_filter_cities_MR, maps_filter_cities_SZ,
             ),
         div(class = "row",
             maps_filter_topics,
