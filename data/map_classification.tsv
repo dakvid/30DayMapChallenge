@@ -2989,9 +2989,9 @@ Thoughtfulnz	03	New Zealand	_	_	_	R
 Thoughtfulnz	04	New Zealand	_	_	_	R
 Thoughtfulnz	09	New Zealand	_	animals	_	R
 Thoughtfulnz	10	New Zealand	_	_	_	R
-Thoughtfulnz	11	New Zealand	_	_	_	r
+Thoughtfulnz	11	New Zealand	_	_	_	R
 Thoughtfulnz	16	New Zealand	_	_	_	R
-Thoughtfulnz	17	New Zealand	_	_	_	r
+Thoughtfulnz	17	New Zealand	_	_	_	R
 Thoughtfulnz	18	World,New Zealand	_	_	_	R
 Thoughtfulnz	23	New Zealand	_	_	_	R
 Thoughtfulnz	24	New Zealand	_	_	_	R
@@ -3001,34 +3001,34 @@ Thoughtfulnz	29	Other	_	_	_	R
 thoughtisdead	01	India	_	_	_	_
 thoughtisdead	02	World	_	_	_	_
 thoughtisdead	03	India	_	_	_	_
-TimStOnge	01	_	_	_	_	D3.js
-TimStOnge	02	_	_	_	_	_
-TimStOnge	03	_	_	_	_	_
-TimStOnge	04	_	_	_	_	_
-TimStOnge	05	_	_	_	_	_
-TimStOnge	06	_	_	_	_	_
-TimStOnge	07	_	_	_	_	_
-TimStOnge	08	_	_	_	_	_
-TimStOnge	10	_	_	_	_	_
-TimStOnge	11	_	_	_	_	_
-TimStOnge	12	_	_	_	_	_
-TimStOnge	13	_	_	_	_	_
-TimStOnge	15	_	_	_	_	_
-TimStOnge	16	_	_	_	_	_
-TimStOnge	17	_	_	_	_	_
-TimStOnge	18	_	_	_	_	_
-TimStOnge	19	_	_	_	_	QGIS,three.js,Inkscape
-TimStOnge	20	_	_	_	_	_
-TimStOnge	21	_	_	_	_	QGIS,Mapbox
-TimStOnge	22	_	_	_	_	_
-TimStOnge	23	_	_	_	_	_
-TimStOnge	24	_	_	_	_	_
-TimStOnge	25	_	_	_	_	_
-TimStOnge	26	_	_	_	_	_
-TimStOnge	27	_	_	_	_	_
-TimStOnge	28	_	_	_	_	_
-TimStOnge	29	_	_	_	_	_
-TimStOnge	30	_	_	_	_	_
+TimStOnge	01	USA	_	_	_	D3.js
+TimStOnge	02	USA	Washington DC	_	_	_
+TimStOnge	03	USA	Anchorage	_	_	_
+TimStOnge	04	USA	Fort Myers_	_	_	_
+TimStOnge	05	USA	_	_	_	_
+TimStOnge	06	USA	_	_	_	_
+TimStOnge	07	USA	_	_	_	_
+TimStOnge	08	Cambodia	_	_	_	_
+TimStOnge	10	United Kingdom	_	_	_	_
+TimStOnge	11	USA	_	_	_	_
+TimStOnge	12	USA	_	_	_	_
+TimStOnge	13	Asia,Oceania	_	_	_	_
+TimStOnge	15	USA	_	_	_	_
+TimStOnge	16	USA	_	_	_	_
+TimStOnge	17	USA	Washington DC	_	_	_
+TimStOnge	18	World	_	_	uncommon projections	_
+TimStOnge	19	USA	Philadelphia	_	_	QGIS,three.js
+TimStOnge	20	USA	_	_	_	_
+TimStOnge	21	USA	_	_	_	QGIS,Mapbox
+TimStOnge	22	USA	Chicago	_	_	_
+TimStOnge	23	USA	Syracuse,Rochester	_	_	_
+TimStOnge	24	USA	_	_	_	_
+TimStOnge	25	Asia	_	_	_	_
+TimStOnge	26	Australia	_	_	_	_
+TimStOnge	27	USA	_	_	_	_
+TimStOnge	28	USA	_	_	_	_
+TimStOnge	29	USA	_	_	_	_
+TimStOnge	30	USA	_	_	_	_
 tjukanov	01	Europe	_	population	points	_
 tjukanov	02	Finland	Helsinki	transport	lines,gps	QGIS,PostGIS
 tjukanov	03	Finland	_	_	lego	_
@@ -3069,7 +3069,7 @@ topografen	14	Finland,Sweden	_	_	_	_
 torehalset	01	Norway	_	_	_	_
 torehalset	02	Norway	_	_	_	_
 torehalset	04	Norway	_	_	_	_
-torehalset	05	_	_	_	_	_
+torehalset	05	Norway	_	_	_	_
 torehalset	06	Norway	_	_	_	Mapbox
 torehalset	07	Norway	_	_	_	Mapbox,PostGIS
 torehalset	08	Norway	_	_	_	_
@@ -3082,36 +3082,36 @@ torehalset	14	Norway	Oslo	_	_	_
 torehalset	15	Norway	Kristiansand	_	_	_
 torehalset	16	Norway	_	_	_	_
 TSThrondsen	05	Norway	Oslo	_	_	_
-ttso	01	_	_	_	_	_
-ttso	02	_	_	_	_	_
-ttso	03	_	_	_	_	R
+ttso	01	Finland	Helsinki	_	_	_
+ttso	02	Finland	Helsinki	_	_	_
+ttso	03	Finland	_	_	_	R
 ttso	04	Finland	Helsinki	_	_	_
-ttso	05	_	_	_	_	QGIS,R,Leaflet
-ttso	06	_	_	_	_	R,Leaflet
-ttso	07	_	_	_	_	R
-ttso	08	_	_	_	_	R,Leaflet
-ttso	09	_	_	_	_	R
-ttso	10	_	_	_	_	R
-ttso	11	_	_	_	_	R
-ttso	12	_	_	_	_	R
-ttso	13	_	_	_	_	R
-ttso	14	_	_	_	_	_
-ttso	15	_	_	_	_	_
-ttso	16	_	_	_	_	R
-ttso	17	_	_	_	_	D3.js
-ttso	18	_	_	_	_	D3.js
-ttso	19	_	_	_	_	R
-ttso	20	_	_	_	_	R
-ttso	21	_	_	_	_	_
-ttso	22	_	_	_	_	R
-ttso	23	_	_	_	_	R
-ttso	24	_	_	_	_	R
-ttso	25	_	_	_	_	R,Leaflet
-ttso	26	_	_	_	_	R
-ttso	27	_	_	_	_	R
-ttso	28	_	_	_	_	R
-ttso	29	_	_	_	_	R
-ttso	30	_	_	_	_	R
+ttso	05	Finland	_	_	_	QGIS,R,Leaflet
+ttso	06	Finland	_	_	_	R,Leaflet
+ttso	07	Finland	_	_	_	R
+ttso	08	Finland	_	_	_	R,Leaflet
+ttso	09	Finland	Helsinki	_	_	R
+ttso	10	Finland	_	_	_	R
+ttso	11	Finland	_	_	_	R
+ttso	12	Finland	_	_	_	R
+ttso	13	Finland	Helsinki	_	_	R
+ttso	14	Finland	Helsinki	_	_	_
+ttso	15	Finland	Helsinki	_	_	_
+ttso	16	Finland	_	_	_	R
+ttso	17	Finland	Helsinki	_	_	D3.js
+ttso	18	World	_	_	_	D3.js
+ttso	19	Finland	Helsinki	_	_	R
+ttso	20	Finland	Helsinki	_	_	R
+ttso	21	Finland	Helsinki	_	_	_
+ttso	22	Finland	Helsinki	_	_	R
+ttso	23	Finland	Helsinki	_	_	R
+ttso	24	Finland	Helsinki	_	_	R
+ttso	25	Finland	Helsinki	_	_	R,Leaflet
+ttso	26	Finland	Helsinki	_	_	R
+ttso	27	Finland	Helsinki	_	_	R
+ttso	28	Finland	Helsinki	_	_	R
+ttso	29	Finland	_	_	_	R
+ttso	30	Finland	Helsinki	_	_	R
 tweepsmap	01	_	_	_	_	_
 tweepsmap	03	_	_	_	_	_
 tweepsmap	05	_	_	_	_	_
@@ -3126,9 +3126,9 @@ tweepsmap	15	_	_	_	_	_
 tweepsmap	16	_	_	_	_	_
 tweepsmap	19	_	_	_	_	_
 tweepsmap	21	_	_	_	_	_
-tylermorganwall	06	_	_	_	_	R
-tylermorganwall	11	_	_	_	_	R
-tylermorganwall	30	_	_	_	_	R
+tylermorganwall	06	Other	_	_	_	R
+tylermorganwall	11	Spain,Morocco	_	_	_	R
+tylermorganwall	30	USA	_	_	_	R
 u_ribo	01	_	_	_	_	R
 u_ribo	02	_	_	_	_	_
 u_ribo	03	_	_	_	_	_
@@ -3141,8 +3141,8 @@ u_ribo	09	_	_	_	_	_
 u_ribo	10	_	_	_	_	_
 u_ribo	11	_	_	_	_	_
 u_ribo	12	_	_	_	_	_
-umdfire	21	_	_	_	_	_
-underdarkGIS	13	_	_	_	_	_
+umdfire	21	World	_	_	_	_
+underdarkGIS	13	USA	Boston	_	_	_
 VetleHallas	01	_	_	_	_	_
 VetleHallas	02	_	_	_	_	_
 VetleHallas	03	_	_	_	_	_
@@ -3200,29 +3200,29 @@ Vitali_DiMe	02	_	_	_	_	_
 Vitali_DiMe	03	_	_	_	_	_
 Vitali_DiMe	05	_	_	_	_	_
 Vitali_DiMe	11	_	_	_	_	_
-vivbynyc	01	_	_	_	_	_
-vivbynyc	02	_	_	_	_	_
-vivbynyc	03	_	_	_	_	_
-vizualdatos	01	_	_	_	_	R
-vizualdatos	02	_	_	_	_	R
-vizualdatos	03	_	_	_	_	R
-vizualdatos	04	_	_	_	_	R
-vizualdatos	05	_	_	_	_	R
-vizualdatos	06	_	_	_	_	R
-vlckel	10	_	_	_	_	_
-vlckel	11	_	_	_	_	_
-vlckel	14	_	_	_	_	_
-vlckel	16	_	_	_	_	_
+vivbynyc	01	USA	New York City	_	_	_
+vivbynyc	02	USA	New York City	_	_	_
+vivbynyc	03	USA	New York City	_	_	_
+vizualdatos	01	Colombia	_	_	_	R
+vizualdatos	02	Colombia	_	_	_	R
+vizualdatos	03	Colombia	Bogotá	_	_	R
+vizualdatos	04	Colombia	_	_	_	R
+vizualdatos	05	Colombia	_	_	_	R
+vizualdatos	06	Colombia	_	_	_	R
+vlckel	10	Czech Republic	Ostrava	_	_	_
+vlckel	11	Czech Republic,Poland	_	_	_	_
+vlckel	14	World	_	_	_	_
+vlckel	16	World	_	_	_	_
 volayaf	05	_	_	_	_	_
 volayaf	06	_	_	_	_	_
-volayaf	07	_	_	_	_	_
-volayaf	10	_	_	_	_	_
+volayaf	07	Spain	_	_	_	_
+volayaf	10	Mexico	_	_	_	_
 volayaf	11	_	_	_	_	_
-volayaf	20	_	_	_	_	_
-voybhav	01	_	_	_	_	_
-voybhav	02	_	_	_	_	_
-voybhav	05	_	_	_	_	_
-wahlatlas	17	_	_	_	_	QGIS
+volayaf	20	France	_	_	_	_
+voybhav	01	Other	_	_	_	_
+voybhav	02	India	_	_	_	_
+voybhav	05	India	_	_	_	_
+wahlatlas	17	Germany	_	_	_	QGIS
 williamscraigm	01	_	_	_	_	_
 williamscraigm	02	_	_	_	_	_
 williamscraigm	04	_	_	_	_	_
@@ -3251,14 +3251,14 @@ williamscraigm	27	_	_	_	_	_
 williamscraigm	28	_	_	_	_	_
 williamscraigm	29	_	_	_	_	_
 williamscraigm	30	_	_	_	_	_
-XyCarto	05	_	_	_	_	_
-XyCarto	07	_	_	_	_	QGIS
-XyCarto	11	_	_	_	_	QGIS
-XyCarto	17	_	_	_	_	QGIS
-XyCarto	19	_	_	_	_	_
-XyCarto	20	_	_	_	_	QGIS
-XyCarto	22	_	_	_	_	QGIS
-yanncabon	23	_	_	_	_	ArcGIS
+XyCarto	05	New Zealand	_	_	_	_
+XyCarto	07	New Zealand	_	_	_	QGIS
+XyCarto	11	New Zealand	_	_	_	QGIS
+XyCarto	17	New Zealand	_	_	_	QGIS
+XyCarto	19	New Zealand	Auckland	_	_	_
+XyCarto	20	New Zealand	_	_	_	QGIS
+XyCarto	22	New Zealand	Wellington	_	_	QGIS
+yanncabon	23	France	_	_	_	ArcGIS
 yavannie24	02	USA	Salt Lake City	_	_	_
 yavannie24	03	Iceland	_	_	_	_
 yavannie24	04	USA	_	_	_	_
