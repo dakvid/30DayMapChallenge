@@ -773,7 +773,7 @@ CRVanPollard	11	USA	_	elevation	contour	ArcGIS
 CRVanPollard	12	USA	_	sport	lines	QGIS
 CRVanPollard	13	USA	Philadelphia	travel	lines	QGIS
 CRVanPollard	14	Antarctica	_	administrative boundaries	choropleth	PostGIS,CARTO
-CRVanPollard	15	USA	Philadelphia	names	unclassified	ArcGIS
+CRVanPollard	15	USA	Philadelphia	names	_	ArcGIS
 CRVanPollard	16	USA	_	placenames	dot density	ArcGIS
 CRVanPollard	17	World	_	_	choropleth	ArcGIS
 CRVanPollard	18	World	_	travel	lines	ArcGIS

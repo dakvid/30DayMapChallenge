@@ -214,14 +214,21 @@ full30 <-
 
 # > Graphs ----------------------------------------------------------------
 
-g_challenges <- 
+g_challenges_data <- 
   map_classification %>% 
   inner_join(challenges, by = "Day") %>% 
   mutate(challenge = paste(Day, Theme)) %>% 
   count(challenge) %>% 
-  mutate(challenge = challenge %>% fct_inorder() %>% fct_rev()) %>% 
-  ggplot(aes(x = challenge, y = n)) +
+  mutate(challenge = challenge %>% fct_inorder() %>% fct_rev())
+g_challenges <- 
+  ggplot(g_challenges_data,
+         aes(x = challenge, y = n)) +
   geom_col() + 
+  geom_text(data = g_challenges_data,
+            aes(x = challenge, y = n, label = n),
+            hjust = 1, nudge_y = -3,
+            color = "white",
+            family = CHART_FONT) +
   coord_flip() +
   theme_minimal_vgrid(font_family = CHART_FONT) +
   labs(x = NULL, y = NULL,
@@ -232,17 +239,29 @@ ggsave(filename = "challenge_count.png",
        width = 7, height = 5.5, units = "cm")
 
 
-g_countries <- 
+g_countries_data <- 
   map_classification %>% 
-  select(area) %>% 
+  select(area, handle) %>% 
   filter(area != "_") %>% 
-  separate_rows(area, sep = ",") %>% 
-  count(area) %>% 
+  separate_rows(area, sep = ",") %>%
+  group_by(area) %>% 
+  summarise(n = n(),
+            people = n_distinct(handle)) %>% 
+  ungroup() %>% 
+  # count(area) %>% 
   arrange(desc(n)) %>% 
   head(20) %>% 
-  mutate(area = area %>% fct_inorder() %>% fct_rev()) %>% 
-  ggplot(aes(x = area, y = n)) +
+  mutate(area = area %>% fct_inorder() %>% fct_rev())
+g_countries <- 
+  ggplot(g_countries_data,
+         aes(x = area, y = n)) +
   geom_col() +
+  geom_col(data = g_countries_data, aes(x = area, y = people), fill = "orange", width = 0.3) +
+  geom_text(data = g_countries_data,
+            aes(x = area, y = n, label = n),
+            hjust = 1, nudge_y = -1,
+            color = "white",
+            family = CHART_FONT) +
   coord_flip() +
   theme_minimal_vgrid(font_family = CHART_FONT) +
   labs(x = NULL, y = NULL,
@@ -286,6 +305,9 @@ stats_page <-
                        "people tweeting on the hashtag. ",
                        "Currently I've indexed {num_maps} maps ",
                        "by {num_indexed_cartographers} people.")),
+                p("To see an overview of all the tweets using the hashtag",
+                  "(including retweets, announcements, and discussions) see",
+                  a(href = "https://tweepsmap.com/hashtag/205F92C1E10C03", "the report by TweepsMap.")),
                 h3("Progress"),
                 p("The main reason this sort of thing hasn't been done by dozens of",
                   "other people already is that the tweets are a vast unstructured",
@@ -330,6 +352,8 @@ stats_page <-
                 h3("Places"),
                 p(glue("Bear in mind that only {100 - pc_unc_area}% of the maps have an area assigned,"),
                   "so this might reflect my interests to start with."),
+                p("The main bar is the number of maps with that label.",
+                  "The small orange bar is the number of cartographers who have produced the maps in that area."),
                 img(src = "images/area_count.png"),
                 h3("Tools"),
                 p("Only approximately one third of the tweets mention the tools used."),
