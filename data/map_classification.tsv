@@ -759,36 +759,36 @@ CraigTaylorGIS	26	_	_	_	_	_
 CraigTaylorGIS	28	_	_	_	_	_
 CraigTaylorGIS	29	_	_	_	_	_
 CraigTaylorGIS	30	United Kingdom	Manchester	transport	animation	_
-CRVanPollard	01	_	_	_	_	ArcGIS
-CRVanPollard	02	_	_	_	_	ArcGIS
-CRVanPollard	03	_	_	_	_	ArcGIS
-CRVanPollard	04	_	_	_	_	ArcGIS
-CRVanPollard	05	_	_	_	_	ArcGIS
-CRVanPollard	06	_	_	_	_	ArcGIS
-CRVanPollard	07	_	_	_	_	ArcGIS
-CRVanPollard	08	_	_	_	_	ArcGIS
-CRVanPollard	09	_	_	_	_	hand drawn
-CRVanPollard	10	_	_	_	_	ArcGIS
-CRVanPollard	11	_	_	_	_	_
-CRVanPollard	12	_	_	_	_	QGIS
-CRVanPollard	13	_	_	_	_	_
-CRVanPollard	14	_	_	_	_	PostGIS
-CRVanPollard	15	_	_	_	_	ArcGIS
-CRVanPollard	16	_	_	_	_	ArcGIS
-CRVanPollard	17	_	_	_	_	_
-CRVanPollard	18	_	_	_	_	_
-CRVanPollard	19	_	_	_	_	QGIS
-CRVanPollard	20	_	_	_	_	QGIS
-CRVanPollard	21	_	_	_	_	_
-CRVanPollard	22	_	_	_	_	ArcGIS
-CRVanPollard	23	_	_	_	_	ArcGIS
-CRVanPollard	24	_	_	_	_	_
-CRVanPollard	25	_	_	_	_	_
-CRVanPollard	26	_	_	_	_	ArcGIS
-CRVanPollard	27	_	_	_	_	Photoshop,ArcGIS
-CRVanPollard	28	_	_	_	_	ArcGIS
-CRVanPollard	29	_	_	_	_	Blender,ArcGIS
-CRVanPollard	30	_	_	_	_	_
+CRVanPollard	01	USA	Philadelphia	population	dot density	ArcGIS
+CRVanPollard	02	USA	_	elevation	contour	ArcGIS
+CRVanPollard	03	USA	Philadelphia	buildings	polygons	ArcGIS
+CRVanPollard	04	USA	_	health	hexagons	ArcGIS
+CRVanPollard	05	USA	_	elevation	raster	ArcGIS
+CRVanPollard	06	USA	_	elevation	raster	ArcGIS
+CRVanPollard	07	United Kingdom	Liverpool	sport	polygons	ArcGIS
+CRVanPollard	08	Iceland	_	land use	choropleth	ArcGIS
+CRVanPollard	09	USA	_	sport	lines	hand drawn
+CRVanPollard	10	USA	_	elevation	contour	ArcGIS
+CRVanPollard	11	USA	_	elevation	contour	ArcGIS
+CRVanPollard	12	USA	_	sport	lines	QGIS
+CRVanPollard	13	USA	Philadelphia	travel	lines	QGIS
+CRVanPollard	14	Antarctica	_	administrative boundaries	choropleth	PostGIS,CARTO
+CRVanPollard	15	USA	Philadelphia	names	unclassified	ArcGIS
+CRVanPollard	16	USA	_	placenames	dot density	ArcGIS
+CRVanPollard	17	World	_	_	choropleth	ArcGIS
+CRVanPollard	18	World	_	travel	lines	ArcGIS
+CRVanPollard	19	USA	San Fransico	buildings	_	QGIS
+CRVanPollard	20	USA	_	land use	choropleth	QGIS
+CRVanPollard	21	Other	_	climate	_	ArcGIS
+CRVanPollard	22	USA	_	buildings	small multiples	ArcGIS
+CRVanPollard	23	Greenland	_	population	_	ArcGIS
+CRVanPollard	24	USA	_	crime	_	ArcGIS
+CRVanPollard	25	USA	_	climate	lines	ArcGIS
+CRVanPollard	26	USA	_	water	lines	ArcGIS
+CRVanPollard	27	USA	_	_	_	Photoshop,ArcGIS
+CRVanPollard	28	USA	_	travel	lines	ArcGIS
+CRVanPollard	29	USA	_	administrative boundaries	small multiples	ArcGIS
+CRVanPollard	30	United Kingdom	_	land use	lines	ArcGIS
 csaladenes	05	_	_	_	_	_
 csaladenes	06	_	_	_	_	_
 csaladenes	07	_	_	_	_	D3.js
