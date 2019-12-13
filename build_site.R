@@ -25,7 +25,6 @@ source("_template.R", encoding = "UTF-8")
 
 # Load Metadata --------------------------------------------------------
 
-challenges <- read_csv("data/challenges.csv")
 cartographers <- read_csv("data/cartographers.csv", col_types = "ccccc")
 # shuffle to give an interesting start
 map_metadata <- read_tsv("data/map_metadata.tsv", col_types = "cccccccccc") %>% sample_frac(1)
@@ -33,57 +32,81 @@ map_classification <- read_tsv("data/map_classification.tsv", col_types = "ccccc
 aspect_cols <-
   read_tsv("data/aspects.tsv") %>% 
   mutate(aspect_class = glue("col-xs-{xs} col-sm-{sm} col-md-{md} col-lg-{lg} col-xl-{xl}"))
+challenges <-
+  read_csv("data/challenges.csv") %>% 
+  inner_join(map_classification %>% select(Day), by = "Day") %>% 
+  count(Day, Theme) %>% 
+  rename(num_maps = n)
 
 areas <- 
   map_classification %>% 
-  distinct(area) %>% 
-  #mutate(area = if_else(area == "_", "unclassified", area)) %>% 
+  select(area, handle) %>% 
   separate_rows(area, sep = ",") %>% 
-  distinct()
+  group_by(area) %>% 
+  summarise(num_maps = n(),
+            num_people = n_distinct(handle)) %>% 
+  ungroup() %>% 
+  mutate(datavalue = area %>% str_to_lower() %>% str_replace_all(" ", ""))
 continents <- 
   read_csv("data/continents.csv") %>% 
-  mutate(datavalue = area %>% str_to_lower() %>% str_replace_all(" ", ""))
+  inner_join(areas, by = "area")
 countries <-
   areas %>% 
-  anti_join(continents) %>% 
-  #filter(area != "_") %>% 
-  mutate(datavalue = area %>% str_to_lower() %>% str_replace_all(" ", "")) %>% 
+  anti_join(continents, by = "area") %>% 
   arrange(area)
 cities <- 
   map_classification %>% 
-  distinct(city) %>% 
-  filter(city != "_") %>% 
+  select(city, handle) %>% 
   separate_rows(city, sep = ",") %>% 
-  distinct() %>% 
-  arrange(city) %>% 
-  bind_rows(tibble(city = "_"))
+  group_by(city) %>% 
+  summarise(num_maps = n(),
+            num_people = n_distinct(handle)) %>% 
+  ungroup() %>% 
+  arrange(city)
+cities <- 
+  bind_rows(
+    cities %>% filter(city != "_"),
+    cities %>% filter(city == "_")
+  )
 
 topics <- 
   map_classification %>% 
-  distinct(topics) %>% 
-  filter(topics != "_") %>% 
+  select(topics) %>% 
   separate_rows(topics, sep = ",") %>% 
-  distinct() %>% 
-  arrange(topics) %>% 
-  bind_rows(tibble(topics = "_"))
+  count(topics) %>% 
+  arrange(topics)
+topics <- 
+  bind_rows(
+    topics %>% filter(topics != "_"),
+    topics %>% filter(topics == "_")
+  ) %>% 
+  rename(num_maps = n)
 
 types_of_maps <- 
   map_classification %>% 
-  distinct(types) %>% 
-  filter(types != "_") %>% 
+  select(types) %>% 
   separate_rows(types, sep = ",") %>% 
-  distinct() %>% 
-  arrange(types) %>% 
-  bind_rows(tibble(types = "_"))
+  count(types) %>% 
+  arrange(types)
+types_of_maps <- 
+  bind_rows(
+    types_of_maps %>% filter(types != "_"),
+    types_of_maps %>% filter(types == "_")
+  ) %>% 
+  rename(num_maps = n)
 
 tools <- 
   map_classification %>% 
-  distinct(tools) %>% 
-  filter(tools != "_") %>% 
+  select(tools) %>% 
   separate_rows(tools, sep = ",") %>% 
-  distinct() %>% 
-  arrange(tools) %>% 
-  bind_rows(tibble(tools = "_"))
+  count(tools) %>% 
+  arrange(tools)
+tools <- 
+  bind_rows(
+    tools %>% filter(tools != "_"),
+    tools %>% filter(tools == "_")
+  ) %>% 
+  rename(num_maps = n)
 
 
 
@@ -209,7 +232,8 @@ pc_unc_tool <- round(num_unc_tool / num_maps * 100, 1)
 full30 <- 
   map_classification %>% 
   count(handle) %>% 
-  filter(n == 30)
+  filter(n == 30) %>% 
+  inner_join(cartographers, by = "handle")
 
 
 # > Graphs ----------------------------------------------------------------
@@ -240,25 +264,23 @@ ggsave(filename = "challenge_count.png",
 
 
 g_countries_data <- 
-  map_classification %>% 
-  select(area, handle) %>% 
+  bind_rows(
+    continents,
+    countries
+  ) %>% 
   filter(area != "_") %>% 
-  separate_rows(area, sep = ",") %>%
-  group_by(area) %>% 
-  summarise(n = n(),
-            people = n_distinct(handle)) %>% 
-  ungroup() %>% 
-  # count(area) %>% 
-  arrange(desc(n)) %>% 
+  arrange(desc(num_maps)) %>% 
   head(20) %>% 
   mutate(area = area %>% fct_inorder() %>% fct_rev())
 g_countries <- 
   ggplot(g_countries_data,
-         aes(x = area, y = n)) +
+         aes(x = area, y = num_maps)) +
   geom_col() +
-  geom_col(data = g_countries_data, aes(x = area, y = people), fill = "orange", width = 0.3) +
+  geom_col(data = g_countries_data,
+           aes(x = area, y = num_people),
+           fill = "orange", width = 0.3) +
   geom_text(data = g_countries_data,
-            aes(x = area, y = n, label = n),
+            aes(x = area, y = num_maps, label = num_maps),
             hjust = 1, nudge_y = -1,
             color = "white",
             family = CHART_FONT) +
@@ -272,11 +294,8 @@ ggsave(filename = "area_count.png",
        width = 7, height = 4, units = "cm")
 
 g_tools <- 
-  map_classification %>% 
-  select(tools) %>% 
+  tools %>% 
   filter(tools != "_") %>% 
-  separate_rows(tools, sep = ",") %>% 
-  count(tools) %>% 
   arrange(desc(n)) %>% 
   mutate(tools = tools %>% fct_inorder() %>% fct_rev()) %>% 
   ggplot(aes(x = tools, y = n)) +
@@ -341,14 +360,21 @@ stats_page <-
                 h3("Daily Themes"),
                 img(src = "images/challenge_count.png"),
                 h3("People"),
-                p(glue("There were {nrow(full30)} people who managed the massive task of creating all 30 maps!",
-                       "(If you're not on this list and should be then let me know!)")),
+                p(glue("There were {nrow(full30)} people who managed the massive task of creating all 30 maps!"),
+                  "(If you're not on this list and should be then let me know.)"),
                 tags$ul(
                   full30 %>%
-                    pull(handle) %>%
-                    map(~ tags$li(a(href = glue("https://twitter.com/{.x}/"), glue("@{.x}"))))
+                    #pull(handle) %>%
+                    pmap(function(handle, username, realname, location, ...) {
+                      tags$li(
+                        if (is.na(realname)) { username } else { realname },
+                        "-",
+                        a(href = glue("https://twitter.com/{handle}/"), glue("@{handle}")),
+                        if (!is.na(location)) { glue("- in {location}") }
+                      )
+                    })
                   ),
-                p(tags$em("I'll aim to identify the location of the map authors, but haven't done that yet.")),
+                p(tags$em("I'll aim to identify the location of all the map authors, but haven't done that yet.")),
                 h3("Places"),
                 p(glue("Bear in mind that only {100 - pc_unc_area}% of the maps have an area assigned,"),
                   "so this might reflect my interests to start with."),
@@ -531,10 +557,14 @@ maps_filter_challenge_0110 <-
                 `aria-labelledby` = "FilterDay0110",
                 challenges %>% 
                   filter(Day <= "10") %>% 
-                  pmap(~ tags$button(class = "dropdown-item",
-                                     type = "button",
-                                     `data-value` = .x,
-                                     glue("{.x} {.y}")))
+                  pmap(function (Day, Theme, num_maps, ...) {
+                    tags$button(class = "dropdown-item d-flex justify-content-between align-items-center",
+                                type = "button",
+                                `data-value` = Day,
+                                glue("{Day} {Theme}"),
+                                span(class = "badge badge-primary badge-pill",
+                                     num_maps))
+                  })
             )
         )
     )
@@ -552,10 +582,14 @@ maps_filter_challenge_1120 <-
               `aria-labelledby` = "FilterDay1120",
               challenges %>% 
                 filter(Day >= "11", Day <= "20") %>% 
-                pmap(~ tags$button(class = "dropdown-item",
-                                   type = "button",
-                                   `data-value` = .x,
-                                   glue("{.x} {.y}")))
+                pmap(function (Day, Theme, num_maps, ...) {
+                  tags$button(class = "dropdown-item d-flex justify-content-between align-items-center",
+                              type = "button",
+                              `data-value` = Day,
+                              glue("{Day} {Theme}"),
+                              span(class = "badge badge-primary badge-pill",
+                                   num_maps))
+                })
           )
       )
   )
@@ -573,10 +607,14 @@ maps_filter_challenge_2130 <-
               `aria-labelledby` = "FilterDay2130",
               challenges %>% 
                 filter(Day >= "21") %>% 
-                pmap(~ tags$button(class = "dropdown-item",
-                                   type = "button",
-                                   `data-value` = .x,
-                                   glue("{.x} {.y}")))
+                pmap(function (Day, Theme, num_maps, ...) {
+                  tags$button(class = "dropdown-item d-flex justify-content-between align-items-center",
+                              type = "button",
+                              `data-value` = Day,
+                              glue("{Day} {Theme}"),
+                              span(class = "badge badge-primary badge-pill",
+                                   num_maps))
+                })
           )
       )
   )
@@ -602,73 +640,139 @@ maps_filter_area_continent <-
             div(class = "dropdown-menu mapfilter-area",
                 `aria-labelledby` = "FilterAreaContinent",
                 continents %>% 
-                  pmap(~ tags$button(class = "dropdown-item",
-                                    type = "button",
-                                    `data-value` = .x,
-                                    if (.x == "_") { "unclassified" } else { .x }))
+                  pmap(function (area, datavalue, num_maps, ...) {
+                    tags$button(class = "dropdown-item d-flex justify-content-between align-items-center",
+                                type = "button",
+                                `data-value` = datavalue,
+                                if (area == "_") { "unclassified" } else { area },
+                                span(class = "badge badge-info badge-pill",
+                                     num_maps))
+                  })
             )
         )
     )
-maps_filter_area_country_AF <- 
+maps_filter_area_country_AD <- 
   div(class = "col-12@sm",
       div(class = "dropdown",
           tags$button(class = "btn btn-info dropdown-toggle",
                       type = "button",
-                      id = "FilterAreaCountryAF",
+                      id = "FilterAreaCountryAD",
                       `data-toggle` = "dropdown",
                       `aria-haspopup` = "true",
                       `aria-expanded` = "false",
-                      "Country A-F"),
+                      "Country A-D"),
           div(class = "dropdown-menu mapfilter-area",
-              `aria-labelledby` = "FilterAreaCountryAF",
+              `aria-labelledby` = "FilterAreaCountryAD",
               countries %>% 
-                filter(area < "G") %>% 
-                pmap(~ tags$button(class = "dropdown-item",
-                                   type = "button",
-                                   `data-value` = .x,
-                                   .x))
+                filter(area < "E") %>% 
+                pmap(function (area, datavalue, num_maps, ...) {
+                  tags$button(class = "dropdown-item d-flex justify-content-between align-items-center",
+                              type = "button",
+                              `data-value` = datavalue,
+                              if (area == "_") { "unclassified" } else { area },
+                              span(class = "badge badge-info badge-pill",
+                                   num_maps))
+                })
           )
       )
   )
-maps_filter_area_country_GO <- 
+maps_filter_area_country_EI <- 
   div(class = "col-12@sm",
       div(class = "dropdown",
           tags$button(class = "btn btn-info dropdown-toggle",
                       type = "button",
-                      id = "FilterAreaCountryGO",
+                      id = "FilterAreaCountryEI",
                       `data-toggle` = "dropdown",
                       `aria-haspopup` = "true",
                       `aria-expanded` = "false",
-                      "G-O"),
+                      "E-I"),
           div(class = "dropdown-menu mapfilter-area",
-              `aria-labelledby` = "FilterAreaCountryGO",
+              `aria-labelledby` = "FilterAreaCountryEI",
               countries %>% 
-                filter(area > "G", area < "P") %>% 
-                pmap(~ tags$button(class = "dropdown-item",
-                                   type = "button",
-                                   `data-value` = .x,
-                                   .x))
+                filter(area > "E", area < "J") %>% 
+                pmap(function (area, datavalue, num_maps, ...) {
+                  tags$button(class = "dropdown-item d-flex justify-content-between align-items-center",
+                              type = "button",
+                              `data-value` = datavalue,
+                              if (area == "_") { "unclassified" } else { area },
+                              span(class = "badge badge-info badge-pill",
+                                   num_maps))
+                })
           )
       )
   )
-maps_filter_area_country_PZ <- 
+maps_filter_area_country_JN <- 
   div(class = "col-12@sm",
       div(class = "dropdown",
           tags$button(class = "btn btn-info dropdown-toggle",
                       type = "button",
-                      id = "FilterAreaCountryPZ",
+                      id = "FilterAreaCountryJN",
                       `data-toggle` = "dropdown",
                       `aria-haspopup` = "true",
                       `aria-expanded` = "false",
-                      "P-Z"),
+                      "J-N"),
           div(class = "dropdown-menu mapfilter-area",
-              `aria-labelledby` = "FilterAreaCountryPZ",
+              `aria-labelledby` = "FilterAreaCountryJN",
               countries %>% 
-                filter(area > "P") %>% 
-                pmap(~ tags$button(class = "dropdown-item",
-                                   type = "button",
-                                   `data-value` = .x,
-                                   .x))
+                filter(area > "J", area < "O") %>% 
+                pmap(function (area, datavalue, num_maps, ...) {
+                  tags$button(class = "dropdown-item d-flex justify-content-between align-items-center",
+                              type = "button",
+                              `data-value` = datavalue,
+                              if (area == "_") { "unclassified" } else { area },
+                              span(class = "badge badge-info badge-pill",
+                                   num_maps))
+                })
+          )
+      )
+  )
+maps_filter_area_country_OS <- 
+  div(class = "col-12@sm",
+      div(class = "dropdown",
+          tags$button(class = "btn btn-info dropdown-toggle",
+                      type = "button",
+                      id = "FilterAreaCountryOS",
+                      `data-toggle` = "dropdown",
+                      `aria-haspopup` = "true",
+                      `aria-expanded` = "false",
+                      "O-S"),
+          div(class = "dropdown-menu mapfilter-area",
+              `aria-labelledby` = "FilterAreaCountryOS",
+              countries %>% 
+                filter(area > "O", area < "T") %>% 
+                pmap(function (area, datavalue, num_maps, ...) {
+                  tags$button(class = "dropdown-item d-flex justify-content-between align-items-center",
+                              type = "button",
+                              `data-value` = datavalue,
+                              if (area == "_") { "unclassified" } else { area },
+                              span(class = "badge badge-info badge-pill",
+                                   num_maps))
+                })
+          )
+      )
+  )
+maps_filter_area_country_TZ <- 
+  div(class = "col-12@sm",
+      div(class = "dropdown",
+          tags$button(class = "btn btn-info dropdown-toggle",
+                      type = "button",
+                      id = "FilterAreaCountryTZ",
+                      `data-toggle` = "dropdown",
+                      `aria-haspopup` = "true",
+                      `aria-expanded` = "false",
+                      "T-Z"),
+          div(class = "dropdown-menu mapfilter-area",
+              `aria-labelledby` = "FilterAreaCountryTZ",
+              countries %>% 
+                filter(area > "T") %>% 
+                pmap(function (area, datavalue, num_maps, ...) {
+                  tags$button(class = "dropdown-item d-flex justify-content-between align-items-center",
+                              type = "button",
+                              `data-value` = datavalue,
+                              if (area == "_") { "unclassified" } else { area },
+                              span(class = "badge badge-info badge-pill",
+                                   num_maps))
+                })
           )
       )
   )
@@ -677,87 +781,203 @@ maps_filter_area_country_PZ <-
 
 # > Filter City -----------------------------------------------------------
 
-maps_filter_cities_AC <- 
+maps_filter_cities_AB <- 
   div(class = "col-12@sm",
       div(class = "dropdown",
           tags$button(class = "btn btn-info dropdown-toggle",
                       type = "button",
-                      id = "FilterCitiesAC",
+                      id = "FilterCitiesAB",
                       `data-toggle` = "dropdown",
                       `aria-haspopup` = "true",
                       `aria-expanded` = "false",
-                      "City A-C"),
+                      "City A-B"),
           div(class = "dropdown-menu mapfilter-city",
-              `aria-labelledby` = "FilterCitiesAC",
+              `aria-labelledby` = "FilterCitiesAB",
               cities %>% 
-                filter(city < "D", city != "_") %>% 
-                pmap(~ tags$button(class = "dropdown-item",
-                                   type = "button",
-                                   `data-value` = .x,
-                                   if (.x == "_") { "unclassified" } else { .x }))
+                filter(city < "C", city != "_") %>% 
+                pmap(function (city, num_maps, ...) {
+                  tags$button(class = "dropdown-item d-flex justify-content-between align-items-center",
+                              type = "button",
+                              `data-value` = city,
+                              if (city == "_") { "unclassified" } else { city },
+                              span(class = "badge badge-info badge-pill",
+                                   num_maps))
+                })
           )
       )
   )
-maps_filter_cities_DL <- 
+maps_filter_cities_CF <- 
   div(class = "col-12@sm",
       div(class = "dropdown",
           tags$button(class = "btn btn-info dropdown-toggle",
                       type = "button",
-                      id = "FilterCitiesDL",
+                      id = "FilterCitiesCF",
                       `data-toggle` = "dropdown",
                       `aria-haspopup` = "true",
                       `aria-expanded` = "false",
-                      "D-L"),
+                      "C-F"),
           div(class = "dropdown-menu mapfilter-city",
-              `aria-labelledby` = "FilterCitiesDL",
+              `aria-labelledby` = "FilterCitiesCF",
               cities %>% 
-                filter(city > "D", city < "M", city != "_") %>% 
-                pmap(~ tags$button(class = "dropdown-item",
-                                   type = "button",
-                                   `data-value` = .x,
-                                   if (.x == "_") { "unclassified" } else { .x }))
+                filter(city > "C", city < "G", city != "_") %>% 
+                pmap(function (city, num_maps, ...) {
+                  tags$button(class = "dropdown-item d-flex justify-content-between align-items-center",
+                              type = "button",
+                              `data-value` = city,
+                              if (city == "_") { "unclassified" } else { city },
+                              span(class = "badge badge-info badge-pill",
+                                   num_maps))
+                })
           )
       )
   )
-maps_filter_cities_MR <- 
+maps_filter_cities_GI <- 
   div(class = "col-12@sm",
       div(class = "dropdown",
           tags$button(class = "btn btn-info dropdown-toggle",
                       type = "button",
-                      id = "FilterCitiesMR",
+                      id = "FilterCitiesGI",
                       `data-toggle` = "dropdown",
                       `aria-haspopup` = "true",
                       `aria-expanded` = "false",
-                      "M-R"),
+                      "G-I"),
           div(class = "dropdown-menu mapfilter-city",
-              `aria-labelledby` = "FilterCitiesMR",
+              `aria-labelledby` = "FilterCitiesGI",
               cities %>% 
-                filter(city > "M", city < "S", city != "_") %>% 
-                pmap(~ tags$button(class = "dropdown-item",
-                                   type = "button",
-                                   `data-value` = .x,
-                                   if (.x == "_") { "unclassified" } else { .x }))
+                filter(city > "G", city < "J", city != "_") %>% 
+                pmap(function (city, num_maps, ...) {
+                  tags$button(class = "dropdown-item d-flex justify-content-between align-items-center",
+                              type = "button",
+                              `data-value` = city,
+                              if (city == "_") { "unclassified" } else { city },
+                              span(class = "badge badge-info badge-pill",
+                                   num_maps))
+                })
           )
       )
   )
-maps_filter_cities_SZ <- 
+maps_filter_cities_JL <- 
   div(class = "col-12@sm",
       div(class = "dropdown",
           tags$button(class = "btn btn-info dropdown-toggle",
                       type = "button",
-                      id = "FilterCitiesSZ",
+                      id = "FilterCitiesJL",
                       `data-toggle` = "dropdown",
                       `aria-haspopup` = "true",
                       `aria-expanded` = "false",
-                      "S-Z"),
+                      "J-L"),
           div(class = "dropdown-menu mapfilter-city",
-              `aria-labelledby` = "FilterCitiesSZ",
+              `aria-labelledby` = "FilterCitiesJL",
               cities %>% 
-                filter(city > "S" | city == "_") %>% 
-                pmap(~ tags$button(class = "dropdown-item",
-                                   type = "button",
-                                   `data-value` = .x,
-                                   if (.x == "_") { "unclassified" } else { .x }))
+                filter(city > "J", city < "M", city != "_") %>% 
+                pmap(function (city, num_maps, ...) {
+                  tags$button(class = "dropdown-item d-flex justify-content-between align-items-center",
+                              type = "button",
+                              `data-value` = city,
+                              if (city == "_") { "unclassified" } else { city },
+                              span(class = "badge badge-info badge-pill",
+                                   num_maps))
+                })
+          )
+      )
+  )
+maps_filter_cities_MO <- 
+  div(class = "col-12@sm",
+      div(class = "dropdown",
+          tags$button(class = "btn btn-info dropdown-toggle",
+                      type = "button",
+                      id = "FilterCitiesMO",
+                      `data-toggle` = "dropdown",
+                      `aria-haspopup` = "true",
+                      `aria-expanded` = "false",
+                      "M-O"),
+          div(class = "dropdown-menu mapfilter-city",
+              `aria-labelledby` = "FilterCitiesMO",
+              cities %>% 
+                filter(city > "M", city < "P", city != "_") %>% 
+                pmap(function (city, num_maps, ...) {
+                  tags$button(class = "dropdown-item d-flex justify-content-between align-items-center",
+                              type = "button",
+                              `data-value` = city,
+                              if (city == "_") { "unclassified" } else { city },
+                              span(class = "badge badge-info badge-pill",
+                                   num_maps))
+                })
+          )
+      )
+  )
+maps_filter_cities_PR <- 
+  div(class = "col-12@sm",
+      div(class = "dropdown",
+          tags$button(class = "btn btn-info dropdown-toggle",
+                      type = "button",
+                      id = "FilterCitiesPR",
+                      `data-toggle` = "dropdown",
+                      `aria-haspopup` = "true",
+                      `aria-expanded` = "false",
+                      "P-R"),
+          div(class = "dropdown-menu mapfilter-city",
+              `aria-labelledby` = "FilterCitiesPR",
+              cities %>% 
+                filter(city > "P", city < "S", city != "_") %>% 
+                pmap(function (city, num_maps, ...) {
+                  tags$button(class = "dropdown-item d-flex justify-content-between align-items-center",
+                              type = "button",
+                              `data-value` = city,
+                              if (city == "_") { "unclassified" } else { city },
+                              span(class = "badge badge-info badge-pill",
+                                   num_maps))
+                })
+          )
+      )
+  )
+maps_filter_cities_ST <- 
+  div(class = "col-12@sm",
+      div(class = "dropdown",
+          tags$button(class = "btn btn-info dropdown-toggle",
+                      type = "button",
+                      id = "FilterCitiesST",
+                      `data-toggle` = "dropdown",
+                      `aria-haspopup` = "true",
+                      `aria-expanded` = "false",
+                      "S-T"),
+          div(class = "dropdown-menu mapfilter-city",
+              `aria-labelledby` = "FilterCitiesST",
+              cities %>% 
+                filter(city > "S", city < "U", city != "_") %>% 
+                pmap(function (city, num_maps, ...) {
+                  tags$button(class = "dropdown-item d-flex justify-content-between align-items-center",
+                              type = "button",
+                              `data-value` = city,
+                              if (city == "_") { "unclassified" } else { city },
+                              span(class = "badge badge-info badge-pill",
+                                   num_maps))
+                })
+          )
+      )
+  )
+maps_filter_cities_UZ <- 
+  div(class = "col-12@sm",
+      div(class = "dropdown",
+          tags$button(class = "btn btn-info dropdown-toggle",
+                      type = "button",
+                      id = "FilterCitiesUZ",
+                      `data-toggle` = "dropdown",
+                      `aria-haspopup` = "true",
+                      `aria-expanded` = "false",
+                      "U-Z"),
+          div(class = "dropdown-menu mapfilter-city",
+              `aria-labelledby` = "FilterCitiesUZ",
+              cities %>% 
+                filter(city > "U" | city == "_") %>% 
+                pmap(function (city, num_maps, ...) {
+                  tags$button(class = "dropdown-item d-flex justify-content-between align-items-center",
+                              type = "button",
+                              `data-value` = city,
+                              if (city == "_") { "unclassified" } else { city },
+                              span(class = "badge badge-info badge-pill",
+                                   num_maps))
+                })
           )
       )
   )
@@ -779,10 +999,14 @@ maps_filter_topics <-
           div(class = "dropdown-menu mapfilter-topic",
               `aria-labelledby` = "FilterTopics",
               topics %>% 
-                pmap(~ tags$button(class = "dropdown-item",
-                                   type = "button",
-                                   `data-value` = .x,
-                                   if (.x == "_") { "unclassified" } else { .x }))
+                pmap(function (topics, num_maps, ...) {
+                  tags$button(class = "dropdown-item d-flex justify-content-between align-items-center",
+                              type = "button",
+                              `data-value` = topics,
+                              if (topics == "_") { "unclassified" } else { topics },
+                              span(class = "badge badge-dark badge-pill",
+                                   num_maps))
+                })
           )
       )
   )
@@ -804,10 +1028,14 @@ maps_filter_types <-
           div(class = "dropdown-menu mapfilter-type",
               `aria-labelledby` = "FilterTypes",
               types_of_maps %>% 
-                pmap(~ tags$button(class = "dropdown-item",
-                                   type = "button",
-                                   `data-value` = .x,
-                                   if (.x == "_") { "unclassified" } else { .x }))
+                pmap(function (types, num_maps, ...) {
+                  tags$button(class = "dropdown-item d-flex justify-content-between align-items-center",
+                              type = "button",
+                              `data-value` = types,
+                              if (types == "_") { "unclassified" } else { types },
+                              span(class = "badge badge-dark badge-pill",
+                                   num_maps))
+                })
           )
       )
   )
@@ -830,10 +1058,14 @@ maps_filter_tools <-
           div(class = "dropdown-menu mapfilter-tool",
               `aria-labelledby` = "FilterTools",
               tools %>% 
-                pmap(~ tags$button(class = "dropdown-item",
-                                   type = "button",
-                                   `data-value` = .x,
-                                   if (.x == "_") { "unclassified" } else { .x }))
+                pmap(function (tools, num_maps, ...) {
+                  tags$button(class = "dropdown-item d-flex justify-content-between align-items-center",
+                              type = "button",
+                              `data-value` = tools,
+                              if (tools == "_") { "unclassified" } else { tools },
+                              span(class = "badge badge-dark badge-pill",
+                                   num_maps))
+                })
           )
       )
   )
@@ -913,8 +1145,11 @@ maps_page <-
         # filter/sort
         div(class = "row",
             maps_filter_challenge_0110, maps_filter_challenge_1120, maps_filter_challenge_2130,
-            maps_filter_area_continent, maps_filter_area_country_AF, maps_filter_area_country_GO, maps_filter_area_country_PZ,
-            maps_filter_cities_AC, maps_filter_cities_DL, maps_filter_cities_MR, maps_filter_cities_SZ,
+            maps_filter_area_continent, maps_filter_area_country_AD, maps_filter_area_country_EI, maps_filter_area_country_JN, maps_filter_area_country_OS, maps_filter_area_country_TZ,
+        ),
+        div(class = "row",
+            maps_filter_cities_AB, maps_filter_cities_CF, maps_filter_cities_GI, maps_filter_cities_JL,
+            maps_filter_cities_MO, maps_filter_cities_PR, maps_filter_cities_ST, maps_filter_cities_UZ,
             ),
         div(class = "row",
             maps_filter_topics,
@@ -941,3 +1176,4 @@ maps_page <-
 
 
 write_file(maps_page, "maps.html")
+

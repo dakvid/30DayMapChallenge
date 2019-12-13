@@ -101,8 +101,10 @@ Distribution of socioeconomic groups (income level) in Santiago, Chile // Distri
 Estimation from data of @SII_Chile and @CIAS_Chile https://t.co/JDlC6OuW3m"
 a3065794_03	jpg	16x13	03	378353279	a3065794	2019-11-04T01:19:10Z	1191162940075974656	_	#30DayMapChallenge N veces decretos de escasez hídrica superficial en la cuenca del Maipo, 2008 a 2019. Más oscuro, corresponde a mayor N. En este caso la peor dentro de la RM es comuna de Melipilla 6 veces, fuente DGA. (cc siguiendo ej. d @Juanizio_C , haría Chile, pero tiempo.)
 ABpdts_01	jpg	16x10	01	1162392841303277568	ABpdts	2019-11-01T23:39:48Z	1190413158827081728	_	If you don't want to read the blog My Day 01 - Points #30DayMapChallenge main map, LS (Leeds) Postcode as Points, Leeds City Region Boundary (Black) Leeds Travel to Work Boundary (Blue)...
+ABpdts_02	jpg	16x9	02	1162392841303277568	ABpdts	2019-11-02T20:52:41Z	1190733489798295552	_	Here's my #30DayMapChallenge, Contour Map of Fort William District Unitary Ward with Ben Nevis, derived from SRTM data
 ABpdts_03	jpg	16x11	03	1162392841303277568	ABpdts	2019-11-03T20:12:16Z	1191085705520394247	_	#30DayMapChallenge Day 03 - Polygons;  #QGIS QGIS built Voronoi Polygons derived from GP (Doctors) Postcodes, with Number of Doctors per Polygon... in England. From @NHSDigital  &amp; @OrdnanceSurvey #OpenData Don't think there's any #Open GP Boundary Data? so thought I'd make some.
 ABpdts_04	jpg	16x11	04	1162392841303277568	ABpdts	2019-11-04T20:28:35Z	1191452199152435200	_	#30DayMapChallenge Day 04 - Hexagons, what is the  distribution of Leeds 108K Street light?  Frequency of lights  mapped per 1km Hexagon, in #QGIS, showing hot spots and gaps in coverage (thought @StevieBYorks would like this for #SmartCities)
+ABpdts_05	jpg	16x11	05	1162392841303277568	ABpdts	2019-11-05T12:48:08Z	1191698711438675970	_	#30DayMapChallenge Day 05 - Raster, my fist go at an intuitive False Colour Map of Bathymetric data from @gebcobathymetry using @QGIS, showing continental shelf and Doggerland, only c.15m below sea level, using two palettes sourced from  https://t.co/Jn634VRCrw
 ABpdts_06	jpg	11x16	06	1162392841303277568	ABpdts	2019-11-06T15:01:38Z	1192094699101835265	_	#30DayMapChallenge Here's my map Day 06 - Blue, bit of a play on 'The Thin Blue Line', Choropleth of Number of Police Officers per 1000 people in @qgis, based on Mid 2018 numbers. Uses @ONS @OrdnanceSurvey &amp; @ukhomeoffice data - links in thread...
 ABpdts_07	jpg	16x11	07	1162392841303277568	ABpdts	2019-11-08T17:47:09Z	1192861125706166273	_	#30DayMapChallenge my Day 07 - Red, a little late!  Took far, far more prospecting, mining and grokking than I expected...  Blood Units Donated per 1000 population, a re-creation of a 2016 WHO report map.  Needs a bit more QC, 90% happy with it I think.
 ABpdts_08	jpg	16x11	08	1162392841303277568	ABpdts	2019-11-09T20:19:14Z	1193261785664696322	_	#30DayMapChallenge Day 08  - Green, another play on the colour: Pharmacy Densities in Leeds City Region:  Epanechnicov Kernel Density at 2km Radius, showing hot and cold spots, and areas with no pharmacies, built in @qgis using @openstreetmap and @OrdnanceSurvey data.
@@ -381,11 +383,13 @@ Las condiciones en que éstos se encuentran en México nos exigen transitar haci
 #30DayMapChallenge"
 akadouri_01	jpg	14x16	01	215404498	akadouri	2019-11-01T16:02:55Z	1190298179511582720	_	Day 1 of #30DayMapChallenge, Points.
 akadouri_02	jpg	12x16	02	215404498	akadouri	2019-11-02T23:36:31Z	1190774718917267457	_	For Day 2 of #30DayMapChallenge (lines), here's a road map of Manhattan Island inspired by Escape from New York.
+akadouri_03	jpg	13x16	03	215404498	akadouri	2019-11-04T02:57:35Z	1191187709580079104	_	Playing with @qgis atlas export for the first time for Polygon day of #30DayMapChallenge. Here's a collage of @NatlParkService's National Park boundaries.
 akadouri_04	jpg	9x16	04	215404498	akadouri	2019-11-05T06:32:22Z	1191604146962485251	_	#30DayMapChallenge Day 4, Hexagons(!). Here's a simple one: distance to the ballot box. Remember to vote tomorrow. You can also mail your ballot no stamp required! https://t.co/4S3mJQk6HU
 akadouri_06	jpg	16x16	06	215404498	akadouri	2019-11-07T04:02:14Z	1192291142777196544	_	You could fit at least 271,956 blueberries atop Mt St Helens. #30DayMapChallenge Day 6 - Blue.
 akadouri_07	jpg	16x14	07	215404498	akadouri	2019-11-08T06:23:21Z	1192689041176588289	_	"#30DayMapChallenge Day 7, Red. 
 
 American Labor Press Directory, 1940. Data roughly geocoded from @TobiasHigbie's https://t.co/64n6iTWLKW"
+akadouri_08	jpg	16x16	08	215404498	akadouri	2019-11-09T19:26:38Z	1193248548143263744	_	A little late but yesterday's #30DayMapChallenge: Green. NYC's 2015 Tree Census.
 akadouri_09	jpg	16x8	09	215404498	akadouri	2019-11-10T01:12:37Z	1193335619511939072	_	"Traveling to Kansas for #30DayMapChallenge Day 9: Yellow. The Kansas state code officially designates a portion of U.S. 54 as ""The Yellow Brick Road"", and the city of Liberty as ""the land of Oz""."
 akadouri_10	jpg	13x16	10	215404498	akadouri	2019-11-11T00:37:42Z	1193689221493510145	_	Going for a quick hand drawn map of little imaginary interconnected islands. #30daymapchallenge Day 10: Black and White.
 akadouri_11	jpg	16x16	11	215404498	akadouri	2019-11-12T03:09:08Z	1194089717010178048	_	"Another day, another map. #30DayMapChallenge Day 11: Elevation. 
@@ -394,6 +398,7 @@ If you haven't already, checkout osmnx. A handy library for working with osm net
 akadouri_12	jpg	16x7	12	215404498	akadouri	2019-11-13T03:47:54Z	1194461860709289984	_	Day 12: Movement. June 2019 NYC Taxi Pickups, Manhattan. #30DayMapChallenge
 akadouri_13	jpg	16x16	13	215404498	akadouri	2019-11-14T03:18:44Z	1194816910325452802	_	The shapes we run. #30DayMapChallenge Day 13: Tracks
 akadouri_14	png	16x16	14	215404498	akadouri	2019-11-15T01:51:49Z	1195157422995734528	_	Let's ignore all physical and cultural geography and just draw lines where the population is. #30DayMapChallenge Day 14: Boundaries.
+akadouri_15	png	16x16	15	215404498	akadouri	2019-11-17T02:53:20Z	1195897680636956672	_	"Don't ask yourself if your map is ""meaningful"" or ""good"" or ""makes sense"". Just that you answer important questions. And attribute OSM properly. Day Late #30DayMapChallenge Day15:Names"
 akadouri_16	png	16x16	16	215404498	akadouri	2019-11-18T07:04:31Z	1196323280048685057	_	The places mentioned in today's NYTime's World Section - Top Stories via NYTimes API. If I ever survive  #30DayMapChallenge, I'll script this one away. Catchup on Day 16: Places
 akadouri_17	jpg	16x16	17	215404498	akadouri	2019-11-18T05:29:06Z	1196299267066875904	_	There's a lot of nuance lost here in a quickly styled zoning map of Seattle, but a peek at our abundance of single family zones (in gray). #30DayMapChallenge Day 17:Zones
 akadouri_18	png	16x16	18	215404498	akadouri	2019-11-19T07:16:58Z	1196688800501551105	_	Wind speed over the pacific on a week in '96. #30DayMapChallenge Day 18: Globe
@@ -590,12 +595,20 @@ Using the offline maps @osmandapp one can truck the distances they cover as a wa
 The yellow lines mark the gpx tracks
 smartphone + osmand + josm + Qgis = MapBelow
 #applicationofOpenStreetMap"
+AnalisisGeo_01	jpg	16x11	01	3270581047	AnalisisGeo	2019-11-05T07:45:32Z	1191622560326311936	_	Llego tarde al #30DayMapChallenge pero aquí está: algoritmo de Kim Rossmo para predecir residencia de #asesinos #serialkiller  Caso de Juana Barraza “La Mataviejitas” elaborado en #QGIS usando el algoritmo adaptado para #gvSIG por Jazmín Palomares #GITS #UNAM
+AnalisisGeo_05	jpg	16x10	05	3270581047	AnalisisGeo	2019-11-20T09:22:40Z	1197082821808074752	_	#30DayMapChallenge #mde #3d creación de #georasters usando #AHGW de Aquaveo. Práctica para la materia de #Geoestadistica #Geostatistics
 AnalisisGeo_11	jpg	16x16	11	3270581047	AnalisisGeo	2019-11-12T03:45:19Z	1194098821833351170	_	#30DayMapChallenge #MDE  Modelo Digital de Elevación de Altamira, Tamaulipas. Fuente: Conjunto de Elevaciones Mexicano 3.0 #INEGI #GIS #SIG
+AnalisisGeo_12	jpg	11x16	12	3270581047	AnalisisGeo	2019-11-12T20:59:22Z	1194359051754229762	_	Para el #30DayMapChallenge versión del mapa de #JohnSnow padre de la inmunología de la epidemia de Cólera en Londres del Siglo XIX usando los datos que él recabó sobre muertes cerca de pozos de agua para la clase de #Geoestadistica #Geostatistics #mapping #map #Gis #Sig
 analytiikka_27	jpg	13x16	27	1047005255815368705	analytiikka	2019-11-27T06:02:41Z	1199569210919313409	_	"541 Finnish railway stations!
 #30DayMapChallenge Day27:resources
 
 data:https://t.co/2JuCsf6IWb"
+Anamhoo_01	jpg	16x11	01	538253168	Anamhoo	2019-11-03T04:11:48Z	1190843997465526272	_	Llegando tarde al #30DayMapChallenge aquí el mapa da puntos @YaNiPaper @tacosdedatos @Srta_peperina
+Anamhoo_02	jpg	16x11	02	538253168	Anamhoo	2019-11-04T16:54:08Z	1191398231323893762	_	Ahhh retrasada para el #30DayMapChallenge. Lineas: Infraestructura ciclista existente e incidentes por atropellamientos, inspección visual para ver si hay puntos que cuidar. Los datos fueron los oficiales para el Municipio y use QGIS. @tacosdedatos @Srta_peperina @YaNiPaper
+Anamhoo_03	jpg	16x12	03	538253168	Anamhoo	2019-11-05T15:07:36Z	1191733812117590016	_	Ni me acongojo ni me desanimo #30DayMapChallenge Polígonos. Con datos de LadoB las humildes propiedades asociadas a Estefan Chidiac y Enrique Agüera https://t.co/f2JVa2a7my @tacosdedatos @YaNiPaper @earoche Coordenadas: https://t.co/m2EdWDJZT7 y https://t.co/HDEajXKco6
+Anamhoo_04	jpg	16x11	04	538253168	Anamhoo	2019-11-06T19:04:19Z	1192155771393454081	_	#30DayMapChallenge aun en la carrera Mapa de Hexágonos. Gasolineras en Mx con datos de https://t.co/G6kzECMS1X @tacosdedatos @YaNiPaper @Srta_peperina me genera muchas dudas :?
 Anamhoo_05	jpg	16x10	05	538253168	Anamhoo	2019-11-08T03:45:33Z	1192649330332721152	_	#30DayMapChallenge Raster &lt;3
+Anamhoo_07	jpg	16x16	07	538253168	Anamhoo	2019-11-08T01:43:11Z	1192618535064887297	_	#30DayMapChallenge Rojo (lo que duele) Estado de Excepción Constitucional https://t.co/1CaAn9jv8R @Srta_peperina @YaNiPaper @tacosdedatos
 andrewdc_nz_03	jpg	16x11	03	93839237	andrewdc_nz	2019-11-03T03:14:42Z	1190829629864435712	_	"Day 3 of #30DayMapChallenge (Polygons) - Christchurch Parks and Green Spaces
 Data from OSM, made with QGIS"
 andrewdc_nz_04	jpg	11x16	04	93839237	andrewdc_nz	2019-11-05T05:37:47Z	1191590409819963393	_	Day 4 of #30DayMapChallenge (Hexagons) - Places Tagged in #OpenStreetMap with #TeReo #Maori names
@@ -975,6 +988,43 @@ azolnai_21	jpg	16x10	21	25663399	azolnai	2019-11-13T17:45:30Z	119467265184074137
 @ClimateCentral  recalculated SRTM
 @OrdnanceSurvey derived by me from elevation grid
 East Anglia coastal area susceptible to coastal inundation"
+bayoishola20_03	jpg	16x11	03	180435860	bayoishola20	2019-11-03T21:17:37Z	1191102154527903745	_	"https://t.co/eKTctw7hvt  #Day3 #30DayMapChallenge
+
+Tutorial Credit: https://t.co/s7JWrjApLz"
+bayoishola20_04	jpg	16x11	04	180435860	bayoishola20	2019-11-04T22:35:18Z	1191484092052856832	_	"https://t.co/imL8tSG0wi #30DayMapChallenge #Day4 .
+
+Glad I made it. Haha!
+
+PS: First observation would be the rather sparse data available on the subject. Definitely more denser shops in reality within 3km."
+bayoishola20_05	jpg	16x11	05	180435860	bayoishola20	2019-11-05T22:56:13Z	1191851742901755905	_	"https://t.co/GT0Z4j82tn
+
+#30DayMapChallenge #Day5 
+
+Very random!"
+bayoishola20_06	jpg	11x16	06	180435860	bayoishola20	2019-11-06T21:31:40Z	1192192851783884800	_	"https://t.co/QGmKGeUnqW
+
+#30DayMapChallenge #Day6
+
+Another quick one."
+bayoishola20_07	jpg	11x16	07	180435860	bayoishola20	2019-11-06T23:54:47Z	1192228868968636417	_	"https://t.co/g1zXN9PdXw
+
+#30DayMapChallenge #Day7"
+bayoishola20_08	jpg	11x16	08	180435860	bayoishola20	2019-11-08T06:48:55Z	1192695474727407616	_	"https://t.co/Yl93SgxNAs
+
+#30DayMapChallenge #Day8"
+bayoishola20_09	jpg	11x16	09	180435860	bayoishola20	2019-11-08T23:25:15Z	1192946213454262273	_	"https://t.co/r6wzNVnTOc
+
+#30DayMapChallenge #Day9"
+bayoishola20_10	png	11x16	10	180435860	bayoishola20	2019-11-10T14:13:25Z	1193532114861473795	_	"https://t.co/c1hjv7yAnA
+
+#30DayMapChallenge #Day10"
+bayoishola20_11	jpg	16x13	11	180435860	bayoishola20	2019-11-11T22:33:22Z	1194020319507492865	_	"https://t.co/skPIzTYLDB
+
+#30DayMapChallenge #Day11 
+
+Tried out the 3D Map viewer on QGIS to visualize the terrain of Abuja. Draped satellite imagery over SRTM data.
+
+Trying out more 3D spatial terrain rendering soon."
 bbroex_01	jpg	16x11	01	235478148	bbroex	2019-11-01T20:58:53Z	1190372662536740864	_	"#30DayMapChallenge nr 1, ""Points"" als thema. Welke rijksmonumenten liggen binnen 1 km van mijn meest gebruikte Strava-start-/eindpunten?"
 bbroex_02	jpg	16x16	02	235478148	bbroex	2019-11-02T14:40:03Z	1190639715231444992	_	"#30DayMapChallenge dag 2, lijnen deze keer. Één vierkante km rondom ""het"" centrale punt van Nederland, in een nachtelijke blik op infrastructuur en inrichtingselementen uit Top10NL."
 bbroex_03	jpg	11x16	03	235478148	bbroex	2019-11-03T20:33:01Z	1191090928364195841	_	"#30DayMapChallenge 3/30 ""Polygons"".... wat is er allemaal te vinden over Utrechtse wijken (uit 2018)?"
@@ -1366,6 +1416,9 @@ Water resources around the island of Ireland show the potential for the harnessi
 blanky343_28	jpg	16x11	28	437801734	blanky343	2019-11-28T22:33:18Z	1200180896093163520	_	Posting this a little late, but what’s funnier than a map in comic sans? #30DayMapChallenge Day 28: #funny
 blanky343_29	jpg	13x16	29	437801734	blanky343	2019-11-29T12:33:03Z	1200392224070152192	_	Nearly finished with the #30DayMapChallenge! Day 29’s theme is #experimental, so to celebrate #BlackFriday2019, here’s a black and white @joydivision map of Dublin
 blanky343_30	jpg	15x16	30	437801734	blanky343	2019-11-30T09:13:54Z	1200704496097267712	_	It’s the last day of the #30DayMapChallenge (and November)! The theme is the final day is #home - so here’s a map of #Glasnevin 🏠
+BorisMericskay_01	jpg	16x11	01	32283900	BorisMericskay	2019-11-01T12:58:43Z	1190251826244980736	_	"First day of #30DayMapChallenge &gt; Points
+
+➡ Dotmap of adresses of Haute-Savoie department Dataset &gt; https://t.co/WxySNi7BNg   #MadewithQGIS"
 BorisMericskay_02	jpg	16x11	02	32283900	BorisMericskay	2019-11-02T08:27:41Z	1190546003511906305	_	"#30DayMapChallenge - Day 2 &gt;Lines
 
 ➡ Main roads in France with open dataset of @IGNFrance
@@ -1427,25 +1480,12 @@ BorisMericskay_29	jpg	16x11	29	32283900	BorisMericskay	2019-11-03T21:09:59Z	1191
 🔀Playing with spatial aggregation scales to otherwise represent population density and population ;) 
 
 Dataset @InseeFr / Made with #KeplerGL cc @heshan_cheri"
-bplmaps_01	png	16x9	01	65125461	bplmaps	2019-11-02T05:00:45Z	1190493930015596545	_	"It's the last weekend of #AmericaTransformed Part 1! The #lines on this #map from the exhibit, like the lines on most maps, are imaginary. The red network sprawling across the country = potential paths for a transcontinental railroad. #30DayMapChallenge
+bplmaps_01	jpg	16x9	01	65125461	bplmaps	2019-11-01T05:00:56Z	1190131588765499395	_	"Today is the first day of the #30DayMapChallenge! Here's Rachel's map from #BlackHistoryMonth. The #points on this map represent the homes of Black citizens of #Boston in 1848. Most of Boston's Black community lived on the North Slope of #BeaconHill.
 
-https://t.co/1iKXy061AN"
+https://t.co/4CYPIDB7P9"
 bplmaps_03	jpg	16x8	03	65125461	bplmaps	2019-11-03T11:05:11Z	1190948027344838657	_	For Day 3 of the #30DayMapChallenge, polygons, we’ve got a map of maps: an animation of all the bounding box footprints of the maps in our digital collections, from 1650 to 1950.
 bplmaps_04	png	16x16	04	65125461	bplmaps	2019-11-04T16:52:33Z	1191397835801088001	_	Today is ⬡ day in the #30DayMapChallenge! This map shows particular danger zones for biking in Boston by aggregating point locations of bike accidents into hexagonal clusters.
-bplmaps_05	jpg	16x16	05	65125461	bplmaps	2019-11-05T21:02:22Z	1191823091707588609	_	We have over 11,000 raster scans of our historic map collections in our digital collections portal, so choosing a map for Day 5 of #30DayMapChallenge was a hard task. Here's a zoom in on a tiny section of a map of North America as a reminder that every map scan is made of pixels!
-bplmaps_09	jpg	16x16	09	65125461	bplmaps	2019-11-09T10:05:39Z	1193107373260455937	_	"#30DayMapChallenge #Yellow
-From our collection: Flow lines show movement of crude oil ( dark brown) and refined oil (yellow) by pipeline or tanker to the East coast of the U.S., Europe, and other parts of the world.
-
-""The world according to Standard (N.J.)."" 1940. 
-
-#infographic"
-bplmaps_10	jpg	16x16	10	65125461	bplmaps	2019-11-10T08:55:45Z	1193452172622647296	_	"#30DayMapChallenge #BlackandWhite
-From our collection: This map of London was printed using a relief woodblock printing process, creating a striking effect with the black background and white text. 
-
-""The environs of London."" 1836. https://t.co/O5wrDrWbjM
-
-#London #thames"
-bplmaps_11	jpg	16x16	11	65125461	bplmaps	2019-11-11T12:54:59Z	1193874765380907009	_	Day 11 of #30DayMapChallenge is elevation! This plastic relief map of the area around Spokane, WA shows two ways of depicting elevation on maps: printed contour lines, and physically bending plastic to match terrain. More: https://t.co/Qf8GngvA5m
+bplmaps_16	jpg	16x16	16	65125461	bplmaps	2019-11-16T23:30:19Z	1195846591242022912	_	"Today is ""Places"" in the #30DayMapChallenge. Since we couldn't choose just one place to feature, we decided we'd do ... plaices ... instead. More: https://t.co/bmFraNrfaf"
 BrittLonneville_05	jpg	16x11	05	791292018	BrittLonneville	2019-11-05T07:49:32Z	1191623566812467200	_	"Day 5 of the #30DayMapChallenge (raster) gives me an opportunity to catch up and share this bad boy (created for #FOSS4G2019) again: the evolution of #cod gridded abundance over time. 🐡
 
 @EMODnet"
@@ -1923,12 +1963,16 @@ chisatini_01	jpg	16x12	01	799835587104514048	chisatini	2019-11-03T06:27:11Z	1190
 chisatini_02	jpg	16x12	02	799835587104514048	chisatini	2019-11-03T04:05:52Z	1190842503890472960	_	"saw few of #30DayMapChallenge, so wanted to try out too.  Here's for the ""Day 2: Lines""  - Vancouver ""Avenue runs East to West (Red) .  There's no ""Avenue"" in Downtown, just ""Street"" and lots of ""Lanes"" .  #rstats"
 chisatini_03	jpg	16x12	03	799835587104514048	chisatini	2019-11-03T18:55:02Z	1191066270122168320	_	"#30DayMapChallenge  Day 3 - Polygon - different building types of Vancouver using Open Street Map data #rstats  
 (code here: https://t.co/jstZa0iX4K) (but not many are labeled ""unknown"""
-chisatini_07	jpg	16x12	07	799835587104514048	chisatini	2019-11-12T01:46:17Z	1194068868987314183	_	#30DayMapChallenge Elevation : recoloured Version of Day 7 (Red).  Buildings coloured by base-level elevation. #rstats
+chisatini_07	jpg	16x12	07	799835587104514048	chisatini	2019-11-08T08:00:32Z	1192713500251918336	_	"#30DayMapChallenge  - Red : couldn't figure out how to deal with tif file for ""Raster""... (and still clueless)  - But today,  I've finally got to try out #rayshader package I've been wanting to try out! #rstats"
 chisatini_09	jpg	16x13	09	799835587104514048	chisatini	2019-11-10T07:31:06Z	1193430866401230849	_	#30DayMapChallenge Yellow - Loving Vancouver Open Data portal (https://t.co/gJGBXL5uY8), there was datasets on street light in Vancouver.  Over 56K street lights records are recorded.  So here's the map with 56K tiny yellow dots.  #rstats
+chisatini_10	jpg	16x11	10	799835587104514048	chisatini	2019-11-10T23:43:25Z	1193675559324114944	_	#30DayMapChallenge Black&amp;White - using Street Intersection datasets (https://t.co/Kod1BgHaQe) and created TSP (Travelling Salesman Problem) art. #rstats   There's 6100 intersections recorded in dataset!
+chisatini_11	jpg	16x12	11	799835587104514048	chisatini	2019-11-12T01:46:17Z	1194068868987314183	_	#30DayMapChallenge Elevation : recoloured Version of Day 7 (Red).  Buildings coloured by base-level elevation. #rstats
 chisatini_12	jpg	16x10	12	799835587104514048	chisatini	2019-11-13T07:26:51Z	1194516961863950336	_	#30DayMapChallenge  - Day 12: Movement - Found amazing dataset on animal tracking data on https://t.co/ONNONt7Au8, Visualized movement of 10 bald eagles observed in BC in last 12 months or so.    #rstats  Trying to figure out how to use leaflet package.
 chisatini_13	jpg	16x10	13	799835587104514048	chisatini	2019-11-17T08:08:29Z	1195976992778149889	_	#30DayMapChallenge 13 Track - Late, but wanted to visualize past typhoon data on JMA site (https://t.co/YAjTzwrYBU).  Here's few of different attempts visualizing path of typhoon since 2001 - 2019.  #rstats  code: https://t.co/QYPCnU4dCB
 chisatini_14	jpg	16x9	14	799835587104514048	chisatini	2019-11-15T06:46:42Z	1195231632975728640	_	#30DayMapChallenge 14 - Boundaries  - Vancouver is made up of smaller neighbourhoods, thought makes up good jigsaw puzzle pieces...   Was trying to figure out how to use #gganimate to animate, but couldn't figure out so will have to come back later #rstats
 chisatini_15	jpg	16x9	15	799835587104514048	chisatini	2019-11-16T08:17:37Z	1195616902187376640	_	#30DayMapChallenge Day 15 Names - name origin of prefectures in Japan (wiki: https://t.co/G8X6PxZJwu)  - was hard to put all texts in one page, so decided to pick out keyword using #tidytext, and place it on the map . #rstats  code: https://t.co/jVVpUOaRoE
+chisatini_20	jpg	16x12	20	799835587104514048	chisatini	2019-11-21T06:16:59Z	1197398480802574336	_	#30DayMapChallenge - Urban vs Rural - Postal code in  🇨🇦 is a six-character string with format H0H 0H0🎅 where H is a letter and 0 is a digit, 2nd slot determines if the region is rural or urbanized! (wiki: https://t.co/1SipirDh0N).  Shape file  from @StatCan_eng site.
+chisatini_23	jpg	16x9	23	799835587104514048	chisatini	2019-11-24T23:12:47Z	1198741278738935809	_	#30DayMapChallenge - Population (Day23) + Stats : Wish all pet takes census too but couldn't find any data on pet ownership.  Vancouver's population by neighbourhood area with 2016 census data from @VanOpenData #rstats
 citizenfishy_01	jpg	13x16	01	38010177	citizenfishy	2019-11-01T15:01:35Z	1190282743978049536	_	"#30DayMapChallenge 
 
 Locations in Great Britain where names consist entirely of vowels or entirely of consonants  - well done Wales ;-)"
@@ -2423,6 +2467,11 @@ Data from @GunDeaths
 Interactive animated map created using @Carto  
 Use Visible layers top right of map to toggle layers 
 https://t.co/FF8SALfU72"
+danc00ks0n_02	jpg	16x12	02	102093197	danc00ks0n	2019-11-02T21:07:16Z	1190737160288256005	_	"For #30DayMapChallenge  
+No2. Lines
+Had a little look at Open Street Map road network data for London 
+Decided to simply animate through the various network types using Pages feature of @tableau"
+danc00ks0n_10	jpg	16x8	10	102093197	danc00ks0n	2019-11-13T20:44:29Z	1194717691938050048	_	Better late then never I've pulled my finger out and have created a very simple white on black map of buildings across Scotland using @OrdnanceSurvey very nice open Buildings layer. GIF below shows some random localities.  How many can you recognise? #30DayMapChallenge
 danc00ks0n_22	jpg	16x7	22	102093197	danc00ks0n	2019-11-22T15:38:38Z	1197902212585967623	_	"#30DayMapChallenge Day 22: Build Environment
 New York New York
 Two maps of New York buildings using two different open sources (@bingmaps and @NYCDoITT)"
@@ -2551,6 +2600,9 @@ Daniel_AvOr_01	jpg	16x9	01	73006865	Daniel_AvOr	2019-11-01T21:22:18Z	11903785567
 
 I will prepare for the next 15 tomorrow... work is drowning me :/"
 Daniel_AvOr_03	jpg	16x11	03	73006865	Daniel_AvOr	2019-11-04T12:22:50Z	1191329958527983616	_	#30DayMapChallenge Day 3. Polygons (a bit late). Natural Protected Areas in Mexico vs (on-going research) Conservation priorities for biodiversity and Aichi targets.
+Daniel_AvOr_04	jpg	16x11	04	73006865	Daniel_AvOr	2019-11-04T16:35:35Z	1191393563315232768	_	"Ya me pongo el día en esto :). #30DayMapChallenge 
+
+Densidad de mamíferos identificados por @Conabio, incluídas #naturalista, por cada ~570.00km2."
 Daniel_AvOr_06	jpg	16x11	06	73006865	Daniel_AvOr	2019-11-07T15:27:15Z	1192463532593426432	_	"#30DayMapChallenge Day 6. Blues, 2019 average PM10 concentration in Mexico City (ppm). 
 
 Not as impressive as day 5, but still.... (this challenge takes a lot of time XD)
@@ -2568,6 +2620,16 @@ Daniel_AvOr_12	jpg	16x13	12	73006865	Daniel_AvOr	2019-11-23T16:36:48Z	1198279240
 Un mapa de ""ruido"" conforme se va moviendo el tren, en la ciudad de #Delft en los #PaísesBajos, hacia la estación; y cómo los edificios y la distancia amortizan, o no, el ruido.
 
 #DataViz #GIS"
+Daniel_AvOr_19	jpg	16x9	19	73006865	Daniel_AvOr	2019-11-23T16:33:45Z	1198278472017293320	_	"No sé en que día del #30DayMapChallenge van. La chamba me tiene trabajando como pocas veces en el año.
+
+Les dejo algo que hice hace mucho tiempo sobre el concepto de #UrbanMinning (minería urbana). Algo que además desarrollo ahora con @CMEI_MX para México.
+
+#Leiden CopperStock"
+Daniel_AvOr_21	jpg	16x11	21	73006865	Daniel_AvOr	2019-11-07T12:34:40Z	1192420099933790208	_	"Poniéndome al día con el #30DayMapChallenge os presento un Índice de Estrés Terrestre (Land Stress Index).
+
+Básicamente este indicador ""considera la vegetación actual y máxima en cada pixel"".
+
+Y sí, es parte de mi investigación en #ButerflyEffect #biodiversity #telecoupled"
 daniel_isita_01	jpg	16x11	01	379176102	daniel_isita	2019-11-02T03:45:47Z	1190475062362677248	_	"#30DayMapChallenge 
 1. Points
 
@@ -2754,18 +2816,54 @@ darenw_15	jpg	16x9	15	14344140	darenw	2019-11-25T15:36:26Z	1198988822551388162	_
 data_nurse_01	jpg	16x15	01	1605374798	data_nurse	2019-11-01T07:56:42Z	1190175818598608896	_	#30DayMapChallenge it's Friday night but luckily day one is points, so here's something I prepared earlier... #canberra mapped by 57,000 car crashes
 data_nurse_03	png	14x16	03	1605374798	data_nurse	2019-11-03T22:22:27Z	1191118469699260416	_	"'The Canberra bubble' - 2019 Federal Election, House of Representatives First Preferences By Party By Polling Place for ACT (or 'Why we're not to blame')
 #30DayMapChallenge late day 3 - polygons. #rstats #auspol"
+datacivica_01	jpg	16x12	01	3195595218	datacivica	2019-11-11T21:25:42Z	1194003289278337024	_	#30DayMapChallenge ¿Dónde se encuentran ubicados los museos en México?
+datacivica_02	jpg	15x16	02	3195595218	datacivica	2019-11-13T21:01:28Z	1194721967028359169	_	Para nuestro #30DayMapChallenge de hoy, mapeamos las rutas de Uber que, saliendo del zócalo de CDMX, tienen mayor duración promedio. #lines
+datacivica_03	jpg	16x10	03	3195595218	datacivica	2019-11-12T19:03:47Z	1194329965132566529	_	"Nuestro mapa del #30DayMapChallenge de hoy nos tomó un minuto gracias a nuestra plataforma ""Explora la violencia"" 
+
+¿Ustedes ya la conocen? 🤓
+
+https://t.co/My380ai4Xd"
+datacivica_06	jpg	15x16	06	3195595218	datacivica	2019-11-15T19:47:36Z	1195428151947485184	_	"¿Cómo se distribuye el consumo de #agua en la CDMX?
+Averígualo en nuestro mapa de hoy para #30DayMapChallenge #blue 💧"
+datacivica_07	jpg	16x12	07	3195595218	datacivica	2019-11-06T18:11:25Z	1192142458098003971	_	"¡Nos unimos al #30DayMapChallenge con este mapa de homicidios de mujeres en la vía pública! 
+
+Para saber más sobre como la violencia en la vía pública afecta a las mujeres, no olviden consultar nuestro informe 😉-&gt;  https://t.co/F3fdpFwlHv"
+datacivica_15	jpg	16x11	15	3195595218	datacivica	2019-11-15T03:52:04Z	1195187687440994304	_	Hoy para nuestro #30DayMapChallenge hicimos un sentiment analysis de tuits sobre el asilo político a Evo Morales en México.
+datacivica_17	jpg	16x12	17	3195595218	datacivica	2019-11-08T20:37:01Z	1192903874585092096	_	"#30DayMapChallenge Mapa que muestra cuáles son los municipios que presentan más violencia armada contra los hombres en México
+
+Consulta el informe completo aquí--&gt; https://t.co/F3fdpFeKiV"
+datacivica_19	jpg	15x16	19	3195595218	datacivica	2019-11-20T19:23:46Z	1197234093508792320	_	Para nuestro #30DayMapChallenge de hoy, georreferenciamos las carpetas de investigación por delitos sexuales dentro de Ciudad Universitaria.
+datacivica_24	jpg	16x12	24	3195595218	datacivica	2019-11-07T20:40:23Z	1192542332345696256	_	"#30DayMapChallenge Compartimos este mapa que muestra cuáles son los municipios con más violencia armada contra las mujeres en México
+
+Pueden consultar el informe completo aquí--&gt; https://t.co/F3fdpFeKiV"
 datarttu_09	jpg	16x11	09	793451042885296128	datarttu	2019-11-08T23:33:44Z	1192948345607729154	_	Day Yellow and my first take on #30DayMapChallenge with my fav topic, citybikes. Many thanks @HSLdevcom for opening the OD data! Arcs with lowest number of trips are not visible, but it still looks a bit messy, though
 datarttu_10	png	15x16	10	793451042885296128	datarttu	2019-11-09T22:25:33Z	1193293574386962433	_	Black &amp; white day in #30DayMapChallenge: I wonder if we are going to have a #whitechristmas 2019! Made with #rstats #ggplot2 and data from @IlmaTiede. Code: https://t.co/ankVPBx555 #weather #snow #Finland
+datavizero_01	jpg	16x12	01	2362998974	datavizero	2019-11-03T01:14:33Z	1190799392724242432	_	"Taco Universe #30DayMapChallenge 
+#Points"
+datavizero_02	jpg	16x11	02	2362998974	datavizero	2019-11-04T00:00:12Z	1191143067933265920	_	"Río Usumacinta.
+#30DayMapChallenge 
+#Lines #River"
+datavizero_03	jpg	16x11	03	2362998974	datavizero	2019-11-04T00:00:15Z	1191143082445561856	_	"Los estados mexicanos deformados con base en el número de población.
+#30DayMapChallenge #polygons #population #anamorphic"
 datavizero_11	jpg	16x9	11	2362998974	datavizero	2019-11-11T16:10:53Z	1193924064756158464	_	"Elevación del terreno desde el fondo marino. 
 Se aprecia en color rojo la zona de fallas que causa el movimiento del resto de placas tectónicas. 
 En color verde el terreno elevado sobre el nivel del mar. #30DayMapChallenge #Elevation"
+datavizero_12	jpg	16x12	12	2362998974	datavizero	2019-11-13T02:02:24Z	1194435310601588736	_	"El día de hoy @JettyMX  se une al #30DayMapChallenge 
+
+En el mapa se muestran 5% de las solicitudes para viajar en transporte compartido hacia el centro de empleo en Santa Fe. 
+La plataforma mejora la accesibilidad de los trabajadores a lugares aislados. 
+#Movement  #Commuting"
 datavizero_30	jpg	16x8	30	2362998974	datavizero	2019-12-01T01:46:07Z	1200954197409226752	_	"Un mapa de cada barrio de la CDMX.
 #30DayMapChallenge  Day 30: Home"
 David_I_Berry_05	png	16x9	05	951931529344770048	David_I_Berry	2019-11-05T21:17:05Z	1191826792849518592	_	"#30DayMapChallenge day 5 - raster
 
 GFS planetary boundary layer height forecast (for 1800z, 4th Nov.)"
+DavidNg96191301_01	png	16x12	01	799989757472374784	DavidNg96191301	2019-11-03T06:32:15Z	1190879341514829824	_	"Kenya Settlement data. 
+#30DayMapChallenge"
 DavidNg96191301_03	jpg	16x11	03	799989757472374784	DavidNg96191301	2019-11-15T20:53:10Z	1195444652855504896	_	"#30DayMapChallenge
 day 3: polygons"
+DavidNg96191301_04	jpg	16x11	04	799989757472374784	DavidNg96191301	2019-11-04T19:26:30Z	1191436576682921986	_	"#30DayMapChallenge. Hex Viz.
+Land use classes."
 DavidNg96191301_11	jpg	16x12	11	799989757472374784	DavidNg96191301	2019-11-15T20:54:11Z	1195444908502507520	_	"#30DayMapChallenge
 day 11: Elevation
 Mount Kenya."
@@ -3008,6 +3106,34 @@ To finish up, the 135 populated places (again from Natural Earth) which lie with
 DylanMoriarty_01	jpg	16x13	01	481724987	DylanMoriarty	2019-11-01T21:58:37Z	1190387693986963458	_	"#30DayMapChallenge – Points
 
 Urban Constellation of my home state, #wisconsin. Really satisfied with how well SRTM data works as *SPACE*."
+DylanMoriarty_02	jpg	16x16	02	481724987	DylanMoriarty	2019-11-03T00:44:50Z	1190791911851855872	_	"#30DayMapChallenge – Lines
+
+All of New York's roads, arranged by length. 
+
+This is a recreation of one of my all-time favorite's – @fitnr's NY Street Grid map (https://t.co/vKROjYsHu4). Been meaning to work out how to do this forever. Glad to finally have a good excuse todo so 🧙
+♀️"
+DylanMoriarty_03	jpg	16x16	03	481724987	DylanMoriarty	2019-11-03T15:25:09Z	1191013450828386312	_	"@fitnr #30DayMapChallenge – Polygon
+
+★ Famous Footprints ★ – World-renowned landmarks reduced to just the shape they make on the earth. Data from 
+@OpenStreetMap
+
+How many can ya id? Fwiw, they're (mostly) in alphabetical order, tho not at the same scale."
+DylanMoriarty_04	jpg	16x12	04	481724987	DylanMoriarty	2019-11-05T04:11:47Z	1191568769572839424	_	"@fitnr @openstreetmap #30DayMapChallenge – Hexagons
+
+What's the buzz~ 🐝 Started as just wanting to do a carto-honey-grams, ended up finding a bunch of other sweet honey stats. Even got some bee doodles."
+DylanMoriarty_05	jpg	16x11	05	481724987	DylanMoriarty	2019-11-06T03:32:58Z	1191921388514414592	_	"@fitnr @openstreetmap #30DayMapChallenge – Raster
+
+Satellites don't a high enough res to show people, but there are so many in each pixel. The lens is capturing to a moment in so many lives, but can't quite reach them.
+
+Including my own! This is the first image of me from space. Source: @NASA_Landsat."
+DylanMoriarty_06	jpg	16x13	06	481724987	DylanMoriarty	2019-11-09T20:54:14Z	1193270595275743232	_	"@fitnr @openstreetmap @NASA_Landsat ""COMPARATIVE LENGTHS of the BLUE LINES of the UNITED STATES"" – metros n' rivers.
+
+Based on a plate map by Fielding Lucas Jr. in 1823: https://t.co/PpvFnM8ozy
+
+#30DayMapChallenge – Blue"
+DylanMoriarty_08	jpg	16x11	08	481724987	DylanMoriarty	2019-11-08T14:34:19Z	1192812599664136200	_	"@fitnr @openstreetmap @NASA_Landsat Welp, missed a few days between ambition and illness. Will get those done at some point, but in the meantime a softball, vaguely inspired by the Beatles.
+
+#30DayMapChallenge – Green"
 edaniel_ramirez_05	jpg	16x6	05	210937952	edaniel_ramirez	2019-11-06T16:34:22Z	1192118034011508737	_	"Categoría: #DEM #RASTER 
 Geoprocesamiento: Modelo Digital de Elevación a partir de Curvas de Nivel 
 AOI: Cuenca Río Santiago, Jalisco . México 
@@ -3019,7 +3145,9 @@ Técnica: Editorial
 Fuente: Conjunto de datos vectoriales de la Carta de Uso de Suelo y Vegetación serie IV @INEGI_informa - Comisión Nacional de Áreas Naturales Protegidas 
 #30DayMapChallenge"
 edeleonw_01	jpg	16x10	01	968665034837676033	edeleonw	2019-11-02T23:46:05Z	1190777128306008064	_	A little late, but here is my Day 1: Points #30DayMapChallenge - All forest fires in the Mexican state of Jalisco, home of Tequila, by cause of fire.
+Elio_Javi_03	png	16x10	03	836653702182207492	Elio_Javi	2019-11-03T13:19:46Z	1190981899684139008	_	My first map for the #30DayMapChallenge! 😀 An administrative map of the world, downloaded from @EuroGeographics and done with #rstats. Code: https://t.co/y6OcXWFQGW
 Elio_Javi_04	png	16x16	04	836653702182207492	Elio_Javi	2019-11-04T07:37:13Z	1191258079410708480	_	@EuroGeographics #30DayMapChallenge day 4: Hexagon tessellation of the Iberian Peninsula. #tidyverse and #sf have made life so much easier!! #rstats Code: https://t.co/y6OcXWFQGW
+Elio_Javi_05	jpg	13x16	05	836653702182207492	Elio_Javi	2019-11-05T08:49:49Z	1191638738738266112	_	@EuroGeographics Day 5: an example of the geophysics data we can download from @TellusGSI  #30DayMapChallenge #rstats Code: https://t.co/y6OcXWFQGW
 Elio_Javi_06	png	16x14	06	836653702182207492	Elio_Javi	2019-11-06T19:32:26Z	1192162847456931841	_	"@EuroGeographics @TellusGSI Day 6: European river catchments @EUEnvironment, 
 plotted with a blue colour palette #ggplot2 #rstats  #30DayMapChallenge Code: https://t.co/y6OcXWFQGW"
 Elio_Javi_07	jpg	16x13	07	836653702182207492	Elio_Javi	2019-11-07T19:33:53Z	1192525597777551362	_	"Day 7: I’m sorry but today is the #EuroRadonDay2019 so I’ve  uploaded the 1st Pan-European Indoor Radon Map, just accepted in @EGU_NHESS  (https://t.co/fXq1Txi88S)  😁😁
@@ -3260,6 +3388,8 @@ Adeus"
 frida_celis_08	jpg	16x11	08	31267461	frida_celis	2019-11-09T03:23:40Z	1193006210682957824	_	"Siento que quienes crecimos con la florecita de Vive Sin Drogas, somos las más pachecas, ¿estaré equivocada? 
 Hoy en el #30DayMapChallenge tocaba verde y no pude pensar en otra cosa ☘️. Según el INEGI, a nivel nacional 13.8% de lxs consumidorxs  tenemos entre 17 a 35 años 👇"
 fritzGIS_22	png	16x16	22	841465160187428866	fritzGIS	2019-11-23T06:07:29Z	1198120867693117441	_	Day 1 ... er, 22 of the #30daymapchallenge: Built Environments! Threw this silliness together quickly except for the part where I *may* have done some building digitization. Used #OSM #qgis and briefly, https://t.co/200EVufsTr.
+FullerofScience_06	jpg	16x11	06	1178956904262852608	FullerofScience	2019-11-06T06:12:04Z	1191961427264888832	_	Today's #30DayMapChallenge theme is Blue. I give you extreme rainfall events in Australia for 2019 #mapvember #mapvember2019
+FullerofScience_07	jpg	7x16	07	1178956904262852608	FullerofScience	2019-11-08T03:13:06Z	1192641164106579972	_	My map today is just from @NSWRFS #firesnearme app. I think I’ve covered red, blue and green in one go. #30DayMapChallenge #mapvember2019
 FullerofScience_18	jpg	16x9	18	1178956904262852608	FullerofScience	2019-11-18T07:03:53Z	1196323120451207168	_	Just having a bit of fun with #30daymapchallenge. Australia always gets squished into a corner so I thought I'd compare a few projections (with Tassie attached of course). Day 18: Globe
 g_fiske_10	jpg	16x9	10	60300190	g_fiske	2019-11-11T01:22:00Z	1193700367701364736	_	"Reflecting on my success this summer with the flyrod. Being a geogeek, of course I logged every fish, its location and size 🎣 
 #30DayMapChallenge, Day 10 b/w map 
@@ -3438,6 +3568,18 @@ Generally_Geo_29	jpg	16x16	29	1068081944364109824	Generally_Geo	2019-11-30T09:45
 played with the lego style but fixed my draw order in #QGIS so it looks like the higher blocks are stacked. Also learn not to use map units with the drop shadow as it slowed the rendering down, but mm was very quick."
 Generally_Geo_30	jpg	11x16	30	1068081944364109824	Generally_Geo	2019-11-30T12:45:56Z	1200757855776673792	_	"#30DayMapChallenge Day 30: Home
 The 30day challenge has been a blast, I really enjoyed pushing myself and learning, but mostly being inspired by all the amazing maps and ideas people have shared. Thanks everyone"
+geo_brady_01	jpg	16x12	01	725799693842812929	geo_brady	2019-11-02T01:34:17Z	1190441967618007040	_	#30DayMapChallenge I took the centroid of each tax parcel and then symbolized the sale price / acreage.
+geo_brady_02	jpg	16x12	02	725799693842812929	geo_brady	2019-11-02T23:00:21Z	1190765617282011137	_	"#30DayMapChallenge
+Lines
+NC Ferry routes ⛴"
+geo_brady_03	jpg	16x12	03	725799693842812929	geo_brady	2019-11-03T13:35:10Z	1190985775451639810	_	"#30DayMapChallenge 
+Thiessen Polygons of Bigfoot Sightings
+Lots of small polygons = a lot of sightings
+Data from https://t.co/lVMwPeF3Fy"
+geo_brady_04	jpg	12x16	04	725799693842812929	geo_brady	2019-11-05T00:59:22Z	1191520345016225795	_	"#30DayMapChallenge Hexagons
+Average First Bloom Date
+Darker colors = earlier spring bloom
+Data is from National Phenology Network"
 geo_brady_05	jpg	16x16	05	725799693842812929	geo_brady	2019-11-06T02:55:11Z	1191911878450130944	_	"#30DayMapChallenge 
 Why not use two rasters at once?
 DEM + NLCD of Asheville, NC"
@@ -3446,6 +3588,8 @@ Today I’m tired and running out of ideas of cool things to map. Topo lines of 
 geo_brady_10	jpg	16x12	10	725799693842812929	geo_brady	2019-11-11T04:22:12Z	1193745716914663424	_	"#30DayMapChallenge 
 Black and White
 What I *think* is Southside, Virginia"
+geo_brady_23	jpg	16x12	23	725799693842812929	geo_brady	2019-11-23T21:29:08Z	1198352809730727937	_	"#30DayMapChallenge 
+Virginia Tech’s in-state undergraduate population"
 Geo_BrianJ_01	jpg	11x16	01	938705116298924032	Geo_BrianJ	2019-11-01T17:28:41Z	1190319762431266816	_	Day 1 - Points! All of the listed buildings in the UK colour coded for grade. Data from @opendatani @HistEnvScot @HistoricEngland and @NatResWales. #30DayMapChallenge
 Geo_BrianJ_02	jpg	14x16	02	938705116298924032	Geo_BrianJ	2019-11-04T08:54:26Z	1191277512019578881	_	Belated Day 2 Lines - Offshore pipelines administrated by the UK in the North Sea (Data from @ogauthority). This network only shows pipelines, there will be multiple other cables and service lines down there too. It's like a big bowl of spaghetti down there. 🍝 #30DayMapChallenge
 Geo_BrianJ_03	jpg	16x16	03	938705116298924032	Geo_BrianJ	2019-11-04T11:03:08Z	1191309901466886144	_	"Belated Day 3 Polygons - Cartogram changing the surface area of US state polygons to represent the number of people with over a million in investable assests. Data from @WSJ (https://t.co/ejYwImiCcC)
@@ -3519,6 +3663,8 @@ geografa_01	jpg	16x9	01	20448935	geografa	2019-11-01T22:13:12Z	11903913651311042
 geografa_02	jpg	16x8	02	20448935	geografa	2019-11-04T00:04:55Z	1191144256343134208	_	"Day 2 // #30DayMapChallenge Lines. Sort of. Query POIs along a line.
 https://t.co/9PGzlAqFgF"
 geografa_04	jpg	16x13	04	20448935	geografa	2019-11-05T01:20:12Z	1191525588684566533	_	Day 4: Hexagons. Where are the largest concentrations of soccer pitches in Portland? #30DayMapChallenge @tableau + @Mapbox Geographic Extension https://t.co/9qV2OzpvXs
+geografa_05	jpg	16x8	05	20448935	geografa	2019-11-06T00:50:35Z	1191880521896189952	_	Day 5 #30DayMapChallenge Rasters! Oregon LiDAR, Hillshade and Tree Canopy. https://t.co/mSt5TKZmYE
+geografa_06	jpg	16x8	06	20448935	geografa	2019-11-07T02:14:30Z	1192264030393516033	_	Day 5 #30DayMapChallenge : Blue // WeWork’s Custom House floor plan, Portland, OR in Mapbox GL JS https://t.co/RufwaXxWDh
 GeografoSevilla_01	jpg	16x12	01	2408324521	GeografoSevilla	2019-11-10T15:56:08Z	1193557965053349888	_	"1,847 diagnósticos de cáncer de mama según lugar de residencia en Jalisco, México; no importa la distancia, si hay conectividad hay más posibilidades de que las mujeres busquen atención oncológica
  #30DayMapChallenge"
 GeografoSevilla_03	jpg	16x12	03	2408324521	GeografoSevilla	2019-11-09T20:02:28Z	1193257568170389505	_	"Por si aún estoy a tiempo, va mi primer aporte en el #30DayMapChallenge 
@@ -3842,12 +3988,14 @@ GIS_Manipulator_11	jpg	11x16	11	874597331424993281	GIS_Manipulator	2019-11-11T09
 GIS_Manipulator_26	jpg	16x11	26	874597331424993281	GIS_Manipulator	2019-11-26T13:10:31Z	1199314489402908674	_	"Day 26 of the #30DayMapChallenge and I created a LiDAR-derived relative elevation model (REM). LiDAR data can be extremely useful to visualise river features such as historic river channels and floodplains!
 
 More information about REMs can be found here: https://t.co/X7amX7Wycd"
+GIS_Manipulator_30	jpg	16x11	30	874597331424993281	GIS_Manipulator	2019-11-30T10:27:42Z	1200723066407571456	_	Last day of the #30DayMapChallenge and I made a map of Leeds, UK. The current city where I live and am studying for my undergraduate degree😎.
 gis3700_03	jpg	16x16	03	919806358328958976	gis3700	2019-11-05T09:55:01Z	1191655145249136640	_	"Dag 3 van de #30DayMapChallenge, polygonen
 De statistische sectoren van Tongeren"
 gis3700_04	png	16x15	04	919806358328958976	gis3700	2019-11-05T10:07:19Z	1191658242964893696	_	Dag 4 van de #30DayMapChallenge, hexagon: aantal logies in Limburg per 10km²  * thanks to the challenging I used the hexagon * @toerismelimburg
 gis3700_05	jpg	16x14	05	919806358328958976	gis3700	2019-11-05T14:06:06Z	1191718335651762176	_	"day 5, raster #30DayMapChallenge 
 11the century - Did the lord of the castle see the church?
 -viewshedding, gdal raster,... made with @qgis"
+gis3700_08	jpg	16x11	08	919806358328958976	gis3700	2019-11-08T09:09:57Z	1192730969561804801	_	Waterlopen stroomgebied Maas en de Schelde #30DayMapChallenge dag8 thema groen
 gis3700_09	jpg	16x11	09	919806358328958976	gis3700	2019-11-08T11:30:39Z	1192766378073370624	_	#30DayMapChallenge day 9 'yellow'@stadtongeren hoogtemodel in lego
 gis3700_18	jpg	9x16	18	919806358328958976	gis3700	2019-11-18T15:11:05Z	1196445728769552390	_	#30DayMapChallenge dag 18 @LaporteJan @info_vlaanderen  GLOBE 🤷️lazy solution
 gis3700_19	jpg	16x11	19	919806358328958976	gis3700	2019-11-19T12:28:02Z	1196767085046710272	_	"#30DayMapChallenge day 19: urban https://t.co/Y1ncfQzTSh
@@ -3858,6 +4006,10 @@ gis3700_20	jpg	16x14	20	919806358328958976	gis3700	2019-11-20T15:36:10Z	11971768
 *agriculture 60,90%
 data agentschap natuur en bos, @info_vlaanderen 
 https://t.co/lLgOQbJl6C"
+gis3700_22	jpg	16x9	22	919806358328958976	gis3700	2019-11-22T09:39:03Z	1197811721085300736	_	"#30DayMapChallenge Built environment - buildings
+With a heart for my city! @stadtongeren"
+gis3700_26	jpg	16x14	26	919806358328958976	gis3700	2019-11-26T14:44:59Z	1199338263959326720	_	"#30DayMapChallenge 
+Stroomgebied ""Schelde versus Maas"" in Limburg https://t.co/RvMJ6MzgAS"
 GIS4Teachers_08	png	16x11	08	732218664875753472	GIS4Teachers	2019-11-08T15:26:21Z	1192825694377725952	_	Day 8 of #30dayMapChallenge is 'GREEN'. Do you have any 'green' maps to share? We're sharing a #map &amp; #lesson using #HDI data! Link to #ArcGISOnline #webmap below with link to lesson. Q's to K12@esri.ca and free accounts at https://t.co/WAVrI0hDXK https://t.co/ns30BCixBR #gischat
 GIS4Teachers_09	png	16x12	09	732218664875753472	GIS4Teachers	2019-11-09T13:00:53Z	1193151472759910402	_	"Day 9 of #30daymapchallenge is ''YELLOW"". Checkout this #map and #lesson on #VimyRidge &amp; explore the #geography of the battle. Free #lesson download here. Q's: K12@esri.ca 
 #RemembranceDay #lestweforget #GISchat #K12 #geographyteacher #history #teacher 
@@ -3877,12 +4029,21 @@ GIShaun_12	jpg	16x16	12	190367688	GIShaun	2019-11-13T04:50:29Z	11944776091674091
 Movement: Hochstetter Icefall descending the eastern slope of Aoraki/Mt Cook, feeding Tasman Glacier, New Zealand
 
 False colour images from Venµs (@PoleTheia), inspired by @sgascoin (thanks!) [1/3]"
+gmapsmania_01	jpg	16x8	01	17174685	gmapsmania	2019-11-01T17:02:29Z	1190313168981155841	_	"How to Find Your Nearest Mountain - you've seen enough disaster movies to know that when disaster strikes you need to flee to the nearest high ground.
+https://t.co/7cuGBzw4Yp
+#30DayMapChallenge"
 gmapsmania_02	jpg	16x8	02	17174685	gmapsmania	2019-11-02T16:27:03Z	1190666642923098112	_	"Miami Street Orientation - for day 2 of the  #30DayMapChallenge this map shows the orientation of roads named 'Avenue' and roads named 'Street' in Miami.
 https://t.co/R0aeGV6N6n"
+gmapsmania_03	jpg	16x8	03	17174685	gmapsmania	2019-11-03T13:33:13Z	1190985281903697923	_	"Church Orientation Map - day three of the #30DayMapChallenge  is all about the polygons. My map shows churches as extruded polygons and also shows the orientation of the churches in London.
+https://t.co/xnsau4raey"
 gmapsmania_04	jpg	16x8	04	17174685	gmapsmania	2019-11-04T16:10:31Z	1191387258542329856	_	"Hexbinning Manhattan Bars. Day 4 of the #30DayMapChallenge is to create a map with hexagons. This interactive map shows you New York's hot spots based on the density of bars.
 https://t.co/gjfG2OmodH"
 gmapsmania_05	jpg	16x8	05	17174685	gmapsmania	2019-11-05T15:02:37Z	1191732558192664578	_	"Raster Rivers &amp; Railways. Day 5 of the #30DayMapChallenge is to create a raster map. Here's an interactive raster map of the World's Rivers. 
 https://t.co/EEIZiJjtCJ"
+gmapsmania_06	jpg	16x14	06	17174685	gmapsmania	2019-11-06T18:54:20Z	1192153258204258305	_	"Something old, something borrowed, something blue. 
+
+For today's #30DayMapChallenge I present a modern update of an old vintage map of London pubs, which uses a blueprint map style borrowed from Mapbox.
+https://t.co/gj43RmywBL"
 gmapsmania_07	jpg	16x8	07	17174685	gmapsmania	2019-11-07T14:21:01Z	1192446862084710400	_	"Day 7 of the #30DayMapChallenge brings us to the color red. Here are some red towns from around the world. 
 https://t.co/HgMpS77TSq"
 gmapsmania_08	jpg	16x7	08	17174685	gmapsmania	2019-11-08T15:22:57Z	1192824838236319744	_	"Day 8 of the #30DayMapChallenge is colored a rather fetching shade of green. 
@@ -3894,11 +4055,15 @@ is an interactive abstract map of the world featuring a number of different verd
 https://t.co/Nuib1lmZrg"
 gmapsmania_09	jpg	16x11	09	17174685	gmapsmania	2019-11-09T16:20:21Z	1193201671347884033	_	"China's Yellow River Delta - sediment swept down the river constantly builds and rebuilds the mouth of the Yellow River. #30DayMapChallenge - yellow!
 https://t.co/yJznUUdr0f"
+gmapsmania_10	jpg	16x7	10	17174685	gmapsmania	2019-11-10T16:16:49Z	1193563169601523714	_	"The #30DayMapChallenge in black &amp; white. New York with 3D buildings. 
+https://t.co/SXJl75iJEt"
 gmapsmania_12	jpg	16x7	12	17174685	gmapsmania	2019-11-12T15:42:35Z	1194279329917788160	_	"#30DayMapChallenge day 12 - Movement.
 
 Using the Leaflet.Polyline.SnakeAnim plug-in to map the first 40 years of the London Underground.
 
 https://t.co/Xxe5Qu3xVk"
+gmapsmania_13	jpg	16x12	13	17174685	gmapsmania	2019-11-13T14:06:29Z	1194617533078347776	_	"Tracking Tropical Storm Fengshen - my ugliest map so far in the #30DayMapChallenge  . However with a little work it could (possibly) be a good basis for future storm tracking maps.
+https://t.co/Iz7ROuZO1k"
 gmapsmania_15	jpg	16x8	15	17174685	gmapsmania	2019-11-15T13:09:02Z	1195327849349206017	_	"There Are No Streets in Crawley - Day 15 of the #30DayMapChallenge is 'name'.  So I continued my fruitless search for post-1800 roads named 'Street' in the UK.
 https://t.co/HVLdhLbgav"
 gmapsmania_24	jpg	16x10	24	17174685	gmapsmania	2019-11-24T15:09:57Z	1198619771090219008	_	"#30DayMapChallenge  Day 24 - statistics. So this one is a bit of a cheat. A redesign of my Wurman dot map showing the density of pubs in London.
@@ -4050,7 +4215,10 @@ gontsa_30	jpg	16x11	30	14992557	gontsa	2019-11-30T22:57:51Z	1200911851552415747	
 #30DayMapChallenge Day 30: Home
 Data: OpenStreetMap contributors
 QGIS, Blender, Inkscape"
+grace_miswa_01	jpg	16x7	01	802271893562806272	grace_miswa	2019-11-01T13:16:45Z	1190256361810153478	_	"#30dayMapChallenge #mapboxgl #points @Mapbox 
+Web-Based Visualization of Schools in Nairobi. This was exciting!!!"
 grace_miswa_02	jpg	16x7	02	802271893562806272	grace_miswa	2019-11-01T21:17:21Z	1190377309854928897	_	#30DayMapChallenge #mapbox Day 2: Lines. Visualization of Airplane Flight Paths. with mapbox. 🌎🌍🌏
+grace_miswa_03	jpg	16x5	03	802271893562806272	grace_miswa	2019-11-02T21:07:42Z	1190737270137147392	_	As the #30DayMapChallenge  toys with my consistency, let me present #day3 #Polygons with maps showing Crime Index Rate from 2016- 2018. Source ; Kenya Annual Crime Report https://t.co/UUoIAVRdAT
 grace_miswa_04	jpg	16x7	04	802271893562806272	grace_miswa	2019-11-03T22:16:36Z	1191116995804254209	_	Random data created using https://t.co/SFFyhubeqr and mapped using https://t.co/nfXsJ7Anwc as we mark #day4  of the #30dayMapChallenge. Just Learnt a hexagon's heatmap is based on an array of points and the color and height of the hexagon is scaled by number of points it contains
 greenpath_urban_24	jpg	16x11	24	248833871	greenpath_urban	2019-11-24T17:11:47Z	1198650433297887329	_	@HSLdevcom Suosituimmat kaupunkipyöräreitit 10/2019. Reiteissä korostuu metroasemien (Ruoholahti, Lauttasaari ja Aalto-yliopisto) ja kaupunkipyöräasemien yhteys. Suosituin reitti Aalto-yliopisto (M), Korkeakouluaukio - Jämeräntaival, molempiin suuntiin. #30DayMapChallenge Day 24: Statistics
 greenynorfolk_03	jpg	16x13	03	768902350442467328	greenynorfolk	2019-11-12T17:24:42Z	1194305028103782401	_	"#30daymapchallenge | Polygon | Helping the little one with his school project - The Great Fire of London in @tableau 
@@ -4107,10 +4275,21 @@ The first name of mayors, Grand Est, french region
 Gustav_Ahumada_05	jpg	16x12	05	1132099800827088896	Gustav_Ahumada	2019-11-03T19:17:11Z	1191071846738907138	_	My first map of the #30DayMapChallenge! Raster maps of precipitations in two Colombian regions. #Guajira a desert area and #Choco a region with high precipitation levels. #rstats #ggplot
 Gustav_Ahumada_08	png	16x13	08	1132099800827088896	Gustav_Ahumada	2019-11-09T01:55:04Z	1192983913829994500	_	#30DayMapChallenge: Day 8 is green. Maximum temperature for 2050 in Colombia. The source of data is https://t.co/Fd1kkFoz1F  #rstats #ggplot
 Gustav_Ahumada_21	jpg	13x16	21	1132099800827088896	Gustav_Ahumada	2019-11-22T00:32:07Z	1197674083317624832	_	#30DayMapChallenge: Day 21 environment. Average temperature for 2050 in Colombia. The source of data is https://t.co/4GvrAT8hvb  #rstats #ggplot
+GutierrezyMarco_02	png	16x10	02	940411502	GutierrezyMarco	2019-11-04T12:35:37Z	1191333173654745093	_	#30DayMapChallenge Carreteras con administración federal en #México, con información de la Red Nacional de Caminos de #INEGI elaborado en #QGIS #maps .
+GutierrezyMarco_06	jpg	16x8	06	940411502	GutierrezyMarco	2019-11-07T12:44:19Z	1192422527097638914	_	#30DayMapChallenge Corrientes y cuerpos de agua en #Tabasco #México
+GutierrezyMarco_07	jpg	16x11	07	940411502	GutierrezyMarco	2019-11-08T05:26:22Z	1192674701870419968	_	#30DayMapChallenge Cementerios en #México con información de #INEGI #mapas #maps
 GutierrezyMarco_10	jpg	16x11	10	940411502	GutierrezyMarco	2019-11-10T17:32:32Z	1193582224202797056	_	#30daymapchallenge Black and white. Carreteras de administración estatal en #México. #RNC #INEGI
 GutierrezyMarco_11	jpg	16x10	11	940411502	GutierrezyMarco	2019-11-06T13:30:53Z	1192071860940206080	_	#30DayMapChallenge Distribución de elevaciones en #México #CONABIO
+GutierrezyMarco_15	jpg	16x9	15	940411502	GutierrezyMarco	2019-11-16T00:01:23Z	1195492021990936577	_	"#30DayMapChallenge Vialidades en #México cuyo nombre es ""Miguel Hidalgo"" con datos de #RNC #INEGI"
 GutierrezyMarco_19	jpg	16x9	19	940411502	GutierrezyMarco	2019-11-19T22:56:52Z	1196925335696105472	_	#30DayMapChallenge  #Urban En México existen 4,563 localidades clasificadas como urbanas por el #INEGI en el Marco Geoestadístico. #maps
+hailmika_01	jpg	16x16	01	156471512	hailmika	2019-11-02T09:06:00Z	1190555647420588032	_	#30DayMapChallenge I got more used to ArcGIS because of my previous job. But now I'm trying to improve my QGIS skills (because what normal person can afford ArcGIS anyway). I made a tree map of #Copenhagen. Lighter color = newer trees, darker = older (or year data is unavailable)
+hailmika_02	jpg	12x16	02	156471512	hailmika	2019-11-03T13:03:27Z	1190977790767751169	_	I wanted to do a bike map of #Copenhagen but it needed some processing work. I will work on it another time. So here is a simple road map. The first includes the whole Amager island. Will look for something interesting for polygons later. #30DayMapChallenge
+hailmika_03	jpg	15x16	03	156471512	hailmika	2019-11-03T17:43:39Z	1191048304521601024	_	Buildings of #Copenhagen from @openstreetmap. Starting to get the hang of QGIS! #30DayMapChallenge. Downloading more data from https://t.co/sLFVWSq1hi and https://t.co/iEu3GkJ0Rx to practice 🗺📍
+hailmika_04	jpg	15x16	04	156471512	hailmika	2019-11-04T15:45:13Z	1191380889416224769	_	"I didn't know what to do for the #30DayMapChallenge today so I just stole Topi's idea and did a day version with cafes as well for #Copenhagen.
+
+(Berlin wins on nightlife, sorry) https://t.co/97VWjDyuiI"
 hailmika_05	png	16x13	05	156471512	hailmika	2019-11-05T19:55:16Z	1191806203543851009	_	Day 5 of #30DayMapChallenge. I have to confess: I've never done a raster map before 🙈 so this is a bit unfinished. This map of Denmark is showing tree density data from CORINE downloaded it from kortforsyningen. The CORINE tree density value is % of coverage accdg to their site.
+hailmika_06	jpg	11x16	06	156471512	hailmika	2019-11-06T17:43:54Z	1192135531683045382	_	Quick and dirty #Copenhagen water map. #30DayMapChallenge TIL how to make print layouts and add a scale bar in QGIS.
 hansakwast_11	jpg	16x10	11	760094405369946112	hansakwast	2019-11-11T06:41:54Z	1193780872417357824	_	2.5D #floodrisk map of #Tharandt #Germany. All data (#elevation #DEM, #3D buildings, flood zones, aerial photographs) from #opendata portal #Sachsen. https://t.co/tVtGpjpSEQ. Day 11 #30DayMapChallenge #QGIS #Qgis2threejs plugin.
 hansakwast_17	jpg	10x16	17	760094405369946112	hansakwast	2019-11-17T10:28:40Z	1196012268489711618	_	Day 17 of #30DayMapChallenge: zones. #Thiessen polygons (aka #Voronoi cells) for spatial #interpolation of temperatures in the Netherlands. Clear gradient from the North Sea coast to the inland in this season (early autumn).
 hansakwast_22	jpg	16x11	22	760094405369946112	hansakwast	2019-11-11T22:38:46Z	1194021677237243907	_	#30DayMapChallenge Day 11 #elevation. False colour near infrared aerial photograph of downtown #Rotterdam draped over 0.5 m #LIDAR DSM (AHN3). #opendata #WCS and #WMTS through @PDOK_online plugin in #QGIS and visualisation with QGIS 3D view. The red colours indicate urban green.
@@ -4572,6 +4751,8 @@ inari_ta_10	png	11x16	10	527879669	inari_ta	2019-12-03T00:41:09Z	120166262256480
 Map showing entries for the Globe At Night campaign where scientists were asked to measure their sky night brightness. The position of the dots doesn't mean that those areas are the best to see the stars 😉"
 inari_ta_11	png	16x11	11	527879669	inari_ta	2019-12-03T00:41:20Z	1201662669293522944	_	"#30DayMapChallenge Day 11 - Elevation
 Highly inspired by the amazing map of the moon by @OrdnanceSurvey. I was looking forward to doing this map since the beginning of the challenge. First time doing hillshades directly in QGis."
+indiaviz_01	jpg	16x8	01	1144303064871948288	indiaviz	2019-11-01T19:54:03Z	1190356346048147457	_	"#30DayMapChallenge . My first entry is the gridded population dataset (GPW). @tjukanov did the EU version of it for his entry.
+#map #maps #gpw #population #world #geography #cartography"
 indiaviz_02	jpg	16x16	02	1144303064871948288	indiaviz	2019-11-02T22:33:01Z	1190758738631639040	_	"#30DayMapChallenge day 2 - lines.
 Here is a map of the Ethiopian road network. Large clump near Adis Ababa 
 
@@ -4580,10 +4761,22 @@ indiaviz_04	jpg	16x16	04	1144303064871948288	indiaviz	2019-11-04T19:05:51Z	11914
 indiaviz_05	jpg	16x7	05	1144303064871948288	indiaviz	2019-11-05T22:23:03Z	1191843397469761536	_	"#30DayMapChallenge rasters. Left is a raster of the SRTM elevation data from natural earth and right is a population heatmap from GPW.
 
 In both left and right you can see the highly populated watersheds of the Ganges and the Indus. #maps #cartography #raster #srtm #india"
+indiaviz_06	jpg	8x16	06	1144303064871948288	indiaviz	2019-11-07T01:42:31Z	1192255979011731456	_	#30DayMapChallenge Blue. Something quirky today - a blueprint style street network of Mumbai. #maps #map #cartography #india #mumbai #bombay #indianmaps #indianculture
 indiaviz_11	png	16x16	11	1144303064871948288	indiaviz	2019-11-11T08:33:45Z	1193809023373414400	_	"#30DayMapChallenge Indian subcontinent elevation.
 
 Data: SRTM Natural Earth Raster
 Tool: #QGIS"
+indiaviz_12	png	16x16	12	1144303064871948288	indiaviz	2019-11-13T00:39:33Z	1194414463186685952	_	#30DayMapChallenge - Movement. A bit busy today so I decided to reuse this map from last week. Incoming international students in India. #maps #india #indian #indianculture #education #international
+indiaviz_14	jpg	16x15	14	1144303064871948288	indiaviz	2019-11-14T20:43:04Z	1195079726424977408	_	"At a request of a reader I put together this geojson of the latest internal geography change.
+
+also my entry for today's #30DayMapChallenge - boundaries. Jammu Kashmir / Ladakh
+
+URL: https://t.co/kzC6l8birP
+
+#maps #mapsofindia #indianmaps #kashmir #ladakh #southasia #SouthAsian"
+indiaviz_19	jpg	10x16	19	1144303064871948288	indiaviz	2019-11-19T17:52:17Z	1196848682877865985	_	"#30DayMapChallenge urban, here is one of the oldest urban areas of the world - street map of Jerusalem
+
+#map #maps #jerusalem #cartography #mapping #blueprint"
 ing_ressive_04	jpg	15x16	04	2841114117	ing_ressive	2019-11-04T15:39:46Z	1191379516066844674	_	#30DayMapChallenge Day 4: beehives in Germany
 ing_ressive_21	jpg	16x11	21	2841114117	ing_ressive	2019-11-21T14:46:55Z	1197526809501470721	_	#30DayMapChallenge day 21: only 5 city districts in Hamburg having more trees than cars
 Innisfree_01	jpg	16x9	01	10360	Innisfree	2019-11-02T15:31:43Z	1190652717255086080	_	Day 1 of #30DayMapChallenge. UNESCO world heritage sites, cultural=blue, natural=green, combo=purple, red halo=endangered. Challenging to show 2 categorical variables.  Suggestions, ideas welcome. #creativecarto #gischat
@@ -5134,8 +5327,14 @@ josephlewis1992_04	png	16x11	04	982971805555154944	josephlewis1992	2019-11-05T19
 Short on time, so it's a lazy one: Archaeological sites in China during the Neolithic
 
 Data source: https://t.co/nIW66s5coH"
+joshua_sumers_01	jpg	12x16	01	1190443883802636289	joshua_sumers	2019-11-02T01:47:58Z	1190445411208744965	_	#30DayMapChallenge #day1 #EmergencyServices
+joshua_sumers_02	jpg	16x12	02	1190443883802636289	joshua_sumers	2019-11-03T16:25:13Z	1191028568400236545	_	Forgot to post this to twitter yesterday #30DayMapChallenge #day2 #lines
+joshua_sumers_03	jpg	16x12	03	1190443883802636289	joshua_sumers	2019-11-03T21:04:41Z	1191098898649096193	_	#30DayMapChallenge #day3 #polygons #wildfires #Virginia
 joshua_sumers_04	jpg	12x16	04	1190443883802636289	joshua_sumers	2019-11-04T17:32:51Z	1191407978223669249	_	#30DayMapChallenge #day4 #hexagons
 joshua_sumers_05	jpg	16x16	05	1190443883802636289	joshua_sumers	2019-11-05T19:13:32Z	1191795699953868802	_	#30DayMapChallenge #day5 #rasters #flooding #Arkansas #2019 inspired by @shakasom
+joshua_sumers_06	jpg	16x12	06	1190443883802636289	joshua_sumers	2019-11-07T04:09:25Z	1192292947544494082	_	#30DayMapChallenge #day6 #blue #iNaturalist two maps I did for today
+joshua_sumers_07	jpg	16x12	07	1190443883802636289	joshua_sumers	2019-11-08T06:35:41Z	1192692145129492480	_	#30DayMapChallenge #day7 #red #explosiveevents
+joshua_sumers_08	jpg	16x11	08	1190443883802636289	joshua_sumers	2019-11-10T00:02:00Z	1193317849940578304	_	#30DayMapChallenge #Day8 #Green #iNaturalist #SeaTurtles #Sea #Turtles
 joshua_sumers_09	jpg	12x16	09	1190443883802636289	joshua_sumers	2019-11-10T00:02:55Z	1193318078026833922	_	#30DayMapChallenge #Day9 #Yellow #Bananas #Ecuador #OSM #OpenStreetMap
 Juanizio_C_01	jpg	12x16	01	2380934868	Juanizio_C	2019-11-01T14:32:34Z	1190275441162178561	_	"Hoy comienza el #30DayMapChallenge !
 
@@ -5344,6 +5543,9 @@ Data from:  @SII_Chile"
 Junevgt_03	jpg	13x16	03	3195365733	Junevgt	2019-11-03T18:46:34Z	1191064139906584576	_	"Avec un peu de retard pour le jour 3 dédié aux ""polygones"" pour le #30DayMapChallenge.
 Voici le pingouin d'urbanimal (pour voir la collection en entier, c'est par là : https://t.co/RejfdVYero) #lagéoçasedessine #polygone #maps"
 Junevgt_04	jpg	16x12	04	3195365733	Junevgt	2019-11-04T16:55:47Z	1191398648774627328	_	Pour le jour 4 du #30DayMapChallenge dédié aux #Hexagones. Je vous propose de regarder d'où viennent les différentes espèces d'abeilles les plus répandues. #lagéoçasedessine
+Junevgt_12	jpg	16x15	12	3195365733	Junevgt	2019-11-12T10:27:38Z	1194200071149096960	_	"« Mouvement » au programme du 12e jour du #30DayMapChallenge ; je vous propose de suivre l'évolution de l'avancée du désert avec cette carte intitulée ""l'avancée du dragon jaune"". #lagéoçasedessine. En ligne sur #STINARTO"
+Junevgt_13	png	16x16	13	3195365733	Junevgt	2019-11-13T19:51:29Z	1194704356051968001	_	« Tracks» au programme du 13e jour du #30DayMapChallenge ; je vous propose de découvrir des fjords et de suivre les traces d'animaux emblématiques norvégiens. #lagéoçasedessine. En ligne sur #STINARTO
+Junevgt_22	jpg	16x12	22	3195365733	Junevgt	2019-11-22T17:23:23Z	1197928573849522178	_	"Lorsque j'ai découvert le thème du jour ""#built #environnement"" du #30DayMapChallenge j'ai de suite pensé à ""Habiter la forêt en 2113"" (sujet du CCImaginaire 2018) #lagéoçasedessine #STINARTO"
 JuvenalCamposF_01	jpg	16x12	01	260088313	JuvenalCamposF	2019-11-02T04:25:28Z	1190485049923133440	_	"#30DayMapChallenge 
 
 Día 1. Puntos. 
@@ -5982,6 +6184,11 @@ knozi1_15	jpg	16x10	15	2548848856	knozi1	2019-11-15T08:21:37Z	119525552001120256
 https://t.co/1A76tITAdk"
 knozi1_22	jpg	16x12	22	2548848856	knozi1	2019-11-22T08:05:24Z	1197788155350601728	_	#30DayMapChallenge Day 22: Permitted and completed buildings in Austria since 2011 #STATatlas @STATISTIK_AT https://t.co/pcynT49mhJ
 knozi1_23	jpg	16x9	23	2548848856	knozi1	2019-11-23T09:12:26Z	1198167409942765568	_	#30DayMapChallenge Day 23: Total Population in Austria by 250m Statistical Grid   #STATatlas @STATISTIK_AT https://t.co/N7Rloee5Gn
+komzpa_01	jpg	12x16	01	20379464	komzpa	2019-11-05T06:58:06Z	1191610625631363072	_	Points. #30DayMapChallenge
+komzpa_02	jpg	16x15	02	20379464	komzpa	2019-11-06T06:29:05Z	1191965708994973696	_	Lines. #30DayMapChallenge
+komzpa_03	jpg	16x13	03	20379464	komzpa	2019-11-07T05:32:29Z	1192313854040190976	_	Polygons. #30DayMapChallenge
+komzpa_04	jpg	11x16	04	20379464	komzpa	2019-11-08T06:06:14Z	1192684734222082049	_	Hexagons. #30DayMapChallenge
+komzpa_05	jpg	15x16	05	20379464	komzpa	2019-11-09T20:20:40Z	1193262146748063746	_	Raster. #30DayMapChallenge
 kovalainenaa_06	jpg	16x8	06	1105125638548135936	kovalainenaa	2019-11-06T21:58:32Z	1192199614016999425	_	Day 6: Blue. Oh well, at least I tried🤷️#30DayMapChallenge
 kriksine_01	jpg	16x8	01	461965493	kriksine	2019-11-09T17:51:40Z	1193224652832817152	_	#30DayMapChallenge 1. diena. Punktotā Rīga.
 kriksine_03	jpg	16x11	03	461965493	kriksine	2019-11-09T18:18:38Z	1193231437870313473	_	#30DayMapChallenge 3. diena, poligoni. Latvijas digitālais reljefa modelis.
@@ -6188,6 +6395,10 @@ LASACONGRESS_01	jpg	16x13	01	2869692951	LASACONGRESS	2019-12-01T19:33:00Z	120122
 
 ¿Qué dicen las portadas de los periodicos latinoamericanos hoy domingo 1° de dic.?
 https://t.co/dbbrI7FfhU"
+LASACONGRESS_27	jpg	16x14	27	2869692951	LASACONGRESS	2019-11-27T15:41:00Z	1199714748125855745	_	"#30DayMapChallenge
+#LASMaps
+Mapa de conflictos mineros, proyectos y empresas mineras en América Latina
+https://t.co/MFujRTpb20"
 laurentgontier_04	jpg	16x11	04	1465157221	laurentgontier	2019-11-04T07:02:00Z	1191249215822925824	_	Château médiéval. Wargame Cry Havoc, années 1980. #30DayMapChallenge #wargame #hexagon
 laurentgontier_14	jpg	16x13	14	1465157221	laurentgontier	2019-11-14T08:58:35Z	1194902435057328128	_	"#30DayMapChallenge Day 14 - Boundaries
 Frontière Irlande du Nord / République d'Irlande, avec localisation des anciens checkpoints et passage/ Border between NI and the Republic with former checkpoint and crossing locations. 
@@ -6195,9 +6406,11 @@ Frontière Irlande du Nord / République d'Irlande, avec localisation des ancien
 lcgeography_11	jpg	16x9	11	160276179	lcgeography	2019-11-11T23:41:08Z	1194037373673377793	_	"#30DayMapChallenge day 11: Elevation
 
 Using #GIS to explore the relationship between height &amp; liquefaction risk in the San Francisco area using 3D #Scene with #ArcGIS"
+LDSISurveying_01	jpg	16x10	01	92087225	LDSISurveying	2019-11-05T13:27:45Z	1191708684520476674	_	Catching up over from the weekend! #ldsi #points #30daymapchallenge
 LDSISurveying_02	jpg	16x10	02	92087225	LDSISurveying	2019-11-05T14:20:39Z	1191721996587016195	_	"Day 2 of the #30DayMapChallenge ""Lines"" #ldsi #gisp #charlottesurveyors"
 LDSISurveying_03	jpg	16x10	03	92087225	LDSISurveying	2019-11-05T17:28:01Z	1191769145873973248	_	"Day 3 of the #30DayMapChallenge ""polygons"" #ldsi #gis #surveyors"
 LDSISurveying_04	jpg	16x15	04	92087225	LDSISurveying	2019-11-06T16:29:30Z	1192116809727655941	_	#30DayMapChallenge  Day 4...Hexagons!
+LDSISurveying_05	jpg	16x15	05	92087225	LDSISurveying	2019-11-06T18:07:32Z	1192141478757306368	_	#30DayMapChallenge - Day 5...Raster!
 LDSISurveying_06	jpg	15x16	06	92087225	LDSISurveying	2019-11-06T20:14:24Z	1192173408634785793	_	#30DayMapChallenge Day 6...Blue!
 LDSISurveying_07	jpg	12x16	07	92087225	LDSISurveying	2019-11-07T21:10:28Z	1192549906294222851	_	#30DayMapChallenge Day 7...Red.
 LGeospatial_02	jpg	16x12	02	818668655693004801	LGeospatial	2019-11-21T09:02:18Z	1197440084410191872	_	"Now inspired by the #30DayMapChallenge 
@@ -6390,6 +6603,8 @@ Traffic accidents in Barcelona year 2017. Data #OpendataBCN"
 lutraconsulting_26	jpg	16x11	26	453028244	lutraconsulting	2019-11-26T08:26:17Z	1199242961260818432	_	"#30DayMapChallenge Day 26: #hydrology:
 If Mosul dam breaches. More info here: https://t.co/AWCXBGFwiU"
 lvmgeo_05	jpg	16x16	05	920588104678899712	lvmgeo	2019-11-05T13:50:40Z	1191714448710520832	_	#30DayMapChallenge day 5: raster. Digital surface model, digital terrain model, canopy height model, near infrared orthoimage. Location: Viskuzu Island in Usma Lake, Latvia. #lvmgeo team joins the challange!
+lvmgeo_06	jpg	16x4	06	920588104678899712	lvmgeo	2019-11-06T15:30:29Z	1192101959127457792	_	Turning blue. Forest management plans depict forest stand structure. Blue is for birch, orange is for pine, violet is for spruce. This location (1927, 1971, 2018) becomes more populated by birch, therefore more blue #30DayMapChallenge #lvmgeo
+lvmgeo_07	jpg	16x9	07	920588104678899712	lvmgeo	2019-11-07T18:37:22Z	1192511377883246592	_	Red Helleborine - Sarkanā cefalantēra - Rotes Waldvöglein deposits (Cephalanthera rubra (L.) Rich.) found in Baltic sea region 2009-2019 #30DayMapChallenge #lvmgeo
 lvmgeo_08	jpg	16x10	08	920588104678899712	lvmgeo	2019-11-08T11:53:36Z	1192772153156014080	_	"Day 8 ""Green"". Three ancient hillforts in Tērvete, Latvia. LIDAR data digital terrain model (DTM) and digital surface model (DSM) #30DayMapChallenge @lvmgeo"
 lvmgeo_11	jpg	12x16	11	920588104678899712	lvmgeo	2019-11-14T14:46:36Z	1194990015564132357	_	"Day 11: Elevation. Probably the highest tree in forests managed by Latvia's State Forests – spruce 44.3 m (according to LIDAR data). 
 
@@ -6398,6 +6613,10 @@ Location: Tērvete forest
 lvmgeo_12	jpg	16x11	12	920588104678899712	lvmgeo	2019-11-17T16:12:08Z	1196098706170363904	_	"Day 11/12: Movement and tracks. Routes taken by forestry trucks delivering to our clients (00 - 24 h, one sunny August day)
 
 #GPS #RoadNetwork #30DayMapChallenge #lvmgeo"
+lvmgeo_27	jpg	16x10	27	920588104678899712	lvmgeo	2019-11-29T13:32:10Z	1200407101249597442	_	"Since 2014 African swine fever (ASF) has spread within wild boar population in Latvia. The map shows animal density and ASF cases. 
+Data source: Food and Veterinary Service of Latvia
+
+#30DayMapChallenge"
 lyzidiamond_01	jpg	16x8	01	17523331	lyzidiamond	2019-11-01T21:39:00Z	1190382756355825665	https://geovember.glitch.me/1/	@glitch Day 1 theme of #30DayMapChallenge is Points. I submit this realtime map of earthquakes in the last hour as recorded by USGS, built with @Mapbox GL JS. And because it runs on Glitch, feel free to remix the project and play with it yourself! https://t.co/UTABYXNbdm
 lyzidiamond_02	jpg	16x8	02	17523331	lyzidiamond	2019-11-04T22:10:10Z	1191477766660771848	https://geovember.glitch.me/2/	@glitch @Mapbox Day 2 theme for #30DayMapChallenge was Lines. I made a map of global railroad data from Natural Earth (thx @kelsosCorner + @MtnMapper) using @LeafletJS and raster tiles from a @Mapbox style I made. (Also I'm still gonna do all 30 even if they're late!) https://t.co/swuypG1HYA
 lyzidiamond_03	jpg	16x8	03	17523331	lyzidiamond	2019-11-05T19:26:47Z	1191799035356684299	https://geovember.glitch.me/3/	@glitch @Mapbox @kelsosCorner @MtnMapper @LeafletJS Day 3 theme for #30DayMapChallenge was Polygons. I made five (!) maps using global bathymetry data from Natural Earth, each in a different projection using @qgis. No, I did not use Mercator. Yes, I did use TWO azimuthal equidistant projections. https://t.co/IJlKqULmch
@@ -6497,6 +6716,13 @@ magonza9_10	png	6x16	10	118795641	magonza9	2019-11-10T22:15:01Z	1193653313851539
 Day 10: black and white
 Railroad network
 Santiago, Chile (BCN, s/f)"
+ManAboutCouch_14	jpg	16x11	14	21193285	ManAboutCouch	2019-11-14T14:11:33Z	1194981195903381504	_	"The first 'Peaceline' barriers were erected in Belfast 50 years ago. Most of them are still standing today. Here's where they are, overlaid on a map showing religious identity.
+
+More info: https://t.co/segKWqf7cb
+
+Data: @BIP_Interfaces &amp; @NISRA 
+
+#30DayMapChallenge #boundaries"
 ManAboutCouch_22	jpg	16x9	22	21193285	ManAboutCouch	2019-11-22T12:20:13Z	1197852281833762816	_	"Here's every road, path and track in Dublin.
 
 #30DayMapChallenge Day 22: Built Environment"
@@ -6961,6 +7187,15 @@ free-floating bike sharing movements in #Cologne on a weekday morning.
 
 Data collected from their API in 30 minute intervals for two hours: https://t.co/d61Bi0U2WW
 Tool: QGIS, Photoshop"
+MartinBangratz_14	jpg	16x11	14	14707170	MartinBangratz	2019-11-15T00:14:47Z	1195133006807273473	_	"On the 14th day of #30DayMapChallenge (""Boundaries"") I looked at a few border city pairs on uniform scale.
+
+El Paso - Ciudad Juárez
+Islamabad - Rawalpindi
+Brazzaville - Kinshasa
+Niagara Falls (Canada/US)
+
+Data: OSM
+Tools: Overpass Turbo, Geofabrik, QGIS"
 MartinBangratz_15	jpg	16x12	15	14707170	MartinBangratz	2019-11-15T16:06:02Z	1195372395575549961	_	"#30DayMapChallenge Day 15: Names
 
 Voronoi polygons around #London tube stations filled with the name of their nearest (in a direct line) station."
@@ -6985,6 +7220,8 @@ Data: https://t.co/cIgUxkeQfw (GRENZ5), https://t.co/IkaTBGTNOc (srtm_38_03)"
 MartinSenn6_03	jpg	11x16	03	1009026611608473600	MartinSenn6	2019-11-03T09:20:13Z	1190921614034124800	_	"#30DayMapChallenge 3. Polygons
 A map I made during my studies. Percentage of female population in Africa.
 Tool: #QGIS"
+MattiJKokkonen_01	png	10x16	01	1466897384	MattiJKokkonen	2019-11-01T13:08:31Z	1190254292256657411	_	Road traffic accidents in Mainland Finland 2005-2017 by speed limit. The darker the colour the higher the speed limit #30DayMapChallenge Data from @vaylafi https://t.co/SDQcua9w54
+MattiJKokkonen_02	jpg	13x16	02	1466897384	MattiJKokkonen	2019-11-02T22:06:42Z	1190752117948141569	_	Busy night at the Baltic Sea. Vessel position messages received by the Finnish AIS-stations during last night turned into lines #30DayMapChallenge
 MattiJKokkonen_03	jpg	16x14	03	1466897384	MattiJKokkonen	2019-11-03T09:19:02Z	1190921314393042944	_	Day 3 of the #30DayMapChallenge, polygons. Buildings by type in Lauttasaari, Helsinki, Finland.
 MattiJKokkonen_04	jpg	13x16	04	1466897384	MattiJKokkonen	2019-11-04T21:59:13Z	1191475008717119490	_	Day 4 of the #30DayMapChallenge, hexagons. Another busy night in the Baltic Sea. Number of vessels per hexagon at 10 PM tonight.
 MattiJKokkonen_16	jpg	8x16	16	1466897384	MattiJKokkonen	2019-11-16T16:10:07Z	1195735811616133120	_	Day 16 of the #30DayMapChallenge, places. My movements at my workplace according to Google maps timeline. You know where to find me 😉
@@ -7033,10 +7270,53 @@ michelstuyts_28	jpg	16x14	28	269294137	michelstuyts	2019-11-28T07:56:14Z	1199960
 michelstuyts_29	jpg	8x16	29	269294137	michelstuyts	2019-11-29T05:11:54Z	1200281206174179328	_	#30DayMapChallenge day 29: an #experimental map - showing #dhm data in a spreadsheet.
 michelstuyts_30	jpg	16x8	30	269294137	michelstuyts	2019-11-30T08:21:06Z	1200691207233589249	_	#30DayMapChallenge day 30: #home @ equal earth
 mikusthetiger_04	jpg	16x11	04	17026228	mikusthetiger	2019-11-04T19:02:18Z	1191430485894946816	_	#30DayMapChallenge Day 4, Hexagons: Coincidentally, I needed to update this @st_assessor map today for a meeting tomorrow ---&gt;
+mildthing99_02	jpg	16x9	02	2787878432	mildthing99	2019-11-02T11:23:20Z	1190590208745627648	_	The UK's principal food+ drink import sources (incl #FoodMiles; imports by value; data from https://t.co/oR6vZbBQcd) using #ProportionalLines #FlowLines Created with @ArcGISOnline #30DayMapChallenge #LINES @tjukanov  @GIS4Schools @geogologue https://t.co/p2SHHXA3JH
+mildthing99_07	jpg	16x12	07	2787878432	mildthing99	2019-11-07T09:42:50Z	1192376855179022338	_	"Tokyo 2020 Olympic Torch Relay #ReconstructionGames 
+Theme: #HopeLightsOurWay #FlameOfRecovery for areas affected by #TohokuEarthquake + #tsunami 2011 @Tokyo2020
+@GIS4Schools @geogologue #HazardResponse #GeographyTeacher
+#30DayMapChallenge #RED @tjukanov https://t.co/0jPirglrE1"
 mildthing99_10	png	16x11	10	2787878432	mildthing99	2019-11-09T11:43:09Z	1193131909523660802	_	Piano Manufacturers of the World (more to be added!) #Piano #GI @GIS4Schools @geogologue #MusicTeacher #GeographyTeacher #30DayMapChallenge #BLACKANDWHITE @tjukanov https://t.co/FLld24hwVl
+mildthing99_12	jpg	16x9	12	2787878432	mildthing99	2019-11-13T08:01:08Z	1194525590906376192	_	"🌀#TyphoonHagibis🌀track using #Pulse #TropicalStorm
+#30DayMapChallenge #TRACKS @tjukanov https://t.co/Fo1PHgiiwN"
+mildthing99_13	jpg	16x9	13	2787878432	mildthing99	2019-11-13T08:01:15Z	1194525620375638017	https://notredamecobham.maps.arcgis.com/apps/TimeAware/index.html?appid=231316c5fddc4dc88619775a3227d25a&locale=en	"Interactive web map track for 🌀#TyphoonHagibis🌀 across Pacific to #Japan October 2019 #TropicalStorm 
+#30DayMapChallenge #TRACKS @tjukanov
+@GIS4Schools @geogologue
+Data: Digital Typhoon
+#TimeAwareApp in @ArcGISOnline
+https://t.co/6W6sF01qL0"
+mildthing99_16	jpg	16x12	16	2787878432	mildthing99	2019-11-16T15:40:33Z	1195728368269959168	https://notredamecobham.maps.arcgis.com/apps/Shortlist/index.html?appid=c904b95337fd49da8d5282889bae0ddd&folderid=54a547d372c343a9872f10e0afa64094	"Interactive map showing iconic @johnhindeprints postcards using @ArcGISStoryMaps #Shortlist to map excellent 
+#ReshootingJohnHinde by @gillianmobrien @ronanodriscoll et al
+https://t.co/C8hTJWcZgx
+@GIS4Schools @GISinSchools
+ #PLACES #30DayMapChallenge
+Map: https://t.co/bLu0PEF9jK"
+mildthing99_19	jpg	16x9	19	2787878432	mildthing99	2019-11-19T10:29:39Z	1196737290703441922	_	"Fly over: Allotments of London
+@LondonNPC
+@WildintheCity1 @DanRavenEllison
+3D #Scene @OrdnanceSurvey layer in @ArcGISOnline @GIS4Schools @geogologue #30DayMapChallenge #URBAN
+#UrbanGreening @tjukanov https://t.co/GPhM8RGmfW"
+mildthing99_21	jpg	16x16	21	2787878432	mildthing99	2019-11-21T09:06:47Z	1197441214892650496	_	"Are the stars out tonight?
+Where can we find designated #DarkSkyPlaces to avoid #LightPollution?
+Created using #Cascade @ArcGISStoryMaps #30DayMapChallenge #ENVIRONMENT @tjukanov
+https://t.co/2qfrV1Mt1n"
 mildthing99_26	jpg	16x11	26	2787878432	mildthing99	2019-11-26T12:46:16Z	1199308388259319809	_	"Water supply / Rivers with Year 8: Using @ArcGISOnline #Analysis to show catchment areas and watersheds for major rivers in UK e.g. Severn v Thames #30DayMapChallenge #HYDROLOGY @tjukanov
 @GIS4Schools @geogologue"
+mildthing99_27	jpg	16x9	27	2787878432	mildthing99	2019-11-27T12:11:19Z	1199661980879118336	https://notredamecobham.maps.arcgis.com/apps/View/index.html?appid=cd4c5464fdf64316b4124bf706142cac&extent=731.4258,-63.3824,1031.4844,45.9653	"A highly charged resource: #Cobalt #BlueGold
+Electric vehicles + phone batteries; aero-engines; rockets; turbines etc
+Cobalt reserves map in @ArcGISOnline #30DayMapChallenge #RESOURCE #GeographyTeacher #ResourceManagement @tjukanov @GIS4Schools @geogologue https://t.co/xYmLzgE4Eo"
+mildthing99_Europe	jpg	16x9	Europe	2787878432	mildthing99	2019-11-24T23:19:18Z	1198742918980423680	_	"#TropicalStorm at end of Nov; SST well above av in N Atlantic: Cone+track of degrading #TropicalStormSebastien #ClimateChange map w @ArcGISOnline @GIS4Schools @geogologue #ExtremeWeather #GeographyTeacher 
+#30DayMapChallenge #CLIMATE @tjukanov
+Data: @NOAA
+https://t.co/o0ChNegdcG"
+mim_djo_01	jpg	16x10	01	796152745203929089	mim_djo	2019-11-02T00:44:33Z	1190429452414509056	_	"#30DayMapChallenge a typical solar farm structure using exact coordinates and color to show the construction progress #datastudio #deckgl
+
+https://t.co/qOOzwZsydx"
 mim_djo_04	jpg	16x8	04	796152745203929089	mim_djo	2019-11-03T09:57:40Z	1190931037779415041	_	#30DayMapChallenge  aggregate car accident in south Australia per 30 minute for all 2018, using Hexbin, #keplergl
+mim_djo_05	jpg	16x14	05	796152745203929089	mim_djo	2019-11-06T23:44:41Z	1192226325634793472	_	"#30DayMapChallenge 5. Raster
+
+car accident with fatalities using #rstats tmap + ceramic + tiles by MapBox
+and because it is R, we need a reproducible code
+https://t.co/YbatkbxhpT"
 MiniTigri_02	jpg	16x11	02	736009987	MiniTigri	2019-11-11T20:35:22Z	1193990622492925952	_	#30DayMapChallenge #qgis #Bogota (late day 2) (Lines). Bogotá's 4 skylines, Monserrate (North) and Guadalupe (south) mountains in the east city border. Contour levels (2500m - 3200m) and roads.
 MiniTigri_03	jpg	16x11	03	736009987	MiniTigri	2019-11-12T02:45:52Z	1194083863498280960	_	Area occupied pee building in the national University of Colombia (Bogotá) #30DayMapChallenge #QGIS #unal #Bogota #polygons (day 3 - polygons - late)
 MiniTigri_04	jpg	16x11	04	736009987	MiniTigri	2019-11-13T20:09:39Z	1194708927314907136	_	Density of traffic lights in Bogota (2019). #30DayMapChallenge #QGIS #Bogota Day 4: Hexagons (late)
@@ -7183,7 +7463,9 @@ mmits003_07	jpg	14x16	07	1056888822942711808	mmits003	2019-11-10T07:00:30Z	11934
 mmits003_08	jpg	15x16	08	1056888822942711808	mmits003	2019-11-10T07:03:51Z	1193424009557266432	_	"Day 8 Green : map of a convenience store, Family Mart, data source from OpenStreetMap contributors.
 ファミリーマートの分布図。公式HPには2019年9月末時点で16,499店舗あるとのこと。OSMには3,404店舗登録されているので、OSM登録率は21%
 #30DayMapChallenge"
+moaimx_01	jpg	16x11	01	36121150	moaimx	2019-11-02T07:10:37Z	1190526608735719424	_	Ya tiene rato que armamos este mapa pero jala... #30DayMapChallenge
 moaimx_02	jpg	16x13	02	36121150	moaimx	2019-11-02T19:46:26Z	1190716819511926785	_	#30DayMapChallenge día 2, líneas... También ta viejito, pero jala... Red de caminos en la zona metropolitana del valle de México, Puebla y Morelos
+moaimx_03	jpg	16x10	03	36121150	moaimx	2019-11-04T12:43:16Z	1191335101373853696	_	#day3 polígonos... Desviaciones a un modelo logaritmico de homicidios a nivel municipal... #30DayMapChallenge
 Ms_Pixels_08	jpg	11x16	08	1109071770814951424	Ms_Pixels	2019-11-08T17:06:20Z	1192850855806021634	_	Day 8 of #30DayMapChallenge. Green map showing the tree cover over the savanna zone of Ghana. @geospatialwomen
 Ms_Pixels_11	jpg	16x11	11	1109071770814951424	Ms_Pixels	2019-11-11T12:00:24Z	1193861025830973440	_	Day 11 of #30DayMapChallenge. #DEM over the Eastern region of Ghana showing the Highlands of the Akwapim Togo Range....@geospatialwomen
 Ms_Pixels_14	jpg	16x9	14	1109071770814951424	Ms_Pixels	2019-11-18T15:50:30Z	1196455650932514816	_	"Day 14: #30DayMapChallenge. District boundaries of Ghana
@@ -7297,12 +7579,15 @@ GIS is a lot of experimental analysis. Here we have experimental inside experime
 my_physical_30	jpg	16x12	30	1137139989744144390	my_physical	2019-11-30T04:01:20Z	1200625837743255552	_	"#30DayMapChallenge Day 30: Home
 'Nuff said! Everyone did great this month on the challenge. Thanks for a fun 30 days!
 #gis #geographyteacher #geography #cartography #maps #map #landsat #landsat8 #ohio #arcgis #qgis #environment"
+NadiiaGorash_01	jpg	16x9	01	400903620	NadiiaGorash	2019-11-01T10:40:21Z	1190217005586100224	_	"the only point map I made was an attempt to create firefly effect  for  the presentation  background for my job interview at @UrbanBigData 
+showing locations of road accidents happened in 2017 in Glasgow #30DayMapChallenge"
 NadiiaGorash_02	jpg	16x11	02	400903620	NadiiaGorash	2019-11-05T11:46:57Z	1191683313787908096	_	#30DayMapChallenge Day 2: lines. #stravametro dataset viz
 NadiiaGorash_03	jpg	16x11	03	400903620	NadiiaGorash	2019-11-05T11:52:55Z	1191684816464482306	_	"#30DayMapChallenge Day 3: Polygons  A viz of a Public Transport Availability Indicators  at both the stop/station and small area levels across GB which takes account of both service frequency and service area made by @UrbanBigData showing  Glasgow
 https://t.co/sb4lskc30F"
 NadiiaGorash_04	jpg	13x16	04	400903620	NadiiaGorash	2019-11-04T16:27:00Z	1191391402955083776	_	#30DayMapChallenge day 4: traffic accidents as  a hexagon map #opendata
 NadiiaGorash_11	png	15x16	11	400903620	NadiiaGorash	2019-11-18T09:28:00Z	1196359388669399041	_	"#30DayMapChallenge Day 11 - Elevation.  One of the smaller maps from a #leavingmap made for @volcan01010 
 #QGIS3 #Iceland"
+NadiiaGorash_12	jpg	16x9	12	400903620	NadiiaGorash	2019-11-12T10:51:31Z	1194206079338655744	_	#30DayMapChallenge  Day12 : Movement #stravametro cycling in #Glasgow  #QGIS3  Check out #ubdc  https://t.co/rdAg03gud1
 NadiiaGorash_16	png	16x12	16	400903620	NadiiaGorash	2019-11-18T16:56:57Z	1196472370413879296	_	#30DayMapChallenge Day 16: Places a #leavingmap  for @sgmillinery showing places with hats or heads in their name around Glasgow #QGIS
 negbogah_07	jpg	16x9	07	2620245419	negbogah	2019-11-07T13:25:10Z	1192432809375412224	_	"Day 7 of #30DayMapChallenge.
 I looked at the population density of Nigeria. Areas in lighter shades of purple to white are areas of medium to high pop. density. Done using R. #Lagos, #Kano, #rstats"
@@ -7337,21 +7622,40 @@ niclochg_28	jpg	16x11	28	3123452678	niclochg	2019-11-28T20:44:55Z	12001536208991
 niclochg_29	jpg	16x11	29	3123452678	niclochg	2019-11-30T12:48:50Z	1200758583673135104	_	A day late 😪 with this experimental #30DayMapChallenge map of Irish Times 'Priced out' property coverage BUT to be fair I've been trying to find a good way to nail explaining these maps on and off for about a year so it's very experimental altogether... More detail below -1/3
 niclochg_30	jpg	11x16	30	3123452678	niclochg	2019-11-30T13:02:45Z	1200762088131645440	_	Ending #30DayMapChallenge, here's day 30, home. I thought about this one for a while and want to take the opportunity to highlight Irish Housing Assistance Payment data - these households need homes, not to be 'housing need met' by state funding of private rental #housingforall
 nikolasander_12	jpg	16x12	12	595679839	nikolasander	2019-11-12T10:21:08Z	1194198435815133184	_	Circular migration plot showing human movement in 2005-10 #science #30DayMapChallenge day 11: movement
+ninatsuts_01	png	16x11	01	104537491	ninatsuts	2019-11-01T23:08:08Z	1190405191264329728	_	#30DayMapChallenge Getting started with my first #leaflet map showing all UNESCO World Heritage Sites #rstats https://t.co/m7TKOwicnx
 ninatsuts_02	png	15x16	02	104537491	ninatsuts	2019-11-02T20:55:37Z	1190734227752534016	_	#30DayMapChallenge Day2: lines. Learning how to (1) load features from OSM directly into #rstats with osmdata package, and (2) visualise data using mapdeck (https://t.co/iWW6SlDj1j for R). One of the results: ⬇️ all roads in Stockholm
+ninatsuts_03	jpg	15x16	03	104537491	ninatsuts	2019-11-03T21:57:35Z	1191112212234063873	_	#30DayMapChallenge Day3: polygons. Continuing my explorations with mapdeck and #rstats. I still have to figure out how to plot actual polygons, but for now: 3D🙈 grid of San Francisco eviction notices (#MakeoverMonday w39 dataset).
 ninatsuts_04	jpg	16x9	04	104537491	ninatsuts	2019-11-04T21:47:40Z	1191472101099757571	_	"#30DayMapChallenge Day4: hexagons. Data on memorial plaques could serve as a representation of cultural memory of a city. I love how House on the Embankment takes over when hex size decreases. Made in #Tableau with hexbinx() &amp; hexbiny()
 https://t.co/DbEgMawFZ9 @tableaupublic"
 ninatsuts_05	jpg	16x10	05	104537491	ninatsuts	2019-11-05T21:45:15Z	1191833881206493186	_	#30DayMapChallenge Day5: raster. Beating my fear of raster one map at a time. ⬇️ Sicily elevation map made with elevatr (gets terrain data) and #rayshader (makes anything pretty) in #rstats
+ninatsuts_06	jpg	16x10	06	104537491	ninatsuts	2019-11-09T23:48:25Z	1193314429619843077	_	"#30DayMapChallenge Day5: blue. Trying to catch up. ⬇️Buildings of Barcelona coloured by the year of constructions. Entirely based on this awesome work by 
+@dr_xeo
+ https://t.co/tZhipzgkwT Made with #rstats and #Tableau https://t.co/hwOycu9NiA"
+ninatsuts_10	png	14x16	10	104537491	ninatsuts	2019-11-10T21:11:59Z	1193637449345519621	_	#30DayMapChallenge Day10: black &amp; white. A simple dot density map (first one for me) of dairy cows in NZ (which are sometimes b&amp;w:). Made with st_sample() from {sf} package #rstats, visualized in #Tableau.
 nixzusehen_23	jpg	16x10	23	288471610	nixzusehen	2019-11-24T17:18:44Z	1198652179537514496	_	"Expanding my earlier Oregon-only version, here’s the Median Population Centers of the Lower 48. 50% of the population of each state is on either side of the line.
 
 #30DayMapChallenge, day 23, Population. 
 
 Not really satisfied with it, but deadlines are deadlines."
+njanakiev_01	jpg	16x9	01	712499518491791361	njanakiev	2019-11-01T21:04:51Z	1190374165490143232	_	Every lighthouse in the world found in @wikidata and @openstreetmap made with #Python, @geopandas, and some matplotlib magic #30DayMapChallenge
+njanakiev_02	jpg	16x16	02	712499518491791361	njanakiev	2019-11-02T20:59:55Z	1190735309161553922	_	Visualizing the power grid in Europe with data from @openstreetmap. Done again with #Python and @geopandas but this time rendered with the impressive @datashader package. Power grids in OSM are a fascinating rabbit hole to explore someday #30DayMapChallenge
 njanakiev_05	jpg	16x14	05	712499518491791361	njanakiev	2019-11-06T09:59:03Z	1192018551391051776	_	Here is a different take on rasters, this time with boundaries from Natural Earth and images from the capitals found in Wikimedia Commons and collected with @wikidata. Made with the help of #Python, @geopandas, #rasterio, and #gdal #30DayMapChallenge
 NkhiliA_04	jpg	16x9	04	2446784474	NkhiliA	2019-11-04T11:09:14Z	1191311435336441857	_	"Les actes de vente des biens fonciers #DGFIP ont fait l'objet d'une #DataViz et analyse  #spatiotemporelle lors du #SIG2019 ! Retrouvez les pour le #30DayMapChallenge #day4 #hexagones #ArcGIS #ArcGISPro 
 Vidéo bientôt dispo sur @YouTube @Esri_France"
 NkhiliA_05	jpg	16x9	05	2446784474	NkhiliA	2019-11-05T20:59:34Z	1191822384216649730	_	"Suivre les #sargasses grâce aux images #Sentinel2 intégrées dans #ArcGIS. Les bandes spectrales Red et RedEdge permettent de mieux voir les sargasses (ici en Rouge ). #seewhatotherscant #raster #day5 #30DayMapChallenge
 #ArcGISOnline 
 👉https://t.co/2puIX2U5xI"
+NkhiliA_27	jpg	16x11	27	2446784474	NkhiliA	2019-11-29T13:15:06Z	1200402810099122176	_	"Pollution des océans et pays pollueurs ! Carte réalisée par les étudiants de L1 Géo - TD Analyse Carto ! 
+@uvsq
+ #30DayMapChallenge #resources #2dayslate #cartographie
+Bravo à Thileni, Raphaëlle, Mathieu et Roxane !"
+NkhiliA_28	jpg	16x13	28	2446784474	NkhiliA	2019-11-29T14:23:49Z	1200420102354735104	_	"Les GROS clichés de toute l'Europe ou presque des étudiants de L1 Géo - TD Analyse Carto !
+@uvsq
+ #30DayMapChallenge #funny #1Daylate #cartographie 
+Bravo Drorian Jouvenot, Clémence, Astrid, Justine, Maugan, Joseph, Florine, Olivier et Loann !"
+NkhiliA_30	jpg	16x15	30	2446784474	NkhiliA	2019-11-30T21:06:12Z	1200883753700249601	_	"Une ville idéale entre urbanisation et nature ! Bravo aux élèves de L1 Géo - Analyse carto @uvsq 
+#30DayMapChallenge #home 
+Bravo à Niy ando, Diane, Isaac, Kouyé, Lucas, Nawel, Aicia, Charles-Henry, Digo, Melaine, Serge, Thibaut et à tous ceux qui ont participé !"
 nmnsgr_01	jpg	16x16	01	1164910240271200256	nmnsgr	2019-11-01T15:03:20Z	1190283186506321922	_	"#30DayMapChallenge Day 1. Points
 @tjukanov 
 
@@ -7513,6 +7817,7 @@ paavokokkonen_04	jpg	16x14	04	1099991445371523072	paavokokkonen	2019-11-05T06:44
 Paola_barbarbo_28	jpg	16x14	28	923519114936832003	Paola_barbarbo	2019-11-28T11:38:06Z	1200016010574749697	_	"Day 28 Funny: Cómo ir de Repende a Kagar.
 #30DayMapChallenge 
 Two small towns 90 km away from Berlin make the funniest sentence in Spanish, if you want to one after the other. This translates: ""How to suddenly crap"" and my favourite ""Wie geht man plötzlich kacken"" #lovegermany"
+Paola_barbarbo_29	jpg	14x16	29	923519114936832003	Paola_barbarbo	2019-11-30T00:04:08Z	1200566141875306496	_	#mountains are so interesting! even more, if they happen to be volcanos lost in the middle of the ocean. Here some of my work, trying to capture the most topographic complex areas on volcanic #islands :), cheers! #Map #30DayMapChallenge
 pascal_n_29	jpg	16x9	29	39204419	pascal_n	2019-11-29T08:11:42Z	1200326456775196673	_	"There you go, just a quick try. #2019
 #OpenStreetMap #Activity
 #30DayMapChallenge #Day29 https://t.co/BRmBPbCrC3"
@@ -7520,8 +7825,11 @@ patalgura_02	jpg	16x16	02	1238686238	patalgura	2019-11-02T13:16:39Z	119061872599
 Day 2: UV Express Code Signs
 
 Utility vehicle (UV) drivers have a unique way of communicating with each other using their radios. This map shows how these drivers make sense of the places and roads through code signs (or some sort of an anti-language)"
+patriloto_01	png	16x8	01	108979413	patriloto	2019-11-06T21:59:23Z	1192199828941557762	_	Ando con poco tiempo pero no quería dejar de contribuir con mi humilde aporte al 1er día del #30DayMapChallenge utilizando datos de #datosdemieRcoles #rstatsES.
 patriloto_04	jpg	16x16	04	108979413	patriloto	2019-11-15T19:26:56Z	1195422953544044545	_	"💡Para el día 4 (hexágonos) de #30DayMapChallenge 🌍,  armé un gráfico con la forma de la Provincia del Chaco con los hex-stickers de rstudio. Utilicé como guía el post🔗 https://t.co/noRVPoQsNr  de @mitchoharawild  
 #datosdemieRcoles #rstatsES #magick #rgdal #sf"
+patriloto_06	png	16x10	06	108979413	patriloto	2019-11-21T20:15:42Z	1197609553761914893	_	"📍🗺️Para el 𝗱𝗶́𝗮 𝟲 de #30DayMapChallenge que corresponde al 𝐀𝐳𝐮𝐥 utilicé datos de educación de #TidyTuesday, el primo hermano de #datosdemieRcoles. Me inspiré en un  mapa realizadó por @AmandaRPlunkett.
+ #rstatsES"
 pedro_com_es_01	jpg	16x14	01	982429849	pedro_com_es	2019-11-01T20:37:55Z	1190367386798624770	_	"Mi participación en el primer día del #30DayMapChallenge, temática: puntos.
 
 Farolas (35099 puntos) en Las Palmas de Gran Canaria.
@@ -7654,6 +7962,10 @@ pedro_com_es_30	jpg	16x9	30	982429849	pedro_com_es	2019-12-01T09:41:07Z	12010737
 Fuente: mapa del @IGNSpain y datos del @PoderJudicialEs ."
 Peterincan_01	jpg	16x9	01	564485021	Peterincan	2019-11-01T11:09:46Z	1190224408645902337	_	#30DayMapChallenge 1. Points. Using a density map to generate a particle system in Blender.
 Peterincan_02	jpg	16x10	02	564485021	Peterincan	2019-11-02T13:03:14Z	1190615349554827264	_	#30DayMapChallenge Lines. Mapping the 4 year journey of an American whaling ship in the 19th century.
+Peterincan_03	jpg	15x16	03	564485021	Peterincan	2019-11-03T15:03:59Z	1191008122950881281	_	#30DayMapChallenge Polygons. Protected areas in the United States &amp; Canada.
+Peterincan_05	jpg	16x9	05	564485021	Peterincan	2019-11-05T20:34:53Z	1191816175065456647	_	#30DayMapChallenge Raster. 3D model of the Indianapolis Motor Speedway made using LIDAR data.
+Peterincan_07	jpg	16x9	07	564485021	Peterincan	2019-11-07T19:02:34Z	1192517717267492864	_	#30DayMapChallenge Red [Planet]. Valles Marineris
+Peterincan_08	jpg	16x11	08	564485021	Peterincan	2019-11-08T14:24:33Z	1192810141852278785	_	#30DayMapChallenge Green. Renewable power plants in Canada by capacity.
 Peterincan_09	jpg	16x15	09	564485021	Peterincan	2019-11-09T17:31:56Z	1193219684092579841	_	#30DayMapChallenge Yellow. Solar energy potential in downtown Indianapolis.
 Peterincan_11	jpg	16x9	11	564485021	Peterincan	2019-11-11T14:09:58Z	1193893633029791751	_	#30DayMapChallenge Elevation. More Blender experiments! A quick and dirty procedural contour generator.
 philmassicotte_01	jpg	16x9	01	4241359336	philmassicotte	2019-11-03T12:26:01Z	1190968371510202369	_	My attempt to the #30DayMapChallenge visualization. It shows the density of airports around the world.
@@ -7747,6 +8059,7 @@ The borders of #Maryland are, in many places, the result of losing just about ev
 PhilPierdo_30	jpg	16x11	30	2911550919	PhilPierdo	2019-11-30T15:23:46Z	1200797575466627072	_	"For the final #30DayMapChallenge 
 I live in Philadelphia now, but home will always be where I grew up in the suburbs of northern Delaware. Here's a map of where I lived, went to school, and worked for many years before moving on to the big city.
 Thx @tjukanov"
+pierrebrt_01	jpg	15x16	01	41566604	pierrebrt	2019-11-01T09:19:05Z	1190196553165737984	_	Ma carte du premier jour du #30DayMapChallenge, sur le thème des « points » aujourd'hui : département par département, quel parti est arrivé en tête aux élections européennes de 2019. https://t.co/aRvB5foOGe
 pierrebrt_02	jpg	13x16	02	41566604	pierrebrt	2019-11-02T10:58:00Z	1190583832178823169	_	#30DayMapChallenge jour 2 : le thème du jour c'est « lignes », alors je vous propose cette carte des ouragans dans l’Atlantique nord pour la période 2000-2019 (en foncé, c’est Irma en septembre 2017).
 pierrebrt_03	jpg	16x15	03	41566604	pierrebrt	2019-11-03T11:12:49Z	1190949949598556160	_	#30DayMapChallenge jour 3 : aujourd'hui il nous faut des polygones. Je vous propose cette carte des écarts de températures à la normale en février 2019 en France métropolitaine (avec de la triangulation de Delaunay dedans).
 pierrebrt_04	jpg	16x16	04	41566604	pierrebrt	2019-11-04T08:05:43Z	1191265254367469568	_	#30DayMapChallenge : au programme de ce jour 4, j'ai « hexagones ». Par conséquent, voilà une carte de la concentration des clubs de rugby amateurs et professionnels en France métropolitaine – pour une fois ce n’est pas élevé simplement là où y a beaucoup d’habitants.
@@ -7756,6 +8069,7 @@ pierrebrt_08	jpg	16x16	08	41566604	pierrebrt	2019-11-08T12:25:14Z	11927801133367
 pierrebrt_09	jpg	16x9	09	41566604	pierrebrt	2019-11-09T08:50:00Z	1193088335108902912	_	Samedi 9 novembre, le #30DayMapChallenge propose comme thème le « jaune » : voilà donc un carte du peuplement kurde du Proche-Orient… en jaune. ✌️
 pierrebrt_10	png	16x16	10	41566604	pierrebrt	2019-11-10T09:20:00Z	1193458272742903808	_	10e jour du #30DayMapChallenge (dont le thème est « noir et blanc »), je vous propose de nous réveiller tranquillement avec cette carte de la levée du jour à 7 h 43 précises ce 10 novembre 2019.
 pierrebrt_11	png	16x16	11	41566604	pierrebrt	2019-11-11T08:25:36Z	1193806971247452160	_	#30DayMapChallenge, jour 11 : « altitude » est le thème imposé. Voilà donc ma carte des niveaux d’altitude en France métropolitaine inspirée par la pochette d’« Unknown Pleasures » de Joy Division (1979).
+pierrebrt_12	jpg	16x10	12	41566604	pierrebrt	2019-11-12T08:25:53Z	1194169431645212673	_	« Mouvement » au programme du 12e jour du #30DayMapChallenge ; voilà donc ma carte (ou plutôt 58 cartes) de l’évolution de l’emprise territoriale de l’organisation État islamique de juin 2014 à mars 2019. https://t.co/Sa1tmuCYc7
 pierrebrt_14	jpg	16x12	14	41566604	pierrebrt	2019-11-14T09:10:41Z	1194905478809161733	_	« Boundaries » (pour « limites », « frontières ») au programme du 14e jour du #30DayMapChallenge ; allons-y avec une carte polaire des pays nordiques, leur zone économique exclusive (ZEE 🔵) et les gisements d'hydrocarbures supposés (🔴).
 pierrebrt_15	jpg	10x16	15	41566604	pierrebrt	2019-11-15T09:11:43Z	1195268129460383744	_	Jour 15 du #30DayMapChallenge : « Names » (ou toponymes en français). Voici ma carte de l'origine des noms de pays, toujours avec la plus belle projection du monde, celle de Buckminster Fuller. https://t.co/nU45mwRqhx
 pierrebrt_19	jpg	16x14	19	41566604	pierrebrt	2019-11-19T10:59:41Z	1196744851821416448	_	Jour 19 du #30DayMapChallenge, dont le thème est « urban ». Je ne connais rien de plus urbain que Paris (et l'évolution du vote LRM entre la présidentielle 2017 et les européennes 2019) avant les municipales en 2020. https://t.co/ExrVNnVzoJ
@@ -8066,11 +8380,19 @@ Made with #qgis
 Source: USGS SRTM
 
 #gis #map #maps #socialgeography #cartography #mapart #thailand #dataviz #elevation"
+rajbhagatt_01	jpg	15x16	01	272936200	rajbhagatt	2019-11-03T13:25:12Z	1190983264653070339	_	"Here's my first map in #30DayMapChallenge (late start)
+
+Animation shows population growth in India's big cities between 1901 n 2011. Rapid Urbanisation holds lot of challenges!
+
+I've been working in @WRICitiesIndia for last 5 years in trying to make our cities more sustainable"
 rajbhagatt_02	jpg	15x16	02	272936200	rajbhagatt	2019-11-05T13:53:26Z	1191715147691085824	_	"#Kanyakumari-Dibrugarh Vivek Express is India's longest running #train. It covers ~4250 kms in 83 hours n passes through 8 states!
 
 Anim shows scheduled movement of the train. My 2nd map in #30DayMapChallenge
 
 @RailMinIndia @IRCTCofficial @PiyushGoyalOffc @PiyushGoyal @rajtoday"
+rajbhagatt_03	jpg	12x16	03	272936200	rajbhagatt	2019-11-06T15:36:18Z	1192103422163439616	_	"My 3rd Map for #30DayMapChallenge shows village boundaries in Tamil Nadu
+
+Thought of adding colours to local bodies that have elected representatives but then #TamilNadu s not having elected local body for years. I.e. No mayors, no ward councillors etc to complaint or even blame!"
 rajbhagatt_04	jpg	16x9	04	272936200	rajbhagatt	2019-11-07T15:21:14Z	1192462019158401025	_	"@ptrmadurai @TRBRajaa @EzhilarasanCvmp @KanimozhiDMK @ChennaiRains @dhanyarajendran @SPVelumanicbe @CMOTamilNadu @Devimagan @mahajournalist My 4th Map for #30DayMapChallenge shows Earthquakes between 2000 and now for India and its neighbourhood (mag &gt; 2.5)
 
 Each Hexagon shows Earthquake incident density in first map (in 3D) and average magnitude in the second map
@@ -8246,6 +8568,12 @@ every dot here is 1000 people speaking that language"
 robert_squared_11	png	16x16	11	817190209158873088	robert_squared	2019-11-10T23:23:01Z	1193670423927504897	_	"day 11 of #30DayMapChallenge and it turns out you can't quite fully work out lidar data and rayshader in an hour but you can get fairly far 
 
 1metre resolution LiDAR elevation data for Midsummer Common in Cambridge plotted in rayshader and as a raster. Also google maps to compare"
+robhawkes_01	jpg	16x11	01	14442542	robhawkes	2019-11-02T18:20:40Z	1190695233673142274	_	"Street lights in Washington D.C. colour-coded by bulb type with opacity based on wattage.
+
+Tools: QGIS
+Data: https://t.co/ZGChzeKn9R
+
+#30DayMapChallenge"
 robhawkes_02	jpg	16x10	02	14442542	robhawkes	2019-11-03T14:09:36Z	1190994437415088128	_	"Day 2 of #30DayMapChallenge — Lines
 
 Animated timelapse showing 24-hours of air traffic over @HeathrowAirport.
@@ -8271,6 +8599,11 @@ Density of bombs dropped on London at night during the Blitz (Oct 1940 to June 1
 Tools: QGIS 
 Data: Bomb Sight by University of Portsmouth, 
 @openstreetmap"
+robhawkes_05	jpg	16x8	05	14442542	robhawkes	2019-11-05T20:03:02Z	1191808160136343552	_	"Day 5 of #30DayMapChallenge — Raster
+
+Satellite imagery inception.
+
+Tools: Custom WebGL"
 robhawkes_07	jpg	16x11	07	14442542	robhawkes	2019-11-07T15:06:16Z	1192458250245025794	_	"Day 7 of #30DayMapChallenge — Red
 
 🚍 London bus routes along real road network topology.
@@ -8279,6 +8612,9 @@ Day routes vs. night routes.
 
 Tools: QGIS 
 Data: @TfL"
+rojo_neon_01	jpg	13x16	01	83128968	rojo_neon	2019-11-06T15:58:37Z	1192109039154536448	_	"Super tarde, pero igual le quiero entrar al #30DayMapChallenge. De a poco, pero me iré poniendo al día, y trataré de subir todo a este repositorio https://t.co/guIfs7AsoK
+
+Bueno, para el primer día era un mapa con puntos, e hice el siguiente. Explico un poco 🧵:"
 rojo_neon_07	jpg	16x13	07	83128968	rojo_neon	2019-11-07T15:53:47Z	1192470209120161793	_	"Van mis aportes al #30DayMapChallenge nuevos y atrasados, sobre segregación social en GDL.
 
 Acá el repositorio con los scripts: https://t.co/G0i4qIEfDY
@@ -8313,8 +8649,24 @@ Bueno, y me preguntaron que qué pasaría si ampliamos el zoom no sólo a GDL, s
 rojo_neon_21	jpg	16x16	21	83128968	rojo_neon	2019-11-22T02:38:45Z	1197705950024601600	_	"Voy re-mal, pero este es mi aporte al #30daymapchallenge day 21 / enviroment.
 
 Y como supuse desigualdad de acceso... En verde puse las áreas verdes de CDMX (🙃) y por atrás puse quintiles locales del índice de marginación de Conapo 😬"
+rojo_neon_30	jpg	16x16	30	83128968	rojo_neon	2019-12-04T06:38:54Z	1202115038670213120	_	"Terminó el #30DayMapChallenge, y me faltaron algunos para tener los 30, pero creo que logré muchos. Acá recopilación. 
+
+Lo bonito es que todos son reproducibles desde mi repositorio https://t.co/G0i4qIEfDY
+#Rstats #RStatsEs #DatosDeMiercoles
+Del último al primero:
+
+Day 30. Home"
+RomMoyon_01	jpg	16x16	01	903528074	RomMoyon	2019-11-01T22:45:57Z	1190399608314376192	_	"A l'arrache, les points d'arrêts du réseau de transport en commun sur Melun #30DayMapChallenge 
+Big Up la #TeamLigneR et mon petit @L_Schmitz 
+#GéographeQuiSeFaitChierUnSoirDeToussaint."
 RomMoyon_04	jpg	11x16	04	903528074	RomMoyon	2019-11-04T14:56:53Z	1191368726970617856	_	"Ma carte du jour (hexagonale) faite ce midi pour ce #30DayMapChallenge fait honneur aux z'usagers (cc @SheepTrain ) de la @LIGNER_SNCF, notre ""fameuse"" #TeamLigneR...merci @Carel74369303 pour le gros coup de main, et désolé à ceux qu'on a oublié (ou pour les erreurs !) 
 Bisous 😘"
+rorich_01	png	16x16	01	104213130	rorich	2019-11-01T20:57:34Z	1190372332562472967	_	"#30DayMapChallenge
+
+Day1: Points
+Georgia Pre-K Locations by Program Type
+Data: https://t.co/nNB56f864r
+Interactive Version: https://t.co/GMlJdsjH3g"
 rorich_02	jpg	16x10	02	104213130	rorich	2019-11-03T02:44:41Z	1190822075516293120	_	"#30DayMapChallenge 
 Day 2: Lines
 
@@ -8329,6 +8681,11 @@ Map:  SNAP* Households (%)  by US School District. (ACS 2013-17 5-Year Estimates
 * Actual ACS Variable  includes SSI, SNAP, &amp; Cash Public Assistance."
 rorich_04	png	15x16	04	104213130	rorich	2019-11-04T21:54:18Z	1191473772013993984	_	"#30DayMapChallenge day 4
 Louisiana Racial/Ethnic Diversity by Parish using  #rstats: #tidycensus; #tidyverse; #sf; #geogrid"
+rorich_05	jpg	16x12	05	104213130	rorich	2019-11-06T00:45:02Z	1191879127030259712	_	"#30DayMapChallenge  Day 5: Raster* 
+
+* Rasters aren't my strength, so I had to go back to my roots and use #ArcGIS.  
+
+Metro Atlanta Land Cover using data from @USGS  and  @AtlantaRegional"
 rorich_06	jpg	16x10	06	104213130	rorich	2019-11-07T03:46:43Z	1192287236873687042	_	"#30DayMapChallenge Day 6 ""Blue""
  
 In celebration of the start of college basketball season, I mapped all 'Blue' NCAA D-1 Basketball programs using #rstats packages:  #ggplot, #sf,  #ggmap, and #ggrepel"
@@ -8336,6 +8693,14 @@ rorich_07	jpg	16x10	07	104213130	rorich	2019-11-07T19:29:35Z	1192524517278715904
 Continuing the celebration of the new college basketball season with the 'RED' @ncaawbb &amp; @marchmadness programs (a few orange ones slipped in there too).  
 
 Again, map was made with #rstats packages:  #ggplot, #sf,  #ggmap, and #ggrepel"
+Rrenzokutai_04	jpg	16x9	04	94990146	Rrenzokutai	2019-11-04T11:42:19Z	1191319760669048832	_	"#30DayMapChallenge
+Day4:Hexagons
+Data:Inbounds Tweet Data in Okinawa,Japan
+Tools:R%&gt;%Shiny%&gt;%&gt;%leaflet%&gt;%h3forr"
+Rrenzokutai_06	jpg	16x8	06	94990146	Rrenzokutai	2019-11-09T10:46:21Z	1193117614865698816	_	"#30DayMapChallenge
+Day6:Blue
+Data:Inbounds Twitter Data&gt;Sequential pattern mining
+Tools:R%&gt;%Shiny%&gt;%Leaflet%&gt;%h3forr"
 Rrenzokutai_09	jpg	16x8	09	94990146	Rrenzokutai	2019-11-09T10:40:05Z	1193116037903814657	_	"#30DayMapChallenge
 Day9:yellow
 Data:Inbounds Twitter Sentiment Score
@@ -8346,6 +8711,9 @@ Five year years of my google location data
 rustie5555_04	jpg	11x16	04	391136253	rustie5555	2019-11-07T07:06:33Z	1192337527484506113	_	"Nov 4: Hexagons! - Seasonality of rental renewals by TLA
 How much seasonal variation there is in MBIE's rental bond lodgement data.
 #30DayMapChallenge"
+rustie5555_07	jpg	11x16	07	391136253	rustie5555	2019-11-07T07:00:42Z	1192336052926603264	_	"Nov 5: Red - Aotearoa Whero
+Labour-leaning areas of NZ at the last general election.
+StatsNZ SA2 with above-average estimated Labour support #30DayMapChallenge"
 rustie5555_14	jpg	16x16	14	391136253	rustie5555	2019-11-21T10:24:41Z	1197460816909328385	_	An extended #30DayMapChallenge. Nov 14. Boundaries. 2020 General Electorate Boundaries as proposed by the Electoral Commission, with implied partisan lean...
 ruth_mottram_01	png	11x16	01	297915370	ruth_mottram	2019-11-02T07:28:59Z	1190531230594486272	_	"A little late but here is day 1: Points
 from @JohnCappelen @MikaelScharling
@@ -8854,6 +9222,10 @@ Day 13 - Tacks.
 Tracks of 33 birds (Golden Eagles) over ten years. 
 Tools: Plotly Python
 Data: Movebank Repository"
+ShinagawaJP_01	jpg	16x7	01	967719352932843521	ShinagawaJP	2019-11-01T00:15:21Z	1190059719131447297	_	"Worldwide Starbucks Locations
+#30DayMapChallenge
+
+Data Source: https://t.co/CA56SAq2e4"
 ShinagawaJP_02	jpg	16x16	02	967719352932843521	ShinagawaJP	2019-11-02T10:49:03Z	1190581582056185856	_	"Day 2:Japanese Road Network
 Data Source: Open Street Map Contributors
 道路だけで日本を描いてみる
@@ -9147,6 +9519,7 @@ ThomasBanafa_26	jpg	11x16	26	1413281545	ThomasBanafa	2019-11-26T13:08:39Z	119931
 Finland’s river network and catchment areas (level 3); transboundary catchments not included.
 Data: @SYKEinfo, @pinnanalta
 #MadewithQGIS, #avoindata, #QGIS"
+ThomasG77_01	jpg	16x11	01	82467442	ThomasG77	2019-11-11T03:50:42Z	1193737789185122304	_	Not perfectly happy with this points sample (difficult to read in Paris area due to density) but done ;) #30DayMapChallenge
 ThomasG77_02	jpg	16x11	02	82467442	ThomasG77	2019-11-11T04:10:51Z	1193742862191644673	_	"Day 2 lines - Transports lines using OSM data #OpenStreetMap 
 #30DayMapChallenge Made with #QGIS atlas, #gdal for some preprocessing and ImageMagick for animation
 My repo for the challenge https://t.co/kKNOQkED1p FYI"
@@ -9579,12 +9952,16 @@ Grunnkretser i sør- Norge har fått hver sin farge #30DayMapChallenge #ukenskar
 VetleHallas_04	jpg	16x11	04	106197238	VetleHallas	2019-11-04T07:15:58Z	1191252734621683713	_	"Dag 4 - hexagoner 
 
 Kartet viser tre-tetthet i et hexagon-rutenett. Det er på Geitmyra skolehager at tettheten er høyest. Data fra @Bymiljoetaten , inspirert av @underdarkGIS #30DayMapChallenge #ukenskart"
+VetleHallas_05	jpg	14x16	05	106197238	VetleHallas	2019-11-05T08:34:50Z	1191634968935579648	_	"Dag 5 - Raster
+
+Inspirert av 'Nobody lives here' viser de blå rutenettene på 5x5 km fra @ssbnytt  steder i Norge der det ikke er stoppested for kollektivtransport. Data fra @Entur_AS #30DayMapChallenge #ukenskart"
 VetleHallas_06	jpg	16x10	06	106197238	VetleHallas	2019-11-06T08:16:14Z	1191992673932066816	_	"Dag 6 - Blå 
 
 Kart over Norge kun basert på @NVE sine elvedata. Ett av få kart jeg har laget med tegneforklaring 🤠#30DayMapChallenge #ukenskart"
 VetleHallas_07	jpg	14x16	07	106197238	VetleHallas	2019-11-07T09:27:58Z	1192373116204441600	_	Dag 7 er rød, men gjør det enkelt ved å vise alle stedsnavn i Norge med 'rød' i navnet. Data fra Geonames. #30DayMapChallenge #ukenskart
 VetleHallas_08	jpg	16x11	08	106197238	VetleHallas	2019-11-08T10:49:28Z	1192756012069113856	_	På dag 8 er temaet grønt. De grønne landene i kartet har grønne pass #30DayMapChallenge #ukenskart
 VetleHallas_09	jpg	11x16	09	106197238	VetleHallas	2019-11-09T14:24:03Z	1193172403066679297	_	Dag 9 er egentlig gul, men denne er mer rød. Uansett viser det konsentrasjonen av barer og cafeer i Oslo (@openstreetmap) og steder der jeg har tatt en øl og sjekket inn på @untappd #30DayMapChallenge #ukenskart
+VetleHallas_10	jpg	16x11	10	106197238	VetleHallas	2019-11-10T08:42:34Z	1193448852889722880	_	Voronidiagram ser knallbra ut, men kan også gi en indikasjon på avstand mellom punkter, i dette tilfellet adressepunkter i matrikkelen. #30DayMapChallenge #ukenskart
 VetleHallas_11	jpg	16x16	11	106197238	VetleHallas	2019-11-11T07:39:32Z	1193795377658572801	_	Dag 11 er høyde, og dette superenkle kartet viser landskapet rundt Boknafjorden kun ved bruk av høydekoter fra N50 #30DayMapChallenge #ukenskart
 VetleHallas_12	jpg	16x11	12	106197238	VetleHallas	2019-11-12T11:03:45Z	1194209158809165824	_	På den 12. dagen er temaet bevegelse. Kartet viser min egen bevegelse rundt om i Europa de siste 10 årene #30DayMapChallenge #ukenskart
 VetleHallas_13	jpg	16x11	13	106197238	VetleHallas	2019-11-13T07:01:59Z	1194510703220137984	_	Dag 13 - Tracks (min oversettelse/tolkning: spor). Derfor en gammel slager som viser utbyggingstakten til T-banen i Oslo #30DayMapChallenge  #ukenskart
@@ -9593,6 +9970,7 @@ VetleHallas_15	jpg	16x11	15	106197238	VetleHallas	2019-11-15T07:23:25Z	119524087
 
 På dag 15 er temaet navn #30DayMapChallenge #ukenskart"
 VetleHallas_16	jpg	11x16	16	106197238	VetleHallas	2019-11-16T15:20:01Z	1195723201747341315	_	Dag 16, med tema steder måtte jeg bare sette sammen i en hast, for jeg må løpe på jobb. Her er i hvert fall kulturminner - enkeltminner i Oslo sentrum og hvilken hjemmel stedet/bygget er fredet etter #30DayMapChallenge #ukenskart
+VetleHallas_18	jpg	16x15	18	106197238	VetleHallas	2019-11-18T19:29:47Z	1196510833033064448	_	Slår sammen gårsdagens tema (soner) med dagens tema (globe) for å vise utvalgte tidssoner på en litt annerledes måte #30DayMapChallenge #ukenskart
 VinodhDataArt_01	jpg	16x7	01	1119202751718645760	VinodhDataArt	2019-11-07T21:32:31Z	1192555453923786754	_	"#30DayMapChallenge  
 
 1- Points
@@ -9698,6 +10076,16 @@ VinodhDataArt_22	jpg	16x9	22	1119202751718645760	VinodhDataArt	2019-12-01T16:24:
 ""Hoover Dam ""  @Mapbox  @tableaupublic 
 
 https://t.co/9ckBhm7gza"
+VinodhDataArt_23	jpg	16x7	23	1119202751718645760	VinodhDataArt	2019-12-02T18:44:30Z	1201572868468944897	_	"#30DayMapChallenge 
+
+23- Population
+
+""Locations with 10M+ population"""
+VinodhDataArt_24	jpg	16x12	24	1119202751718645760	VinodhDataArt	2019-12-02T19:47:16Z	1201588663613820932	_	"#30DayMapChallenge 
+
+24 - Statistics
+
+""Death statistics in Africa due to HIV"""
 VinodhDataArt_26	jpg	16x12	26	1119202751718645760	VinodhDataArt	2019-11-28T07:48:45Z	1199958290622382080	_	"#30DayMapChallenge 
 
 26 - Hydrology
@@ -9819,6 +10207,12 @@ visualvariable_28	jpg	14x16	28	496514453	visualvariable	2019-11-29T15:48:11Z	120
 Day 28. Funny
 
 A day late but worth a chuckle: at 4039 ft, Mount Sunflower is the highest ""peak"" in Kansas. As this pic by Bill Johnson shows, it may be the easiest ascent for climbers in the country. Read more at https://t.co/FPgLSaFAud"
+Vitali_DiMe_01	jpg	16x16	01	150805369	Vitali_DiMe	2019-11-03T21:58:26Z	1191112425627504640	_	"#30DayMapChallenge POINTS
+Centroids of the largest #drought areas identified on a monthly basis. 
+Spatial drought extent schematised by four symbols pointing out the percentage of drought area. 
+Origin of the axes is placed in the centre of the country
+
+https://t.co/bMuieOnUaM"
 Vitali_DiMe_02	jpg	13x16	02	150805369	Vitali_DiMe	2019-11-03T22:21:32Z	1191118238215757825	_	"#30DayMapChallenge LINES
 
 Flow direction
@@ -9842,6 +10236,21 @@ Drought area
 India: Bihar, West Bengal, Odisha
 Standardized Precipitation Evapotranspiration Index (SPEI)
 if SPEI&lt;=-1 then drought otherwise non-drought"
+Vitali_DiMe_06	jpg	16x12	06	150805369	Vitali_DiMe	2019-11-06T10:15:51Z	1192022775357153287	_	"#30DayMapChallenge BLUE
+
+Satellite precipitation
+Two high-resolution products over Crete, Island
+top (west), 2nd row (centre), 3rd row (east), bottom (whole)"
+Vitali_DiMe_07	jpg	16x12	07	150805369	Vitali_DiMe	2019-11-07T15:07:32Z	1192458568554995712	_	"#30DayMapChallenge RED
+Drought areas
+
+South America, 2009-2010
+Source: Latin American Flood and Drought Monitor (LAFDM)"
+Vitali_DiMe_08	jpg	16x6	08	150805369	Vitali_DiMe	2019-11-08T11:55:13Z	1192772560435515392	_	"#30DayMapChallenge GREEN
+Cropland
+
+1800-1992
+Source: Ramankutty and Foley 1999"
 Vitali_DiMe_11	jpg	16x11	11	150805369	Vitali_DiMe	2019-11-11T12:29:20Z	1193868310779236352	_	"#30DayMapChallenge RASTER
 
 Elevation
@@ -9873,6 +10282,13 @@ vizualdatos_05	jpg	13x16	05	528956594	vizualdatos	2019-11-23T18:47:00Z	119831200
 #rstats #rstatsEs #DatosDeMiercoles #visualizaciondedatos #mapadecolombia #gis #rastermap #dataviz #beautifulmap #colombia #tmap"
 vizualdatos_06	jpg	12x16	06	528956594	vizualdatos	2019-11-25T17:09:19Z	1199012197831266305	_	"#30DayMapChallenge Day 6 Blue. Aguas continentales en Colombia. Mapa generado con librería tmap de #R. 
 #rstats #rstatsEs #gis #visualizaciondedatos #mapadecolombia #artmap #dataviz #tmap #rstudio #colombia #DatosDeMiercoles #colomviza"
+vlckel_01	jpg	16x9	01	3494716935	vlckel	2019-11-09T21:36:52Z	1193281323542220800	_	"Animated map for #30DayMapChallenge  . All done in #ArcGIS . Rwanda genocide in 1994 is terryfying. 
+
+source: Uppsala Conflict Data Program"
+vlckel_05	jpg	16x11	05	3494716935	vlckel	2019-11-06T07:36:14Z	1191982609598963712	_	"Doing my first Mars for #30DayMapChallenge  . I hope this counts.
+
+Interesting fact:
+Because Mars doesn't have any water to form a sea level the Martian datum is an arbitrary atmospheric pressure (610.5 Pa) so most height are negative."
 vlckel_10	jpg	16x16	10	3494716935	vlckel	2019-11-10T20:40:44Z	1193629586560552961	_	"#30daymapchallenge
 Day 10: Black and white.
 
@@ -9974,12 +10390,17 @@ XyCarto_19	jpg	16x12	19	1191269702904844291	XyCarto	2019-11-22T05:54:35Z	1197755
 XyCarto_20	jpg	16x7	20	1191269702904844291	XyCarto	2019-11-22T06:05:48Z	1197758055804325889	_	#30DayMapChallenge Day 20: Rural.  Remnants of an oxbow river  overtaken by farms in the Wairarapa.  Wellington DSM blended with aerial imagery.  It took a lot of fiddling to get the river to stand out in this image. Data @LINZLDS. Made with @QGIS and other @OSGeo tools.
 XyCarto_22	jpg	16x14	22	1191269702904844291	XyCarto	2019-11-22T06:19:54Z	1197761606140084224	_	#30DayMapChallenge Day 22: Built Environment. One last recycled project... Wellington City.  Wellington DSM, DEM and aerial imagery.  Notice the scars from the roads cut into the sides of the steep hills. Data @LINZLDS. Bathy interpolation with SAGA GIS. Vis with @QGIS and @OSGeo
 yanncabon_23	jpg	16x16	23	15072690	yanncabon	2019-11-23T18:00:30Z	1198300306041257984	_	My only contributions to #30DayMapChallenge are for Day 23: Population. 4 Visualizations about the historical population of France from 1876 to 2015. Data from @InseeFr and @IGNFrance with @ArcGISJSAPI #esrijs 1/5
+yavannie24_01	jpg	16x12	01	748038863206088704	yavannie24	2019-11-08T04:34:29Z	1192661644800749568	_	"#30DayMapChallenge - Points 
+where is this guy? 🤷
+♀️"
 yavannie24_02	jpg	12x16	02	748038863206088704	yavannie24	2019-11-08T05:32:57Z	1192676357781614592	_	"#30DayMapChallenge  
 2. Lines - Salt Lake City, UT Road Network 🚗"
 yavannie24_03	jpg	16x10	03	748038863206088704	yavannie24	2019-11-09T01:10:18Z	1192972648550035456	_	"#30DayMapChallenge 
 3. Polygons- Glaciers in Iceland ❄️"
 yavannie24_04	jpg	12x16	04	748038863206088704	yavannie24	2019-11-09T01:13:43Z	1192973507879006208	_	"#30DayMapChallenge 
 4. Hexagons- Utah Income by county (First attempt at hexbin, so pretty sure I hit all the “no-no’s” in one map lol)"
+yavannie24_05	jpg	16x12	05	748038863206088704	yavannie24	2019-11-09T22:02:30Z	1193287776289968128	_	"#30DayMapChallenge 
+5. Raster - Tibetan Plateau (obviously influenced by current reading material ☺️ )"
 yavannie24_06	jpg	16x10	06	748038863206088704	yavannie24	2019-11-09T23:06:27Z	1193303869184282625	_	"#30DayMapChallenge 
 6. Blue - LEGO Caribbean 🌊"
 yavannie24_07	jpg	16x12	07	748038863206088704	yavannie24	2019-11-10T02:03:53Z	1193348522638114816	_	"#30DayMapChallenge 

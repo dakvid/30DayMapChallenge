@@ -16,41 +16,41 @@ _kyliejane	14	Australia	Sydney	_	_	_
 _kyliejane	15	Australia	Sydney	_	_	QGIS
 _kyliejane	20	Australia	Sydney	_	_	_
 _kyliejane	28	Australia	Sydney	_	_	QGIS
-_penguin_runner	01	_	_	_	_	QGIS
-_penguin_runner	02	_	_	_	_	QGIS
-_penguin_runner	03	_	_	_	_	QGIS
-_penguin_runner	04	_	_	_	_	QGIS
-_penguin_runner	05	_	_	_	_	_
+_penguin_runner	01	United Kingdom,Ireland	_	_	_	QGIS
+_penguin_runner	02	United Kingdom	_	_	_	QGIS
+_penguin_runner	03	United Kingdom	_	_	_	QGIS
+_penguin_runner	04	United Kingdom	_	_	_	QGIS
+_penguin_runner	05	France	_	_	_	_
 _penguin_runner	06	_	_	_	_	QGIS
-_penguin_runner	07	_	_	_	_	QGIS
-_penguin_runner	08	_	_	_	_	QGIS
-_penguin_runner	09	_	_	_	_	QGIS
-_penguin_runner	10	_	_	_	_	QGIS
-_penguin_runner	11	_	_	_	_	QGIS
-_penguin_runner	12	_	_	_	_	QGIS
-_penguin_runner	13	_	_	_	_	_
-_penguin_runner	14	_	_	_	_	QGIS
-_penguin_runner	15	_	_	_	_	QGIS
-_penguin_runner	16	_	_	_	_	QGIS
-_penguin_runner	17	_	_	_	_	QGIS
-_penguin_runner	18	_	_	_	_	QGIS
-_penguin_runner	19	_	_	_	_	QGIS
-_penguin_runner	20	_	_	_	_	QGIS
-_penguin_runner	21	_	_	_	_	QGIS
-_penguin_runner	22	_	_	_	_	QGIS
-_penguin_runner	23	_	_	_	_	QGIS
-_penguin_runner	24	_	_	_	_	QGIS
-_penguin_runner	25	_	_	_	_	QGIS
-_penguin_runner	26	_	_	_	_	QGIS
-_penguin_runner	27	_	_	_	_	QGIS
-_penguin_runner	28	_	_	_	_	_
-_penguin_runner	29	_	_	_	_	_
-_penguin_runner	30	_	_	_	_	_
-_sebastianch_	05	_	_	_	_	_
-_sebastianch_	11	_	_	_	_	_
-_willdebras	01	_	_	_	_	_
-_willdebras	05	_	_	_	_	_
-1LuisDavid	30	_	_	_	_	R
+_penguin_runner	07	Other	_	_	_	QGIS
+_penguin_runner	08	United Kingdom	Edinburgh	_	_	QGIS
+_penguin_runner	09	United Kingdom	_	transport	lines	QGIS
+_penguin_runner	10	United Kingdom	Newcastle	_	_	QGIS
+_penguin_runner	11	United Kingdom	_	_	_	QGIS
+_penguin_runner	12	United Kingdom	_	_	animation	QGIS
+_penguin_runner	13	_	_	_	gps	_
+_penguin_runner	14	United Kingdom	_	_	_	QGIS
+_penguin_runner	15	United Kingdom	_	_	_	QGIS
+_penguin_runner	16	United Kingdom	_	_	_	QGIS
+_penguin_runner	17	United Kingdom	_	_	_	QGIS
+_penguin_runner	18	World	_	_	_	QGIS
+_penguin_runner	19	World	_	_	_	QGIS
+_penguin_runner	20	United Kingdom	_	_	_	QGIS
+_penguin_runner	21	United Kingdom	_	_	_	QGIS
+_penguin_runner	22	United Kingdom	Inverness	_	_	QGIS
+_penguin_runner	23	United Kingdom	_	_	_	QGIS
+_penguin_runner	24	United Kingdom	Manchester	_	_	QGIS
+_penguin_runner	25	World	_	climate	_	QGIS
+_penguin_runner	26	United Kingdom	_	_	_	QGIS
+_penguin_runner	27	United Kingdom	_	_	_	QGIS
+_penguin_runner	28	Other	_	_	_	hand drawn
+_penguin_runner	29	United Kingdom	_	_	_	_
+_penguin_runner	30	United Kingdom	Stirling	_	_	_
+_sebastianch_	05	_	_	_	lego	_
+_sebastianch_	11	Austria	_	_	_	_
+_willdebras	01	USA	Chicago	_	_	_
+_willdebras	05	USA	_	_	_	_
+1LuisDavid	30	Mexico	_	_	_	R
 57x025	01	_	_	_	_	_
 57x025	02	_	_	_	_	_
 57x025	03	_	_	_	_	_
@@ -78,8 +78,10 @@ _willdebras	05	_	_	_	_	_
 a_esceptica	02	_	_	_	_	_
 a3065794	03	_	_	_	_	_
 ABpdts	01	_	_	_	_	_
+ABpdts	02	_	_	_	_	_
 ABpdts	03	_	_	_	_	QGIS
 ABpdts	04	_	_	_	_	QGIS
+ABpdts	05	_	_	_	_	_
 ABpdts	06	_	_	_	_	QGIS
 ABpdts	07	_	_	_	_	_
 ABpdts	08	_	_	_	_	QGIS
@@ -138,15 +140,18 @@ AgroDer	26	_	_	_	_	_
 AgroDer	27	_	_	_	_	_
 akadouri	01	_	_	_	_	_
 akadouri	02	_	_	_	_	_
+akadouri	03	_	_	_	_	_
 akadouri	04	_	_	_	_	_
 akadouri	06	_	_	_	_	_
 akadouri	07	_	_	_	_	_
+akadouri	08	_	_	_	_	_
 akadouri	09	_	_	_	_	_
 akadouri	10	_	_	_	_	hand drawn
 akadouri	11	_	_	_	_	_
 akadouri	12	_	_	_	_	_
 akadouri	13	_	_	_	_	_
 akadouri	14	_	_	_	_	_
+akadouri	15	_	_	_	_	_
 akadouri	16	_	_	_	_	_
 akadouri	17	_	_	_	_	_
 akadouri	18	_	_	_	_	_
@@ -240,9 +245,17 @@ alyne_daluz	02	Italy	Rome	_	_	_
 am_fallatah	04	_	_	_	_	_
 AMbabani	01	Uganda	_	_	_	_
 AMbabani	02	Uganda	_	_	_	QGIS
+AnalisisGeo	01	_	_	_	_	_
+AnalisisGeo	05	_	_	_	_	_
 AnalisisGeo	11	Mexico	_	_	_	_
+AnalisisGeo	12	_	_	_	_	_
 analytiikka	27	Finland	_	_	_	_
+Anamhoo	01	_	_	_	_	_
+Anamhoo	02	_	_	_	_	_
+Anamhoo	03	_	_	_	_	_
+Anamhoo	04	_	_	_	_	_
 Anamhoo	05	_	_	_	_	_
+Anamhoo	07	_	_	_	_	_
 andrewdc_nz	03	New Zealand	Christchurch	_	_	QGIS
 andrewdc_nz	04	New Zealand	_	_	_	_
 andrewdc_nz	05	New Zealand	_	_	_	_
@@ -396,6 +409,15 @@ AyrtonBourn	01	United Kingdom	_	_	_	_
 AyrtonBourn	27	South Africa	_	_	_	_
 azolnai	11	United Kingdom	_	_	_	_
 azolnai	21	United Kingdom	_	_	_	_
+bayoishola20	03	Nigeria	Abuja	_	lego	_
+bayoishola20	04	Nigeria	_	_	_	_
+bayoishola20	05	Nigeria	_	_	_	_
+bayoishola20	06	Nigeria	Lagos	_	_	_
+bayoishola20	07	Nigeria	Lagos	_	_	_
+bayoishola20	08	Nigeria	Lagos	_	_	_
+bayoishola20	09	Nigeria	Lagos	_	_	_
+bayoishola20	10	Nigeria	Lagos	_	_	_
+bayoishola20	11	Nigeria	Abuja	_	_	_
 bbroex	01	_	_	_	_	_
 bbroex	02	_	_	_	_	_
 bbroex	03	_	_	_	_	_
@@ -502,6 +524,7 @@ blanky343	27	_	_	_	_	_
 blanky343	28	_	_	_	_	_
 blanky343	29	_	_	_	_	_
 blanky343	30	_	_	_	_	_
+BorisMericskay	01	_	_	_	_	_
 BorisMericskay	02	_	_	_	_	QGIS
 BorisMericskay	03	_	_	_	_	QGIS
 BorisMericskay	04	_	_	_	_	_
@@ -517,10 +540,7 @@ BorisMericskay	29	_	_	_	_	_
 bplmaps	01	_	_	_	_	_
 bplmaps	03	_	_	_	_	_
 bplmaps	04	_	_	_	_	_
-bplmaps	05	_	_	_	_	_
-bplmaps	09	_	_	_	_	_
-bplmaps	10	_	_	_	_	_
-bplmaps	11	_	_	_	_	_
+bplmaps	16	_	_	_	_	_
 BrittLonneville	05	_	_	_	_	_
 BrittLonneville	06	_	_	_	_	_
 BrittLonneville	11	Belgium	_	_	_	_
@@ -667,42 +687,46 @@ chalaoliverio	26	_	_	_	_	_
 chisatini	01	_	_	_	_	R
 chisatini	02	_	_	_	_	R
 chisatini	03	_	_	_	_	R
-chisatini	07	_	_	_	_	R
+chisatini	07	_	_	_	_	_
 chisatini	09	_	_	_	_	_
+chisatini	10	_	_	_	_	_
+chisatini	11	_	_	_	_	R
 chisatini	12	_	_	_	_	R,Leaflet
 chisatini	13	_	_	_	_	R
 chisatini	14	_	_	_	_	R
 chisatini	15	_	_	_	_	R
-citizenfishy	01	_	_	_	_	_
-citizenfishy	02	_	_	_	_	_
-citizenfishy	03	_	_	_	_	_
-citizenfishy	04	_	_	_	_	_
-citizenfishy	05	_	_	_	_	_
-citizenfishy	06	_	_	_	_	_
-citizenfishy	07	_	_	_	_	_
-citizenfishy	08	_	_	_	_	_
-citizenfishy	09	_	_	_	_	_
-citizenfishy	10	_	_	_	_	_
-citizenfishy	11	_	_	_	_	_
-citizenfishy	12	_	_	_	_	QGIS
-citizenfishy	13	_	_	_	_	_
-citizenfishy	14	_	_	_	_	_
-citizenfishy	15	_	_	_	_	_
-citizenfishy	16	_	_	_	_	_
-citizenfishy	17	_	_	_	_	_
+chisatini	20	_	_	_	_	_
+chisatini	23	_	_	_	_	_
+citizenfishy	01	United Kingdom	_	_	_	_
+citizenfishy	02	United Kingdom	_	_	_	_
+citizenfishy	03	United Kingdom	London	_	_	_
+citizenfishy	04	United Kingdom	_	_	_	_
+citizenfishy	05	Jamaica	_	_	_	_
+citizenfishy	06	World	_	_	_	_
+citizenfishy	07	United Kingdom	_	_	_	_
+citizenfishy	08	World	_	_	_	_
+citizenfishy	09	China	_	_	_	_
+citizenfishy	10	United Kingdom	_	_	_	_
+citizenfishy	11	United Kingdom	_	_	_	_
+citizenfishy	12	United Kingdom	Brixham	_	_	QGIS
+citizenfishy	13	USA,Canada	_	_	_	_
+citizenfishy	14	United Kingdom	_	_	_	_
+citizenfishy	15	United Kingdom	_	_	_	_
+citizenfishy	16	Europe	_	_	_	_
+citizenfishy	17	United Kingdom	London	_	_	_
 citizenfishy	18	_	_	_	_	_
-citizenfishy	19	_	_	_	_	_
-citizenfishy	20	_	_	_	_	_
-citizenfishy	21	_	_	_	_	_
-citizenfishy	22	_	_	_	_	_
-citizenfishy	23	_	_	_	_	_
-citizenfishy	24	_	_	_	_	_
-citizenfishy	25	_	_	_	_	_
-citizenfishy	26	_	_	_	_	_
-citizenfishy	27	_	_	_	_	_
-citizenfishy	28	_	_	_	_	_
-citizenfishy	29	_	_	_	_	_
-citizenfishy	30	_	_	_	_	hand drawn
+citizenfishy	19	United Kingdom	_	_	_	_
+citizenfishy	20	United Kingdom	_	_	_	_
+citizenfishy	21	United Kingdom	_	_	_	_
+citizenfishy	22	United Kingdom	Brixham	_	_	_
+citizenfishy	23	United Kingdom	_	_	_	_
+citizenfishy	24	World	_	_	_	_
+citizenfishy	25	United Kingdom	_	_	_	_
+citizenfishy	26	United Kingdom	_	_	_	_
+citizenfishy	27	United Kingdom	_	_	_	_
+citizenfishy	28	United Kingdom	_	_	_	_
+citizenfishy	29	Switzerland	_	_	_	_
+citizenfishy	30	Other	_	_	_	hand drawn
 citysbackyard	04	_	_	_	_	Mapbox
 col_en_datos	01	_	_	_	_	_
 col_en_datos	02	_	_	_	_	_
@@ -777,7 +801,7 @@ CRVanPollard	15	USA	Philadelphia	names	_	ArcGIS
 CRVanPollard	16	USA	_	placenames	dot density	ArcGIS
 CRVanPollard	17	World	_	_	choropleth	ArcGIS
 CRVanPollard	18	World	_	travel	lines	ArcGIS
-CRVanPollard	19	USA	San Fransico	buildings	_	QGIS
+CRVanPollard	19	USA	San Francisco	buildings	_	QGIS
 CRVanPollard	20	USA	_	land use	choropleth	QGIS
 CRVanPollard	21	Other	_	climate	_	ArcGIS
 CRVanPollard	22	USA	_	buildings	small multiples	ArcGIS
@@ -789,14 +813,14 @@ CRVanPollard	27	USA	_	_	_	Photoshop,ArcGIS
 CRVanPollard	28	USA	_	travel	lines	ArcGIS
 CRVanPollard	29	USA	_	administrative boundaries	small multiples	ArcGIS
 CRVanPollard	30	United Kingdom	_	land use	lines	ArcGIS
-csaladenes	05	_	_	_	_	_
-csaladenes	06	_	_	_	_	_
-csaladenes	07	_	_	_	_	D3.js
-CushenMichael	23	_	_	_	_	_
-d_vigilr	04	_	_	_	_	_
-d_vigilr	06	_	_	_	_	_
-d_vigilr	07	_	_	_	_	_
-d_vigilr	08	_	_	_	_	_
+csaladenes	05	Hungary	Budapest	_	_	_
+csaladenes	06	Hungary	Budapest	_	_	_
+csaladenes	07	Romania	_	_	_	D3.js
+CushenMichael	23	Ireland	_	_	_	_
+d_vigilr	04	Mexico	Mexico City	_	_	_
+d_vigilr	06	Mexico	_	_	_	_
+d_vigilr	07	Mexico	_	_	_	_
+d_vigilr	08	Mexico	Monterrey	_	_	_
 dakvid	01	New Zealand	_	politics	points	QGIS
 dakvid	08	New Zealand	_	_	choropleth	QGIS
 dakvid	14	New Zealand	_	administrative boundaries	animation	R
@@ -806,8 +830,10 @@ dakvid	19	New Zealand	Auckland	population	_	QGIS
 dakvid	20	New Zealand	_	_	_	QGIS
 dakvid	23	New Zealand	_	_	dot density	QGIS
 dakvid	24	New Zealand	Queenstown	_	dot density	QGIS
-danc00ks0n	01	_	_	_	_	_
-danc00ks0n	22	_	_	_	_	_
+danc00ks0n	01	USA	_	_	_	_
+danc00ks0n	02	United Kingdom	London	_	_	_
+danc00ks0n	10	United Kingdom	_	_	_	_
+danc00ks0n	22	USA	New York City	_	_	_
 danidlsa	02	_	_	_	_	_
 danidlsa	04	_	_	_	_	R,Leaflet
 danidlsa	05	_	_	_	_	R
@@ -828,9 +854,12 @@ danidlsa	29	_	_	_	_	_
 danidlsa	30	_	_	_	_	R,Leaflet
 Daniel_AvOr	01	_	_	_	_	_
 Daniel_AvOr	03	_	_	_	_	_
+Daniel_AvOr	04	_	_	_	_	_
 Daniel_AvOr	06	_	_	_	_	_
 Daniel_AvOr	07	_	_	_	_	_
 Daniel_AvOr	12	_	_	_	_	_
+Daniel_AvOr	19	_	_	_	_	_
+Daniel_AvOr	21	_	_	_	_	_
 daniel_isita	01	_	_	_	_	QGIS
 daniel_isita	02	_	_	_	_	QGIS
 daniel_isita	03	_	_	_	_	QGIS
@@ -859,10 +888,10 @@ daniel_isita	25	_	_	_	_	QGIS
 daniel_isita	26	_	_	_	_	QGIS
 daniel_isita	27	_	_	_	_	QGIS
 daniel_isita	28	_	_	_	_	hand drawn
-DanielChoperena	02	_	_	_	_	_
-DanielChoperena	03	_	_	_	_	_
-DanielKiuri	04	_	_	_	_	QGIS
-DanielKiuri	05	_	_	_	_	QGIS
+DanielChoperena	02	Mexico	Mexico City	_	_	_
+DanielChoperena	03	Mexico	_	_	_	_
+DanielKiuri	04	Kenya	_	_	_	QGIS
+DanielKiuri	05	Kenya	_	_	_	QGIS
 darenw	01	_	_	_	_	_
 darenw	02	_	_	_	_	_
 darenw	03	_	_	_	_	_
@@ -877,12 +906,27 @@ darenw	14	_	_	_	_	_
 darenw	15	_	_	_	_	_
 data_nurse	01	_	_	_	_	_
 data_nurse	03	_	_	_	_	R
+datacivica	01	Mexico	_	_	_	_
+datacivica	02	Mexico	Mexico City	_	_	_
+datacivica	03	Mexico	_	_	_	_
+datacivica	06	Mexico	Mexico City	_	_	_
+datacivica	07	Mexico	_	_	_	_
+datacivica	15	Mexico	_	_	_	_
+datacivica	17	Mexico	_	_	_	_
+datacivica	19	Mexico	Mexico City	_	_	_
+datacivica	24	Mexico	_	_	_	_
 datarttu	09	_	_	_	_	_
 datarttu	10	_	_	_	_	_
+datavizero	01	_	_	_	_	_
+datavizero	02	_	_	_	_	_
+datavizero	03	_	_	_	_	_
 datavizero	11	_	_	_	_	_
+datavizero	12	_	_	_	_	_
 datavizero	30	_	_	_	_	_
 David_I_Berry	05	_	_	_	_	_
+DavidNg96191301	01	_	_	_	_	_
 DavidNg96191301	03	_	_	_	_	_
+DavidNg96191301	04	_	_	_	_	_
 DavidNg96191301	11	_	_	_	_	_
 DavidNg96191301	15	_	_	_	_	_
 ddiazescandon	18	_	_	_	_	QGIS
@@ -960,10 +1004,18 @@ drawingdata	28	_	_	_	_	_
 drawingdata	29	_	_	_	_	_
 drawingdata	30	_	_	_	_	_
 DylanMoriarty	01	_	_	_	_	_
+DylanMoriarty	02	_	_	_	_	_
+DylanMoriarty	03	_	_	_	_	_
+DylanMoriarty	04	_	_	_	_	_
+DylanMoriarty	05	_	_	_	_	_
+DylanMoriarty	06	_	_	_	_	_
+DylanMoriarty	08	_	_	_	_	_
 edaniel_ramirez	05	_	_	_	_	_
 edaniel_ramirez	14	_	_	_	_	_
 edeleonw	01	_	_	_	_	_
+Elio_Javi	03	_	_	_	_	_
 Elio_Javi	04	_	_	_	_	R
+Elio_Javi	05	_	_	_	_	_
 Elio_Javi	06	_	_	_	_	R
 Elio_Javi	07	_	_	_	_	_
 Elio_Javi	13	_	_	_	_	R,Leaflet
@@ -1029,36 +1081,36 @@ EVB221	03	_	_	_	_	_
 EVB221	04	_	_	_	_	_
 EVB221	07	_	_	_	_	_
 EVB221	17	_	_	_	_	_
-evelynuuemaa	01	_	_	_	_	_
-evelynuuemaa	02	_	_	_	_	_
-evelynuuemaa	03	_	_	_	_	_
-evelynuuemaa	04	_	_	_	_	_
-evelynuuemaa	05	_	_	_	_	_
-evelynuuemaa	06	_	_	_	_	_
-evelynuuemaa	07	_	_	_	_	_
-evelynuuemaa	08	_	_	_	_	_
-evelynuuemaa	09	_	_	_	_	_
-evelynuuemaa	10	_	_	_	_	_
-evelynuuemaa	11	_	_	_	_	_
-evelynuuemaa	12	_	_	_	_	_
-evelynuuemaa	13	_	_	_	_	_
-evelynuuemaa	14	_	_	_	_	_
-evelynuuemaa	15	_	_	_	_	_
-evelynuuemaa	16	_	_	_	_	_
-evelynuuemaa	17	_	_	_	_	_
-evelynuuemaa	18	_	_	_	_	_
-evelynuuemaa	19	_	_	_	_	_
-evelynuuemaa	20	_	_	_	_	_
-evelynuuemaa	21	_	_	_	_	_
-evelynuuemaa	22	_	_	_	_	QGIS,three.js,Inkscape
-evelynuuemaa	23	_	_	_	_	_
-evelynuuemaa	24	_	_	_	_	_
-evelynuuemaa	25	_	_	_	_	_
-evelynuuemaa	26	_	_	_	_	_
-evelynuuemaa	27	_	_	_	_	_
-evelynuuemaa	28	_	_	_	_	_
-evelynuuemaa	29	_	_	_	_	_
-evelynuuemaa	30	_	_	_	_	_
+evelynuuemaa	01	Estonia	_	_	_	_
+evelynuuemaa	02	Estonia	_	_	_	_
+evelynuuemaa	03	Estonia	_	_	_	_
+evelynuuemaa	04	Estonia	_	_	_	_
+evelynuuemaa	05	Estonia	_	_	_	_
+evelynuuemaa	06	Estonia	_	_	_	_
+evelynuuemaa	07	Estonia	_	_	_	_
+evelynuuemaa	08	Estonia	_	_	_	_
+evelynuuemaa	09	Estonia	_	_	_	_
+evelynuuemaa	10	Estonia	_	_	_	_
+evelynuuemaa	11	Estonia	_	_	_	_
+evelynuuemaa	12	Estonia	_	_	_	_
+evelynuuemaa	13	Estonia	_	_	_	_
+evelynuuemaa	14	Estonia	_	_	_	_
+evelynuuemaa	15	Estonia	_	_	_	_
+evelynuuemaa	16	Estonia	_	_	_	_
+evelynuuemaa	17	Estonia	_	_	_	_
+evelynuuemaa	18	World	_	_	uncommon projections	_
+evelynuuemaa	19	Estonia	Tallinn,Kohtla-Järve,Tartu,Narva,Pärnu	_	_	_
+evelynuuemaa	20	Estonia	_	_	_	_
+evelynuuemaa	21	Estonia	_	_	_	_
+evelynuuemaa	22	Estonia	_	_	_	QGIS,three.js,Inkscape
+evelynuuemaa	23	Estonia	_	_	_	_
+evelynuuemaa	24	Estonia	_	_	_	_
+evelynuuemaa	25	Estonia	_	_	_	_
+evelynuuemaa	26	Estonia	_	_	_	_
+evelynuuemaa	27	Estonia	_	_	_	_
+evelynuuemaa	28	Estonia	_	_	_	_
+evelynuuemaa	29	Estonia	_	_	lego	_
+evelynuuemaa	30	Estonia	Tartu	_	_	_
 EwanMcLaughlin6	03	_	_	_	_	QGIS
 EwanMcLaughlin6	06	Arctic	_	_	_	_
 EwanMcLaughlin6	11	_	_	_	_	QGIS,three.js,Inkscape
@@ -1080,6 +1132,8 @@ frida_celis	03	_	_	_	_	_
 frida_celis	07	_	_	_	_	_
 frida_celis	08	_	_	_	_	_
 fritzGIS	22	_	_	_	_	QGIS,D3.js
+FullerofScience	06	_	_	_	_	_
+FullerofScience	07	_	_	_	_	_
 FullerofScience	18	_	_	_	_	_
 g_fiske	10	_	_	_	_	_
 g_fiske	11	_	_	_	_	_
@@ -1146,9 +1200,14 @@ Generally_Geo	17	New Zealand	_	_	_	QGIS,Blender,GIMP
 Generally_Geo	28	New Zealand,Australia	_	_	_	_
 Generally_Geo	29	_	_	_	_	QGIS
 Generally_Geo	30	New Zealand	Porirua	_	_	_
+geo_brady	01	_	_	_	_	_
+geo_brady	02	_	_	_	_	_
+geo_brady	03	_	_	_	_	_
+geo_brady	04	_	_	_	_	_
 geo_brady	05	_	_	_	_	_
 geo_brady	06	_	_	_	_	_
 geo_brady	10	_	_	_	_	_
+geo_brady	23	_	_	_	_	_
 Geo_BrianJ	01	_	_	_	_	_
 Geo_BrianJ	02	_	_	_	_	_
 Geo_BrianJ	03	_	_	_	_	_
@@ -1176,6 +1235,8 @@ GeogDave	14	_	_	_	_	_
 geografa	01	_	_	_	_	Mapbox
 geografa	02	_	_	_	_	_
 geografa	04	_	_	_	_	Mapbox
+geografa	05	_	_	_	_	_
+geografa	06	_	_	_	_	_
 GeografoSevilla	01	_	_	_	_	_
 GeografoSevilla	03	_	_	_	_	_
 Geolytix	04	_	_	_	_	_
@@ -1183,39 +1244,39 @@ Geolytix	14	_	_	_	_	_
 Geolytix	16	_	_	_	_	_
 Geolytix	17	_	_	_	_	_
 geominds	09	India	_	_	animation	_
-GeomniUK	01	_	_	_	_	_
-GeomniUK	02	_	_	_	_	_
-GeomniUK	03	_	_	_	_	_
-GeomniUK	04	_	_	_	_	_
-GeomniUK	05	_	_	_	_	_
-GeomniUK	06	_	_	_	_	_
-GeomniUK	07	_	_	_	_	_
-GeomniUK	08	_	_	_	_	_
-GeomniUK	09	_	_	_	_	_
-GeomniUK	10	_	_	_	_	_
-GeomniUK	11	_	_	_	_	_
-GeomniUK	12	_	_	_	_	_
-GeomniUK	13	_	_	_	_	_
-GeomniUK	14	_	_	_	_	_
-GeomniUK	15	_	_	_	_	_
-GeomniUK	16	_	_	_	_	_
-GeomniUK	17	_	_	_	_	_
-GeomniUK	18	_	_	_	_	_
-GeomniUK	19	_	_	_	_	_
-GeomniUK	20	_	_	_	_	_
-GeomniUK	21	_	_	_	_	_
+GeomniUK	01	United Kingdom	Edinburgh	_	_	_
+GeomniUK	02	France	Paris	_	_	_
+GeomniUK	03	United Kingdom	Newcastle	_	_	_
+GeomniUK	04	United Kingdom	London	_	_	_
+GeomniUK	05	United Kingdom	Nottingham	_	_	_
+GeomniUK	06	United Kingdom	Birmingham	_	_	_
+GeomniUK	07	United Kingdom	London	_	_	_
+GeomniUK	08	United Kingdom	London	_	_	_
+GeomniUK	09	United Kingdom	London	_	_	_
+GeomniUK	10	United Kingdom	London	_	_	_
+GeomniUK	11	France	Paris	_	_	_
+GeomniUK	12	United Kingdom	London	_	_	_
+GeomniUK	13	France	Paris	_	_	_
+GeomniUK	14	United Kingdom	London	_	_	_
+GeomniUK	15	United Kingdom	London	_	_	_
+GeomniUK	16	United Kingdom	London	_	_	_
+GeomniUK	17	United Kingdom	Sheffield	_	_	_
+GeomniUK	18	United Kingdom	London	_	_	_
+GeomniUK	19	United Kingdom	Sheffield	_	_	_
+GeomniUK	20	United Kingdom	_	_	_	_
+GeomniUK	21	United Kingdom	London	_	_	_
 GeomniUK	22	_	_	_	_	_
-GeomniUK	23	_	_	_	_	_
-GeomniUK	24	_	_	_	_	_
-GeomniUK	25	_	_	_	_	_
-GeomniUK	26	_	_	_	_	_
-GeomniUK	27	_	_	_	_	_
-GeomniUK	28	_	_	_	_	_
+GeomniUK	23	United Kingdom	London	_	_	_
+GeomniUK	24	United Kingdom	London	_	_	_
+GeomniUK	25	United Kingdom	London	_	_	_
+GeomniUK	26	United Kingdom	London	_	_	_
+GeomniUK	27	United Kingdom	London	_	_	_
+GeomniUK	28	United Kingdom	London	_	_	_
 GeomniUK	29	_	_	_	_	_
-GeomniUK	30	_	_	_	_	_
-Gerard_Mauro	06	_	_	_	_	R
-Gerard_Mauro	23	_	_	_	_	R
-Gerard_Mauro	24	_	_	_	_	R
+GeomniUK	30	United Kingdom	Cardiff	_	_	_
+Gerard_Mauro	06	Mexico	_	_	_	R
+Gerard_Mauro	23	Mexico	_	_	_	R
+Gerard_Mauro	24	Mexico	_	_	_	R
 Gerardathletics	01	_	_	_	_	_
 Gerardathletics	02	_	_	_	_	QGIS,D3.js
 Gerardathletics	03	_	_	_	_	QGIS
@@ -1246,13 +1307,17 @@ GIS_Manipulator	08	_	_	_	_	ArcGIS
 GIS_Manipulator	10	_	_	_	_	_
 GIS_Manipulator	11	_	_	_	_	_
 GIS_Manipulator	26	_	_	_	_	_
+GIS_Manipulator	30	_	_	_	_	_
 gis3700	03	_	_	_	_	_
 gis3700	04	_	_	_	_	_
 gis3700	05	_	_	_	_	QGIS
+gis3700	08	_	_	_	_	_
 gis3700	09	_	_	_	_	_
 gis3700	18	_	_	_	_	_
 gis3700	19	_	_	_	_	_
 gis3700	20	Belgium	Tongeren	_	interactive	ArcGIS
+gis3700	22	_	_	_	_	_
+gis3700	26	_	_	_	_	_
 GIS4Teachers	08	_	_	_	_	ArcGIS
 GIS4Teachers	09	_	_	_	_	_
 GIS4Teachers	10	_	_	_	_	ArcGIS
@@ -1261,13 +1326,18 @@ GIS4Teachers	25	_	_	_	_	ArcGIS
 GIS4Teachers	27	_	_	_	_	ArcGIS
 GIS4Teachers	28	_	_	_	_	_
 GIShaun	12	_	_	_	_	_
+gmapsmania	01	_	_	_	_	_
 gmapsmania	02	_	_	_	_	_
+gmapsmania	03	_	_	_	_	_
 gmapsmania	04	_	_	_	_	_
 gmapsmania	05	_	_	_	_	_
+gmapsmania	06	_	_	_	_	_
 gmapsmania	07	_	_	_	_	_
 gmapsmania	08	_	_	_	_	_
 gmapsmania	09	_	_	_	_	_
+gmapsmania	10	_	_	_	_	_
 gmapsmania	12	_	_	_	_	Leaflet
+gmapsmania	13	_	_	_	_	_
 gmapsmania	15	_	_	_	_	_
 gmapsmania	24	_	_	_	_	_
 gmbeisbol	01	_	_	_	_	R,Leaflet
@@ -1309,7 +1379,9 @@ gontsa	27	Ukraine	_	_	_	QGIS
 gontsa	28	Ukraine	_	_	_	QGIS
 gontsa	29	Ukraine	_	_	_	_
 gontsa	30	Ukraine	Cherkasy	_	_	QGIS,Blender,Inkscape
+grace_miswa	01	_	_	_	_	_
 grace_miswa	02	World	_	_	_	Mapbox
+grace_miswa	03	_	_	_	_	_
 grace_miswa	04	Kenya	_	_	_	_
 greenpath_urban	24	Finland	Helsinki	_	_	_
 greenynorfolk	03	_	_	_	_	_
@@ -1349,10 +1421,19 @@ GrrdJul	15	France	_	_	_	QGIS
 Gustav_Ahumada	05	_	_	_	_	_
 Gustav_Ahumada	08	Colombia	_	_	_	R
 Gustav_Ahumada	21	Colombia	_	_	_	R
+GutierrezyMarco	02	_	_	_	_	_
+GutierrezyMarco	06	_	_	_	_	_
+GutierrezyMarco	07	_	_	_	_	_
 GutierrezyMarco	10	_	_	_	_	_
 GutierrezyMarco	11	_	_	_	_	_
+GutierrezyMarco	15	_	_	_	_	_
 GutierrezyMarco	19	Mexico	_	_	_	_
+hailmika	01	_	_	_	_	_
+hailmika	02	_	_	_	_	_
+hailmika	03	_	_	_	_	_
+hailmika	04	_	_	_	_	_
 hailmika	05	Denmark	_	_	_	_
+hailmika	06	_	_	_	_	_
 hansakwast	11	Germany	Tharandt	_	_	QGIS,three.js,Inkscape
 hansakwast	17	Netherlands	_	_	_	_
 hansakwast	22	Netherlands	Rotterdam	_	_	QGIS
@@ -1577,10 +1658,15 @@ inari_ta	08	_	_	_	_	_
 inari_ta	09	_	_	_	_	_
 inari_ta	10	_	_	_	_	_
 inari_ta	11	_	_	_	_	_
+indiaviz	01	_	_	_	_	_
 indiaviz	02	Ethiopia	_	_	_	_
 indiaviz	04	Europe	_	_	_	_
 indiaviz	05	India	_	_	_	_
+indiaviz	06	_	_	_	_	_
 indiaviz	11	India	_	_	_	_
+indiaviz	12	_	_	_	_	_
+indiaviz	14	_	_	_	_	_
+indiaviz	19	_	_	_	_	_
 ing_ressive	04	_	_	_	_	_
 ing_ressive	21	_	_	_	_	_
 Innisfree	01	_	_	_	_	_
@@ -1748,8 +1834,14 @@ josephlewis1992	01	China	_	_	_	_
 josephlewis1992	02	United Kingdom	_	_	_	_
 josephlewis1992	03	United Kingdom	_	_	_	_
 josephlewis1992	04	China	_	_	_	_
+joshua_sumers	01	_	_	_	_	_
+joshua_sumers	02	_	_	_	_	_
+joshua_sumers	03	_	_	_	_	_
 joshua_sumers	04	USA	_	_	_	_
 joshua_sumers	05	USA	_	_	_	_
+joshua_sumers	06	_	_	_	_	_
+joshua_sumers	07	_	_	_	_	_
+joshua_sumers	08	_	_	_	_	_
 joshua_sumers	09	Ecuador	_	land use	_	_
 Juanizio_C	01	Chile	Santiago	_	_	_
 Juanizio_C	02	Chile	Santiago	_	_	_
@@ -1782,6 +1874,9 @@ Juanizio_C	29	Chile	Santiago	_	_	_
 Juanizio_C	30	Chile	Santiago	_	_	_
 Junevgt	03	Other	_	_	_	_
 Junevgt	04	World	_	_	_	_
+Junevgt	12	_	_	_	_	_
+Junevgt	13	_	_	_	_	_
+Junevgt	22	_	_	_	_	_
 JuvenalCamposF	01	_	_	_	_	R
 JuvenalCamposF	02	_	_	_	_	R
 JuvenalCamposF	03	_	_	_	_	R
@@ -1899,6 +1994,11 @@ knozi1	12	Austria	_	_	_	_
 knozi1	15	Austria	_	_	_	_
 knozi1	22	Austria	_	_	_	_
 knozi1	23	Austria	_	_	_	_
+komzpa	01	Belarus	_	_	_	hand drawn
+komzpa	02	Belarus	_	_	_	hand drawn
+komzpa	03	Belarus	_	_	_	hand drawn
+komzpa	04	Belarus	_	_	_	hand drawn
+komzpa	05	_	_	_	_	_
 kovalainenaa	06	World	_	_	_	_
 kriksine	01	_	_	_	_	_
 kriksine	03	_	_	_	_	_
@@ -1951,12 +2051,15 @@ Landa23	02	_	_	_	_	_
 Landa23	03	_	_	_	_	_
 Landa23	07	_	_	_	_	_
 LASACONGRESS	01	_	_	_	_	_
+LASACONGRESS	27	_	_	_	_	_
 laurentgontier	04	_	_	_	_	_
 laurentgontier	14	_	_	_	_	_
 lcgeography	11	_	_	_	_	ArcGIS
+LDSISurveying	01	_	_	_	_	_
 LDSISurveying	02	_	_	_	_	_
 LDSISurveying	03	_	_	_	_	_
 LDSISurveying	04	_	_	_	_	_
+LDSISurveying	05	_	_	_	_	_
 LDSISurveying	06	_	_	_	_	_
 LDSISurveying	07	_	_	_	_	_
 LGeospatial	02	_	_	_	_	_
@@ -2002,9 +2105,12 @@ LocalFocusNL	30	_	_	_	_	D3.js
 LuisAguilarCruz	04	_	_	_	_	_
 lutraconsulting	26	_	_	_	_	_
 lvmgeo	05	_	_	_	_	_
+lvmgeo	06	_	_	_	_	_
+lvmgeo	07	_	_	_	_	_
 lvmgeo	08	_	_	_	_	_
 lvmgeo	11	_	_	_	_	_
 lvmgeo	12	_	_	_	_	_
+lvmgeo	27	_	_	_	_	_
 lyzidiamond	01	World	_	earthquakes	interactive,points	Mapbox
 lyzidiamond	02	World	_	transport	interactive,lines	Mapbox,Leaflet
 lyzidiamond	03	World	_	_	uncommon projections	QGIS
@@ -2052,6 +2158,7 @@ magonza9	07	Chile	Santiago	_	_	_
 magonza9	08	Chile	Santiago	_	_	_
 magonza9	09	_	_	_	_	_
 magonza9	10	Chile	_	_	_	_
+ManAboutCouch	14	_	_	_	_	_
 ManAboutCouch	22	Ireland	Dublin	_	_	_
 mapmakerdavid	01	New Zealand	_	earthquakes	points	QGIS
 mapmakerdavid	02	Oceania	_	climate	lines	QGIS
@@ -2151,11 +2258,14 @@ MartinBangratz	08	_	_	_	_	QGIS
 MartinBangratz	09	_	_	_	_	QGIS
 MartinBangratz	11	_	_	_	_	QGIS
 MartinBangratz	12	_	_	_	_	QGIS,Photoshop
+MartinBangratz	14	_	_	_	_	_
 MartinBangratz	15	_	_	_	_	_
 MartinBangratz	19	_	_	_	_	QGIS
 MartinSenn6	01	_	_	_	_	_
 MartinSenn6	02	_	_	_	_	QGIS
 MartinSenn6	03	_	_	_	_	QGIS
+MattiJKokkonen	01	_	_	_	_	_
+MattiJKokkonen	02	_	_	_	_	_
 MattiJKokkonen	03	_	_	_	_	_
 MattiJKokkonen	04	_	_	_	_	_
 MattiJKokkonen	16	_	_	_	_	_
@@ -2194,9 +2304,20 @@ michelstuyts	28	_	_	_	_	_
 michelstuyts	29	_	_	_	_	_
 michelstuyts	30	_	_	_	_	_
 mikusthetiger	04	_	_	_	_	_
+mildthing99	02	United Kingdom	_	_	_	_
+mildthing99	07	Japan	_	_	_	_
 mildthing99	10	_	_	_	_	_
+mildthing99	12	Asia	_	_	_	_
+mildthing99	13	Asia	_	_	interactive,animation	ArcGIS
+mildthing99	16	Ireland	_	_	interactive	ArcGIS
+mildthing99	19	United Kingdom	London	_	animation	ArcGIS
+mildthing99	21	United Kingdom,Ireland	_	_	_	ArcGIS
 mildthing99	26	_	_	_	_	ArcGIS
+mildthing99	27	World	_	_	interactive	ArcGIS
+mildthing99	Europe	_	_	_	_	ArcGIS
+mim_djo	01	_	_	_	_	_
 mim_djo	04	_	_	_	_	_
+mim_djo	05	_	_	_	_	_
 MiniTigri	02	_	_	_	_	QGIS
 MiniTigri	03	_	_	_	_	QGIS
 MiniTigri	04	_	_	_	_	QGIS
@@ -2229,7 +2350,9 @@ mmits003	05	_	_	_	_	_
 mmits003	06	_	_	_	_	_
 mmits003	07	_	_	_	_	_
 mmits003	08	_	_	_	_	_
+moaimx	01	_	_	_	_	_
 moaimx	02	_	_	_	_	_
+moaimx	03	_	_	_	_	_
 Ms_Pixels	08	_	_	_	_	_
 Ms_Pixels	11	_	_	_	_	_
 Ms_Pixels	14	_	_	_	_	_
@@ -2239,40 +2362,42 @@ mwigley2	22	_	_	_	_	_
 mwigley2	26	_	_	_	_	_
 MxDatalab	09	_	_	_	_	_
 MxDatalab	22	_	_	_	_	_
-my_physical	01	_	_	_	_	_
-my_physical	02	_	_	_	_	_
-my_physical	03	_	_	_	_	_
-my_physical	04	_	_	_	_	_
-my_physical	05	_	_	_	_	_
-my_physical	06	_	_	_	_	_
-my_physical	07	_	_	_	_	_
-my_physical	08	_	_	_	_	_
-my_physical	09	_	_	_	_	_
-my_physical	10	_	_	_	_	_
-my_physical	11	_	_	_	_	_
-my_physical	12	_	_	_	_	Blender
-my_physical	13	_	_	_	_	_
-my_physical	14	_	_	_	_	_
-my_physical	15	_	_	_	_	_
-my_physical	16	_	_	_	_	_
-my_physical	17	_	_	_	_	_
-my_physical	18	_	_	_	_	Blender
-my_physical	19	_	_	_	_	_
-my_physical	20	_	_	_	_	_
-my_physical	21	_	_	_	_	_
-my_physical	22	_	_	_	_	_
-my_physical	23	_	_	_	_	_
-my_physical	24	_	_	_	_	_
-my_physical	25	_	_	_	_	_
-my_physical	26	_	_	_	_	_
-my_physical	27	_	_	_	_	QGIS,ArcGIS
-my_physical	28	_	_	_	_	QGIS,ArcGIS
-my_physical	29	_	_	_	_	_
-my_physical	30	_	_	_	_	QGIS,ArcGIS
+my_physical	01	USA	_	_	_	_
+my_physical	02	USA	_	_	_	_
+my_physical	03	USA	_	_	_	_
+my_physical	04	USA	_	_	_	_
+my_physical	05	USA	_	_	_	_
+my_physical	06	USA	_	_	_	_
+my_physical	07	USA	_	_	_	_
+my_physical	08	USA	_	_	_	_
+my_physical	09	USA	_	_	_	_
+my_physical	10	USA	_	_	_	_
+my_physical	11	USA	_	_	_	_
+my_physical	12	World	_	_	animation	Blender
+my_physical	13	USA	_	_	_	_
+my_physical	14	USA	_	_	_	_
+my_physical	15	USA	_	_	_	_
+my_physical	16	USA	_	_	_	_
+my_physical	17	USA	Shelby	_	_	_
+my_physical	18	World	_	_	_	Blender
+my_physical	19	China	Chongqing	_	_	_
+my_physical	20	Brazil	_	_	_	_
+my_physical	21	Brazil	_	_	_	_
+my_physical	22	United Arab Emirates	Dubai	_	_	_
+my_physical	23	USA	Salton City	_	_	_
+my_physical	24	USA	_	_	_	_
+my_physical	25	USA	Fort Myers	_	_	_
+my_physical	26	USA	_	_	_	_
+my_physical	27	USA	_	_	_	QGIS,ArcGIS
+my_physical	28	USA	_	_	_	QGIS,ArcGIS
+my_physical	29	Switzerland	Geneva	_	_	_
+my_physical	30	USA	_	_	_	QGIS,ArcGIS
+NadiiaGorash	01	_	_	_	_	_
 NadiiaGorash	02	_	_	_	_	_
 NadiiaGorash	03	_	_	_	_	_
 NadiiaGorash	04	_	_	_	_	_
 NadiiaGorash	11	_	_	_	_	QGIS
+NadiiaGorash	12	_	_	_	_	_
 NadiiaGorash	16	_	_	_	_	QGIS
 negbogah	07	_	_	_	_	R
 negbogah	14	_	_	_	_	R
@@ -2306,13 +2431,22 @@ niclochg	28	_	_	_	_	_
 niclochg	29	_	_	_	_	_
 niclochg	30	_	_	_	_	_
 nikolasander	12	_	_	_	_	_
+ninatsuts	01	_	_	_	_	_
 ninatsuts	02	_	_	_	_	R
+ninatsuts	03	_	_	_	_	_
 ninatsuts	04	_	_	_	_	_
 ninatsuts	05	_	_	_	_	R
+ninatsuts	06	_	_	_	_	_
+ninatsuts	10	_	_	_	_	_
 nixzusehen	23	_	_	_	_	_
+njanakiev	01	_	_	_	_	_
+njanakiev	02	_	_	_	_	_
 njanakiev	05	_	_	_	_	_
 NkhiliA	04	_	_	_	_	_
 NkhiliA	05	_	_	_	_	ArcGIS
+NkhiliA	27	_	_	_	_	_
+NkhiliA	28	_	_	_	_	_
+NkhiliA	30	_	_	_	_	_
 nmnsgr	01	_	_	_	_	_
 nmnsgr	02	_	_	_	_	_
 odilon72	03	_	_	_	_	_
@@ -2366,9 +2500,12 @@ owenjpowell	12	United Kingdom	_	_	_	Blender
 ozy_man	12	World,New Zealand	_	_	_	_
 paavokokkonen	04	_	_	_	_	_
 Paola_barbarbo	28	Germany	_	_	_	_
+Paola_barbarbo	29	_	_	_	_	_
 pascal_n	29	World	_	_	_	_
 patalgura	02	_	_	_	_	_
+patriloto	01	_	_	_	_	_
 patriloto	04	_	_	_	_	R
+patriloto	06	_	_	_	_	_
 pedro_com_es	01	_	_	_	_	_
 pedro_com_es	02	_	_	_	_	_
 pedro_com_es	03	_	_	_	_	_
@@ -2400,6 +2537,10 @@ pedro_com_es	29	_	_	_	_	_
 pedro_com_es	30	_	_	_	_	_
 Peterincan	01	_	_	_	_	Blender
 Peterincan	02	_	_	_	_	_
+Peterincan	03	_	_	_	_	_
+Peterincan	05	_	_	_	_	_
+Peterincan	07	_	_	_	_	_
+Peterincan	08	_	_	_	_	_
 Peterincan	09	_	_	_	_	_
 Peterincan	11	_	_	_	_	_
 philmassicotte	01	_	_	_	_	_
@@ -2447,6 +2588,7 @@ PhilPierdo	27	_	_	_	_	QGIS
 PhilPierdo	28	_	_	_	_	QGIS
 PhilPierdo	29	_	_	_	_	QGIS
 PhilPierdo	30	_	_	_	_	_
+pierrebrt	01	_	_	_	_	_
 pierrebrt	02	_	_	_	_	_
 pierrebrt	03	_	_	_	_	_
 pierrebrt	04	_	_	_	_	_
@@ -2456,6 +2598,7 @@ pierrebrt	08	_	_	_	_	_
 pierrebrt	09	_	_	_	_	_
 pierrebrt	10	_	_	_	_	_
 pierrebrt	11	_	_	_	_	_
+pierrebrt	12	_	_	_	_	_
 pierrebrt	14	_	_	_	_	_
 pierrebrt	15	_	_	_	_	_
 pierrebrt	19	_	_	_	_	_
@@ -2591,7 +2734,9 @@ prospero021	08	_	_	_	_	QGIS
 prospero021	09	_	_	_	_	QGIS
 prospero021	10	_	_	_	_	QGIS
 prospero021	11	_	_	_	_	QGIS
+rajbhagatt	01	_	_	_	_	_
 rajbhagatt	02	India	_	_	_	_
+rajbhagatt	03	_	_	_	_	_
 rajbhagatt	04	Asia	_	earthquakes	_	_
 ramya_ragupathy	02	India	_	_	_	_
 ramya_ragupathy	04	India	_	_	_	_
@@ -2678,10 +2823,13 @@ robert_squared	04	_	_	_	_	_
 robert_squared	05	_	_	_	_	_
 robert_squared	10	_	_	_	_	_
 robert_squared	11	_	_	_	_	_
+robhawkes	01	_	_	_	_	_
 robhawkes	02	United Kingdom	London	_	_	three.js,Inkscape
 robhawkes	03	USA	New York City	_	_	QGIS
 robhawkes	04	United Kingdom	London	_	_	QGIS
+robhawkes	05	_	_	_	_	_
 robhawkes	07	United Kingdom	London	_	_	QGIS
+rojo_neon	01	_	_	_	_	_
 rojo_neon	07	_	_	_	_	R
 rojo_neon	08	_	_	_	_	R
 rojo_neon	09	_	_	_	_	R
@@ -2689,15 +2837,22 @@ rojo_neon	10	_	_	_	_	R
 rojo_neon	14	_	_	_	_	_
 rojo_neon	15	_	_	_	_	_
 rojo_neon	21	_	_	_	_	_
+rojo_neon	30	_	_	_	_	_
+RomMoyon	01	_	_	_	_	_
 RomMoyon	04	_	_	_	_	_
+rorich	01	_	_	_	_	_
 rorich	02	USA	_	_	_	_
 rorich	03	USA	_	_	_	R
 rorich	04	USA	_	_	_	R
+rorich	05	_	_	_	_	_
 rorich	06	USA	_	_	_	R
 rorich	07	USA	_	_	_	R
+Rrenzokutai	04	_	_	_	_	_
+Rrenzokutai	06	_	_	_	_	_
 Rrenzokutai	09	_	_	_	_	_
 rustie5555	01	New Zealand	Wellington	_	_	_
 rustie5555	04	New Zealand	_	_	_	_
+rustie5555	07	New Zealand	_	politics	_	_
 rustie5555	14	New Zealand	Auckland	_	_	_
 ruth_mottram	01	Greenland	_	_	_	_
 ruth_mottram	26	_	_	_	_	_
@@ -2737,36 +2892,36 @@ SamiKurani	27	_	_	_	_	QGIS
 SamiKurani	28	_	_	_	_	QGIS
 sammyhawkrad	03	_	_	_	_	_
 sammyhawkrad	22	_	_	_	_	_
-samwise_v	01	_	_	_	_	QGIS
-samwise_v	02	_	_	_	_	_
-samwise_v	03	_	_	_	_	_
-samwise_v	04	_	_	_	_	QGIS
-samwise_v	05	_	_	_	_	_
-samwise_v	06	_	_	_	_	_
-samwise_v	07	_	_	_	_	_
-samwise_v	08	_	_	_	_	_
-samwise_v	09	_	_	_	_	_
-samwise_v	10	_	_	_	_	QGIS,Blender
-samwise_v	11	_	_	_	_	_
-samwise_v	12	_	_	_	_	_
-samwise_v	13	_	_	_	_	_
-samwise_v	14	_	_	_	_	_
-samwise_v	15	_	_	_	_	_
-samwise_v	16	_	_	_	_	_
-samwise_v	17	_	_	_	_	_
-samwise_v	18	_	_	_	_	_
-samwise_v	19	_	_	_	_	QGIS,Blender
-samwise_v	20	_	_	_	_	_
-samwise_v	21	_	_	_	_	_
-samwise_v	22	_	_	_	_	_
-samwise_v	23	_	_	_	_	QGIS
-samwise_v	24	_	_	_	_	_
-samwise_v	25	_	_	_	_	_
-samwise_v	26	_	_	_	_	QGIS
-samwise_v	27	_	_	_	_	_
+samwise_v	01	Antarctica	_	_	_	QGIS
+samwise_v	02	Montenegro	_	_	joyplot	_
+samwise_v	03	United Kingdom	_	_	_	_
+samwise_v	04	United Kingdom	London	_	_	QGIS
+samwise_v	05	United Kingdom	Birmingham	_	_	_
+samwise_v	06	United Kingdom	_	_	_	_
+samwise_v	07	United Kingdom	Liverpool,Birmingham,Manchester,Glasgow,London,Sheffield	_	_	_
+samwise_v	08	New Zealand,USA	Auckland,Green Bay	_	_	_
+samwise_v	09	USA	_	_	_	_
+samwise_v	10	United Kingdom	_	_	_	QGIS,Blender
+samwise_v	11	Italy	_	_	_	_
+samwise_v	12	United Kingdom	London	_	_	_
+samwise_v	13	France	_	_	_	_
+samwise_v	14	Europe,United Kingdom	_	_	_	_
+samwise_v	15	World	_	_	_	_
+samwise_v	16	United Kingdom	London	_	_	_
+samwise_v	17	Turkey,India,United Kingdom,Italy,Egypt,Russia,France,USA,Germany,Australia,Brazil	Istanbul,Mumbai,London,Rome,Giza,Moscow,Paris,San Francisco,Berlin,Sydney,Rio de Janeiro	_	_	_
+samwise_v	18	World	_	_	uncommon projections	_
+samwise_v	19	United Kingdom	Birmingham	_	_	QGIS,Blender
+samwise_v	20	United Kingdom	_	_	_	_
+samwise_v	21	United Kingdom	_	_	_	_
+samwise_v	22	United Kingdom	London	_	_	_
+samwise_v	23	United Kingdom	London	_	_	QGIS
+samwise_v	24	World	_	_	_	_
+samwise_v	25	United Kingdom	_	_	_	_
+samwise_v	26	Italy	_	_	_	QGIS
+samwise_v	27	United Kingdom	_	_	_	_
 samwise_v	28	_	_	_	_	_
-samwise_v	29	_	_	_	_	_
-samwise_v	30	_	_	_	_	_
+samwise_v	29	_	_	_	lego	_
+samwise_v	30	United Kingdom	Birmingham,Liverpool,London	_	_	_
 SannaJokela1	01	_	_	_	_	QGIS
 SannaJokela1	02	_	_	_	_	QGIS
 SannaJokela1	03	_	_	_	_	_
@@ -2846,6 +3001,7 @@ shakasom	08	_	_	_	_	_
 shakasom	11	_	_	_	_	_
 shakasom	12	_	_	_	_	_
 shakasom	13	_	_	_	_	_
+ShinagawaJP	01	_	_	_	_	_
 ShinagawaJP	02	_	_	_	_	_
 SimonGIS	01	_	_	_	_	_
 SimonGIS	02	_	_	_	_	_
@@ -2968,6 +3124,7 @@ ThomasBanafa	04	Finland	_	_	_	_
 ThomasBanafa	12	Finland	_	_	_	QGIS,GIMP,PostGIS
 ThomasBanafa	15	Finland	Helsinki	_	_	QGIS
 ThomasBanafa	26	Finland	Helsinki	_	_	QGIS
+ThomasG77	01	_	_	_	_	_
 ThomasG77	02	_	_	_	_	QGIS
 ThomasG77	03	_	_	_	_	QGIS
 ThomasG77	04	_	_	_	_	QGIS
@@ -3004,8 +3161,8 @@ thoughtisdead	03	India	_	_	_	_
 TimStOnge	01	USA	_	_	_	D3.js
 TimStOnge	02	USA	Washington DC	_	_	_
 TimStOnge	03	USA	Anchorage	_	_	_
-TimStOnge	04	USA	Fort Myers_	_	_	_
-TimStOnge	05	USA	_	_	_	_
+TimStOnge	04	USA	Denver	_	_	_
+TimStOnge	05	USA	Fort Myers	_	_	_
 TimStOnge	06	USA	_	_	_	_
 TimStOnge	07	USA	_	_	_	_
 TimStOnge	08	Cambodia	_	_	_	_
@@ -3147,16 +3304,19 @@ VetleHallas	01	_	_	_	_	_
 VetleHallas	02	_	_	_	_	_
 VetleHallas	03	_	_	_	_	_
 VetleHallas	04	_	_	_	_	_
+VetleHallas	05	_	_	_	_	_
 VetleHallas	06	_	_	_	_	_
 VetleHallas	07	_	_	_	_	_
 VetleHallas	08	_	_	_	_	_
 VetleHallas	09	_	_	_	_	_
+VetleHallas	10	_	_	_	_	_
 VetleHallas	11	_	_	_	_	_
 VetleHallas	12	_	_	_	_	_
 VetleHallas	13	_	_	_	_	_
 VetleHallas	14	_	_	_	_	_
 VetleHallas	15	_	_	_	_	_
 VetleHallas	16	_	_	_	_	_
+VetleHallas	18	_	_	_	_	_
 VinodhDataArt	01	_	_	_	_	Mapbox
 VinodhDataArt	02	_	_	_	_	Mapbox
 VinodhDataArt	03	_	_	_	_	Mapbox
@@ -3169,6 +3329,8 @@ VinodhDataArt	13	_	_	_	_	Mapbox
 VinodhDataArt	14	_	_	_	_	Mapbox
 VinodhDataArt	17	_	_	_	_	Mapbox
 VinodhDataArt	22	_	_	_	_	Mapbox
+VinodhDataArt	23	USA	_	_	_	_
+VinodhDataArt	24	Africa	_	_	_	_
 VinodhDataArt	26	_	_	_	_	Mapbox
 visualizemap	01	_	_	_	_	Mapbox
 visualizemap	02	_	_	_	_	_
@@ -3196,9 +3358,13 @@ visualvariable	20	_	_	_	_	_
 visualvariable	21	_	_	_	_	_
 visualvariable	23	_	_	_	_	_
 visualvariable	28	_	_	_	_	_
+Vitali_DiMe	01	_	_	_	_	_
 Vitali_DiMe	02	_	_	_	_	_
 Vitali_DiMe	03	_	_	_	_	_
 Vitali_DiMe	05	_	_	_	_	_
+Vitali_DiMe	06	_	_	_	_	_
+Vitali_DiMe	07	_	_	_	_	_
+Vitali_DiMe	08	_	_	_	_	_
 Vitali_DiMe	11	_	_	_	_	_
 vivbynyc	01	USA	New York City	_	_	_
 vivbynyc	02	USA	New York City	_	_	_
@@ -3209,6 +3375,8 @@ vizualdatos	03	Colombia	Bogotá	_	_	R
 vizualdatos	04	Colombia	_	_	_	R
 vizualdatos	05	Colombia	_	_	_	R
 vizualdatos	06	Colombia	_	_	_	R
+vlckel	01	_	_	_	_	_
+vlckel	05	_	_	_	_	_
 vlckel	10	Czech Republic	Ostrava	_	_	_
 vlckel	11	Czech Republic,Poland	_	_	_	_
 vlckel	14	World	_	_	_	_
@@ -3259,9 +3427,11 @@ XyCarto	19	New Zealand	Auckland	_	_	_
 XyCarto	20	New Zealand	_	_	_	QGIS
 XyCarto	22	New Zealand	Wellington	_	_	QGIS
 yanncabon	23	France	_	_	_	ArcGIS
+yavannie24	01	_	_	_	_	_
 yavannie24	02	USA	Salt Lake City	_	_	_
 yavannie24	03	Iceland	_	_	_	_
 yavannie24	04	USA	_	_	_	_
+yavannie24	05	_	_	_	_	_
 yavannie24	06	Central America	_	_	lego	_
 yavannie24	07	USA	_	_	_	_
 yavannie24	08	Greenland	_	_	_	_
