@@ -376,8 +376,7 @@ stats_page <-
                   ),
                 p(tags$em("I'll aim to identify the location of all the map authors, but haven't done that yet.")),
                 h3("Places"),
-                p(glue("Bear in mind that only {100 - pc_unc_area}% of the maps have an area assigned,"),
-                  "so this might reflect my interests to start with."),
+                p(glue("Bear in mind that only {100 - pc_unc_area}% of the maps have an area assigned.")),
                 p("The main bar is the number of maps with that label.",
                   "The small orange bar is the number of cartographers who have produced the maps in that area."),
                 img(src = "images/area_count.png"),
@@ -407,10 +406,10 @@ write_file(stats_page, "stats.html")
 # > Cards -----------------------------------------------------------------
 
 make_a_card <- 
-  function(mapid, extension, Day, Theme, handle, date_posted, tweet_id, area, city, topics, types, tools, aspect, aspect_class, ...) {
+  function(mapid, extension, Day, Theme, handle, date_posted, tweet_id, area, area_norm, city, topics, types, tools, aspect, aspect_class, ...) {
     div(class = glue("map-card {aspect_class}"),
         `data-challenge` = Day,
-        `data-area` = area,
+        `data-area` = area_norm,
         `data-city` = city,
         `data-topics` = topics,
         `data-types` = types,
@@ -442,6 +441,7 @@ make_a_card <-
 map_cards <- 
   map_metadata %>% 
   inner_join(map_classification, by = c("handle", "Day")) %>% 
+  mutate(area_norm = area %>% str_to_lower() %>% str_replace_all(" ", "")) %>% 
   inner_join(challenges, by = "Day") %>% 
   inner_join(aspect_cols, by = "aspect") %>% 
   pmap(make_a_card)

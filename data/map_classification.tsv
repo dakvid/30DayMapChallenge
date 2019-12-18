@@ -537,85 +537,85 @@ BorisMericskay	23	_	_	_	_	ArcGIS
 BorisMericskay	26	_	_	_	_	QGIS
 BorisMericskay	28	_	_	_	_	_
 BorisMericskay	29	_	_	_	_	_
-bplmaps	01	_	_	_	_	_
-bplmaps	03	_	_	_	_	_
-bplmaps	04	_	_	_	_	_
-bplmaps	16	_	_	_	_	_
-BrittLonneville	05	_	_	_	_	_
-BrittLonneville	06	_	_	_	_	_
+bplmaps	01	USA	Boston	_	_	_
+bplmaps	03	World	_	_	_	_
+bplmaps	04	USA	Boston	_	_	_
+bplmaps	16	USA	_	_	_	_
+BrittLonneville	05	Europe	_	_	_	_
+BrittLonneville	06	Europe	_	_	_	_
 BrittLonneville	11	Belgium	_	_	_	_
-BrittLonneville	13	_	_	_	_	_
-BrittLonneville	14	_	_	_	_	_
-BrittLonneville	15	_	_	_	_	_
-BrittLonneville	16	_	_	_	_	_
-bumaBAgyo	11	_	_	_	_	QGIS
-cadcorp	06	_	_	_	_	_
-cadcorp	11	_	_	_	_	_
-cadcorp	21	_	_	_	_	_
-cadcorp	22	_	_	_	_	_
-cadcorp	23	_	_	_	_	_
-cadcorp	26	_	_	_	_	_
-cadcorp	30	_	_	_	_	_
-CaislinF	27	_	_	_	_	_
-CarmenCarro_	01	_	_	_	_	QGIS
-CarmenCarro_	02	_	_	_	_	QGIS
-CarmenCarro_	03	_	_	_	_	QGIS
-CarmenCarro_	04	_	_	_	_	QGIS
-CarmenCarro_	05	_	_	_	_	_
-CarmenCarro_	06	_	_	_	_	QGIS
-CarmenCarro_	07	_	_	_	_	QGIS
-CarmenCarro_	08	_	_	_	_	QGIS
-CarmenCarro_	09	_	_	_	_	QGIS
-CarmenCarro_	10	_	_	_	_	QGIS
-CarmenCarro_	11	_	_	_	_	QGIS
-CarmenCarro_	13	_	_	_	_	QGIS
-CarmenCarro_	14	_	_	_	_	QGIS
-CarmenCarro_	15	_	_	_	_	QGIS
-CarmenCarro_	16	_	_	_	_	QGIS
-CarmenCarro_	17	_	_	_	_	QGIS
-CarmenCarro_	18	_	_	_	_	QGIS
-CarmenCarro_	19	_	_	_	_	QGIS
-CarmenCarro_	20	_	_	_	_	QGIS
-CarmenCarro_	21	_	_	_	_	QGIS
-CarmenCarro_	22	_	_	_	_	QGIS
-CarmenCarro_	23	_	_	_	_	QGIS
-CarmenCarro_	24	_	_	_	_	QGIS
-CarmenCarro_	25	_	_	_	_	QGIS
-CarmenCarro_	26	_	_	_	_	QGIS
-CarmenCarro_	27	_	_	_	_	QGIS
-CarmenCarro_	28	_	_	_	_	QGIS
-CarmenCarro_	29	_	_	_	_	QGIS
-CarmenCarro_	30	_	_	_	_	QGIS
-carolpos	01	_	_	_	_	_
-carolpos	02	_	_	_	_	_
-carolpos	03	_	_	_	_	_
-carolpos	04	_	_	_	_	_
-carolpos	05	_	_	_	_	_
-carolpos	06	_	_	_	_	_
-carolpos	07	_	_	_	_	_
-carolpos	08	_	_	_	_	_
-carolpos	09	_	_	_	_	_
-carolpos	10	_	_	_	_	_
-carolpos	11	_	_	_	_	_
-carolpos	12	_	_	_	_	_
-carolpos	13	_	_	_	_	_
-carolpos	14	_	_	_	_	_
-carolpos	15	_	_	_	_	_
-carolpos	16	_	_	_	_	_
-carolpos	17	_	_	_	_	_
-carolpos	18	_	_	_	_	_
-carolpos	19	_	_	_	_	_
-cartiqomaps	01	_	_	_	_	_
-cartiqomaps	02	_	_	_	_	_
-cartiqomaps	03	_	_	_	_	_
-cartiqomaps	04	_	_	_	_	_
-cartiqomaps	05	_	_	_	_	QGIS
-cartiqomaps	06	_	_	_	_	_
+BrittLonneville	13	Europe	_	_	_	_
+BrittLonneville	14	World	_	_	_	_
+BrittLonneville	15	World	_	_	_	_
+BrittLonneville	16	Canada	_	_	_	_
+bumaBAgyo	11	Philippines	_	_	_	QGIS
+cadcorp	06	United Kingdom,Ireland	_	_	_	_
+cadcorp	11	United Kingdom	_	_	_	_
+cadcorp	21	United Kingdom	_	earthquakes	animation	_
+cadcorp	22	United Kingdom	_	_	_	_
+cadcorp	23	United Kingdom	_	_	_	_
+cadcorp	26	United Kingdom	_	_	_	_
+cadcorp	30	United Kingdom	_	_	_	_
+CaislinF	27	Canada	Vancouver	_	_	_
+CarmenCarro_	01	Mexico	Mexico City	_	_	QGIS
+CarmenCarro_	02	Mexico	Mexico City	_	_	QGIS
+CarmenCarro_	03	Mexico	Mexico City	_	_	QGIS
+CarmenCarro_	04	Mexico	Mexico City	_	_	QGIS
+CarmenCarro_	05	World	_	_	_	_
+CarmenCarro_	06	Mexico	Mexico City	_	_	QGIS
+CarmenCarro_	07	Mexico	_	_	_	QGIS
+CarmenCarro_	08	Mexico	Mexico City	_	_	QGIS
+CarmenCarro_	09	Mexico	_	_	_	QGIS
+CarmenCarro_	10	Mexico	Mexico City	_	_	QGIS
+CarmenCarro_	11	Mexico	Mexico City	_	_	QGIS
+CarmenCarro_	13	Mexico	_	_	_	QGIS
+CarmenCarro_	14	Mexico	Mexico City	_	_	QGIS
+CarmenCarro_	15	Mexico	Mexico City	_	_	QGIS
+CarmenCarro_	16	Mexico	Mexico City	_	_	QGIS
+CarmenCarro_	17	Mexico	_	_	_	QGIS
+CarmenCarro_	18	World	_	_	_	QGIS
+CarmenCarro_	19	Mexico	_	_	_	QGIS
+CarmenCarro_	20	Mexico	Mexico City	_	_	QGIS
+CarmenCarro_	21	Mexico	Mexico City	_	_	QGIS
+CarmenCarro_	22	Mexico	_	_	_	QGIS
+CarmenCarro_	23	Mexico	_	_	_	QGIS
+CarmenCarro_	24	Mexico	_	_	_	QGIS
+CarmenCarro_	25	Mexico	Mexico City	_	_	QGIS
+CarmenCarro_	26	Mexico	_	_	_	QGIS
+CarmenCarro_	27	Mexico	Mexico City	_	_	QGIS
+CarmenCarro_	28	Mexico	Mexico City	_	_	QGIS
+CarmenCarro_	29	Mexico	Mexico City	_	_	QGIS
+CarmenCarro_	30	Mexico	Mexico City	_	_	QGIS
+carolpos	01	Brazil	São Paulo	_	_	_
+carolpos	02	World	_	_	_	_
+carolpos	03	Brazil	São Paulo	_	_	_
+carolpos	04	Brazil	São Paulo	_	_	_
+carolpos	05	World	_	_	_	_
+carolpos	06	Brazil	São Paulo	_	_	_
+carolpos	07	Brazil	_	_	_	_
+carolpos	08	Brazil	São Paulo	_	_	_
+carolpos	09	Brazil	_	_	_	_
+carolpos	10	Brazil	_	_	small multiples	_
+carolpos	11	Brazil	São Paulo	_	_	_
+carolpos	12	Brazil	São Paulo	_	_	_
+carolpos	13	Brazil	São Paulo	_	_	_
+carolpos	14	Brazil	Rio de Janeiro	_	_	_
+carolpos	15	Brazil	Rio de Janeiro	_	_	_
+carolpos	16	Brazil	São Paulo	_	_	_
+carolpos	17	Brazil	_	_	_	_
+carolpos	18	World	_	_	_	_
+carolpos	19	Brazil	São Paulo	_	_	_
+cartiqomaps	01	Netherlands	_	_	_	_
+cartiqomaps	02	Netherlands	_	_	_	_
+cartiqomaps	03	Netherlands	_	_	_	_
+cartiqomaps	04	Netherlands	Amsterdam	_	_	_
+cartiqomaps	05	_	_	_	puzzle	QGIS
+cartiqomaps	06	Netherlands	_	_	_	_
 cartiqomaps	07	_	_	_	_	Mapbox
-cartiqomaps	08	_	_	_	_	QGIS,Inkscape
-cartiqomaps	11	_	_	_	_	QGIS
-cartiqomaps	12	_	_	_	_	D3.js
-cartiqomaps	13	_	_	_	_	QGIS
+cartiqomaps	08	Netherlands	Zoetermeer	_	_	QGIS,Inkscape
+cartiqomaps	11	Netherlands	_	_	_	QGIS
+cartiqomaps	12	Netherlands	_	transport	lines,animation	D3.js
+cartiqomaps	13	Netherlands	_	_	_	QGIS
 cartocalypse	02	Germany	Hamburg	_	_	QGIS
 cartocalypse	03	Switzerland	_	_	lego	QGIS
 cartocalypse	04	_	_	_	animation	QGIS
@@ -727,61 +727,61 @@ citizenfishy	27	United Kingdom	_	_	_	_
 citizenfishy	28	United Kingdom	_	_	_	_
 citizenfishy	29	Switzerland	_	_	_	_
 citizenfishy	30	Other	_	_	_	hand drawn
-citysbackyard	04	_	_	_	_	Mapbox
-col_en_datos	01	_	_	_	_	_
-col_en_datos	02	_	_	_	_	_
-col_en_datos	03	_	_	_	_	_
-col_en_datos	04	_	_	_	_	_
-col_en_datos	05	_	_	_	_	_
-col_en_datos	06	_	_	_	_	_
-Colmixe	01	_	_	_	_	_
-Colmixe	02	_	_	_	_	_
-Colmixe	03	_	_	_	_	_
-Colmixe	04	_	_	_	_	_
-Colmixe	05	_	_	_	_	_
-Colmixe	06	_	_	_	_	_
-Colmixe	07	_	_	_	_	_
-Colmixe	08	_	_	_	_	_
-Colmixe	09	_	_	_	_	_
-Colmixe	10	_	_	_	_	_
-Colmixe	11	_	_	_	_	_
-Colmixe	12	_	_	_	_	_
-Colmixe	14	_	_	_	_	_
-Colmixe	15	_	_	_	_	_
-Colmixe	16	_	_	_	_	_
-Colmixe	17	_	_	_	_	_
-Colmixe	18	_	_	_	_	_
-Colmixe	19	_	_	_	_	_
-Colmixe	20	_	_	_	_	_
-Colmixe	21	_	_	_	_	_
-Colmixe	22	_	_	_	_	_
-Colmixe	23	_	_	_	_	_
-Colmixe	24	_	_	_	_	_
-Colmixe	25	_	_	_	_	_
-Colmixe	27	_	_	_	_	_
-Colmixe	28	_	_	_	_	_
-Colmixe	29	_	_	_	_	_
-Colmixe	30	_	_	_	_	_
-corti_nicolas	10	_	_	_	_	QGIS
+citysbackyard	04	Russia	Saint Petersburg	population	_	Mapbox
+col_en_datos	01	Colombia	_	_	_	_
+col_en_datos	02	Colombia,Asia	_	_	_	_
+col_en_datos	03	South America,Central America,North America	_	_	_	_
+col_en_datos	04	Colombia	_	_	_	_
+col_en_datos	05	Colombia	_	_	_	_
+col_en_datos	06	Colombia	_	_	_	_
+Colmixe	01	Mexico	_	_	_	_
+Colmixe	02	Mexico	_	_	_	_
+Colmixe	03	Mexico	_	_	_	_
+Colmixe	04	Mexico	_	_	_	_
+Colmixe	05	Mexico	_	_	_	_
+Colmixe	06	Mexico	_	_	_	_
+Colmixe	07	Mexico	_	_	_	_
+Colmixe	08	Mexico	_	_	_	_
+Colmixe	09	Mexico	_	_	_	_
+Colmixe	10	Mexico	_	_	_	_
+Colmixe	11	Mexico	_	_	_	_
+Colmixe	12	Mexico	_	_	_	_
+Colmixe	14	Mexico	_	_	_	_
+Colmixe	15	Mexico	_	_	_	_
+Colmixe	16	Mexico	_	_	_	_
+Colmixe	17	Mexico	_	_	_	_
+Colmixe	18	World	_	_	_	_
+Colmixe	19	Mexico	_	_	_	_
+Colmixe	20	Mexico	_	_	_	_
+Colmixe	21	Mexico	_	_	_	_
+Colmixe	22	Mexico	_	_	_	_
+Colmixe	23	Mexico	_	_	_	_
+Colmixe	24	Mexico	_	_	_	_
+Colmixe	25	Mexico	_	_	_	_
+Colmixe	27	Mexico	_	_	_	_
+Colmixe	28	Mexico	_	_	lego	_
+Colmixe	29	Mexico	_	_	_	_
+Colmixe	30	Mexico	_	_	_	_
+corti_nicolas	10	Germany	_	_	lego	QGIS
 corti_nicolas	11	_	_	_	_	QGIS
-CraigTaylorGIS	04	_	_	_	_	_
+CraigTaylorGIS	04	USA	New York City	_	_	_
 CraigTaylorGIS	05	_	_	_	_	_
-CraigTaylorGIS	06	_	_	_	_	_
-CraigTaylorGIS	07	_	_	_	_	_
-CraigTaylorGIS	08	_	_	_	_	_
-CraigTaylorGIS	10	_	_	_	_	_
+CraigTaylorGIS	06	USA	Los Angeles	_	_	_
+CraigTaylorGIS	07	World	_	_	_	_
+CraigTaylorGIS	08	USA	_	_	_	_
+CraigTaylorGIS	10	World	_	_	_	_
 CraigTaylorGIS	11	_	_	_	_	_
-CraigTaylorGIS	12	_	_	_	_	_
+CraigTaylorGIS	12	United Kingdom,Ireland	_	_	_	_
 CraigTaylorGIS	13	_	_	_	_	_
-CraigTaylorGIS	14	_	_	_	_	_
-CraigTaylorGIS	15	_	_	_	_	_
-CraigTaylorGIS	18	_	_	_	_	_
-CraigTaylorGIS	19	_	_	_	_	_
-CraigTaylorGIS	21	_	_	_	_	_
-CraigTaylorGIS	22	_	_	_	_	_
-CraigTaylorGIS	26	_	_	_	_	_
+CraigTaylorGIS	14	World	_	_	_	_
+CraigTaylorGIS	15	_	_	_	animation	_
+CraigTaylorGIS	18	World	_	_	_	_
+CraigTaylorGIS	19	Germany	Berlin	_	_	_
+CraigTaylorGIS	21	USA	New York City	_	_	_
+CraigTaylorGIS	22	USA	New York City	_	_	_
+CraigTaylorGIS	26	United Kingdom	_	_	_	_
 CraigTaylorGIS	28	_	_	_	_	_
-CraigTaylorGIS	29	_	_	_	_	_
+CraigTaylorGIS	29	United Kingdom	London	_	_	_
 CraigTaylorGIS	30	United Kingdom	Manchester	transport	animation	_
 CRVanPollard	01	USA	Philadelphia	population	dot density	ArcGIS
 CRVanPollard	02	USA	_	elevation	contour	ArcGIS
@@ -834,78 +834,78 @@ danc00ks0n	01	USA	_	_	_	_
 danc00ks0n	02	United Kingdom	London	_	_	_
 danc00ks0n	10	United Kingdom	_	_	_	_
 danc00ks0n	22	USA	New York City	_	_	_
-danidlsa	02	_	_	_	_	_
-danidlsa	04	_	_	_	_	R,Leaflet
-danidlsa	05	_	_	_	_	R
-danidlsa	07	_	_	_	_	ArcGIS
-danidlsa	08	_	_	_	_	R
-danidlsa	10	_	_	_	_	R
-danidlsa	11	_	_	_	_	R
-danidlsa	12	_	_	_	_	R
-danidlsa	13	_	_	_	_	R
-danidlsa	14	_	_	_	_	R
-danidlsa	15	_	_	_	_	_
-danidlsa	16	_	_	_	_	R
-danidlsa	18	_	_	_	_	R
-danidlsa	20	_	_	_	_	R
-danidlsa	22	_	_	_	_	R
-danidlsa	23	_	_	_	_	R
-danidlsa	29	_	_	_	_	_
-danidlsa	30	_	_	_	_	R,Leaflet
-Daniel_AvOr	01	_	_	_	_	_
-Daniel_AvOr	03	_	_	_	_	_
-Daniel_AvOr	04	_	_	_	_	_
-Daniel_AvOr	06	_	_	_	_	_
-Daniel_AvOr	07	_	_	_	_	_
-Daniel_AvOr	12	_	_	_	_	_
-Daniel_AvOr	19	_	_	_	_	_
-Daniel_AvOr	21	_	_	_	_	_
-daniel_isita	01	_	_	_	_	QGIS
-daniel_isita	02	_	_	_	_	QGIS
-daniel_isita	03	_	_	_	_	QGIS
-daniel_isita	04	_	_	_	_	R
-daniel_isita	05	_	_	_	_	_
-daniel_isita	06	_	_	_	_	QGIS
-daniel_isita	07	_	_	_	_	QGIS
-daniel_isita	08	_	_	_	_	QGIS
-daniel_isita	09	_	_	_	_	QGIS
-daniel_isita	10	_	_	_	_	QGIS
-daniel_isita	11	_	_	_	_	QGIS
-daniel_isita	12	_	_	_	_	QGIS
-daniel_isita	13	_	_	_	_	_
-daniel_isita	14	_	_	_	_	D3.js
-daniel_isita	15	_	_	_	_	_
-daniel_isita	16	_	_	_	_	_
-daniel_isita	17	_	_	_	_	QGIS
-daniel_isita	18	_	_	_	_	QGIS
-daniel_isita	19	_	_	_	_	QGIS
-daniel_isita	20	_	_	_	_	_
-daniel_isita	21	_	_	_	_	_
-daniel_isita	22	_	_	_	_	QGIS
-daniel_isita	23	_	_	_	_	QGIS
-daniel_isita	24	_	_	_	_	_
-daniel_isita	25	_	_	_	_	QGIS
-daniel_isita	26	_	_	_	_	QGIS
-daniel_isita	27	_	_	_	_	QGIS
-daniel_isita	28	_	_	_	_	hand drawn
+danidlsa	02	World	_	_	_	_
+danidlsa	04	Uruguay	_	_	_	R,Leaflet
+danidlsa	05	Uruguay	_	_	_	R
+danidlsa	07	Uruguay	Montevideo	_	_	ArcGIS
+danidlsa	08	World	_	_	_	R
+danidlsa	10	Germany	Berlin	_	_	R
+danidlsa	11	Uruguay	_	_	_	R
+danidlsa	12	South America	_	_	_	R
+danidlsa	13	Uruguay	_	_	_	R
+danidlsa	14	Mexico,USA	_	_	_	R
+danidlsa	15	Uruguay	Montevideo	_	_	_
+danidlsa	16	Uruguay	San Carlos	_	_	R
+danidlsa	18	World	_	_	_	R
+danidlsa	20	Uruguay	_	_	_	R
+danidlsa	22	Uruguay	Montevideo	_	_	R
+danidlsa	23	Uruguay	_	_	_	R
+danidlsa	29	Other	_	_	_	_
+danidlsa	30	Uruguay	San Carlos	_	_	R,Leaflet
+Daniel_AvOr	01	Mexico	_	_	_	_
+Daniel_AvOr	03	Mexico	_	_	_	_
+Daniel_AvOr	04	Mexico	_	_	_	_
+Daniel_AvOr	05	World	_	_	_	_
+Daniel_AvOr	06	Mexico	Mexico City	_	_	_
+Daniel_AvOr	07	Mexico	Mexico City	_	_	_
+Daniel_AvOr	12	Netherlands	_	_	_	_
+Daniel_AvOr	19	Netherlands	Leiden	_	_	_
+daniel_isita	01	Mexico	_	_	_	QGIS
+daniel_isita	02	Mexico	_	_	_	QGIS
+daniel_isita	03	Mexico	_	_	_	QGIS
+daniel_isita	04	Mexico	_	_	_	R
+daniel_isita	05	Mexico	Zapopan,Guadalajara	_	_	_
+daniel_isita	06	Mexico	_	_	_	QGIS
+daniel_isita	07	Mexico	Guadalajara	_	_	QGIS
+daniel_isita	08	Mexico	Guadalajara	_	_	QGIS
+daniel_isita	09	Mexico	_	_	_	QGIS
+daniel_isita	10	Mexico	_	_	_	QGIS
+daniel_isita	11	Mexico	_	_	_	QGIS
+daniel_isita	12	Mexico	_	_	_	QGIS
+daniel_isita	13	Mexico	_	_	_	_
+daniel_isita	14	Mexico	_	_	_	D3.js
+daniel_isita	15	Mexico	_	_	_	_
+daniel_isita	16	Mexico	_	_	_	_
+daniel_isita	17	Mexico	_	_	_	QGIS
+daniel_isita	18	World	_	_	_	QGIS
+daniel_isita	19	Mexico	_	_	_	QGIS
+daniel_isita	20	Mexico	_	_	_	_
+daniel_isita	21	Mexico	_	_	_	_
+daniel_isita	22	North America	_	_	_	QGIS
+daniel_isita	23	Mexico	_	_	_	QGIS
+daniel_isita	24	Mexico	_	_	_	_
+daniel_isita	25	Mexico	_	_	_	QGIS
+daniel_isita	26	North America	_	_	_	QGIS
+daniel_isita	27	Mexico	_	_	_	QGIS
+daniel_isita	28	Mexico	_	_	_	hand drawn
 DanielChoperena	02	Mexico	Mexico City	_	_	_
 DanielChoperena	03	Mexico	_	_	_	_
 DanielKiuri	04	Kenya	_	_	_	QGIS
 DanielKiuri	05	Kenya	_	_	_	QGIS
-darenw	01	_	_	_	_	_
-darenw	02	_	_	_	_	_
-darenw	03	_	_	_	_	_
-darenw	06	_	_	_	_	_
-darenw	07	_	_	_	_	_
-darenw	08	_	_	_	_	_
-darenw	09	_	_	_	_	_
-darenw	10	_	_	_	_	_
-darenw	11	_	_	_	_	_
-darenw	12	_	_	_	_	_
-darenw	14	_	_	_	_	_
-darenw	15	_	_	_	_	_
-data_nurse	01	_	_	_	_	_
-data_nurse	03	_	_	_	_	R
+darenw	01	World	_	sport	_	_
+darenw	02	North America	_	sport	_	_
+darenw	03	USA	_	sport	_	_
+darenw	06	Other	_	sport	_	_
+darenw	07	Other	_	sport	_	_
+darenw	08	USA	_	sport	small multiples	_
+darenw	09	Other	_	sport	_	_
+darenw	10	Other	_	sport	_	_
+darenw	11	Other	_	sport	bar chart	_
+darenw	12	USA	_	sport	_	_
+darenw	14	Other	_	sport	_	_
+darenw	15	USA	_	sport	_	_
+data_nurse	01	Australia	Canberra	_	_	_
+data_nurse	03	Australia	Canberra	_	_	R
 datacivica	01	Mexico	_	_	_	_
 datacivica	02	Mexico	Mexico City	_	_	_
 datacivica	03	Mexico	_	_	_	_
@@ -1384,38 +1384,38 @@ grace_miswa	02	World	_	_	_	Mapbox
 grace_miswa	03	_	_	_	_	_
 grace_miswa	04	Kenya	_	_	_	_
 greenpath_urban	24	Finland	Helsinki	_	_	_
-greenynorfolk	03	_	_	_	_	_
-greenynorfolk	13	_	_	_	_	_
-Grisoudre	01	_	_	_	_	R
-Grisoudre	02	_	_	_	_	R
-Grisoudre	03	_	_	_	_	R
-Grisoudre	04	_	_	_	_	R
-Grisoudre	05	_	_	_	_	_
-Grisoudre	06	_	_	_	_	R
-Grisoudre	07	_	_	_	_	R
-Grisoudre	08	_	_	_	_	R
-Grisoudre	09	_	_	_	_	R
-Grisoudre	10	_	_	_	_	R
-Grisoudre	11	_	_	_	_	QGIS
-Grisoudre	12	_	_	_	_	R
-Grisoudre	13	_	_	_	_	R
-Grisoudre	14	_	_	_	_	R
-Grisoudre	15	_	_	_	_	R
-Grisoudre	16	_	_	_	_	R
-Grisoudre	17	_	_	_	_	R,D3.js
-Grisoudre	18	_	_	_	_	R
-Grisoudre	19	_	_	_	_	R
-Grisoudre	20	_	_	_	_	R
-Grisoudre	21	_	_	_	_	R
-Grisoudre	22	_	_	_	_	R
-Grisoudre	23	_	_	_	_	R
-Grisoudre	24	_	_	_	_	R
-Grisoudre	25	_	_	_	_	R
-Grisoudre	26	_	_	_	_	R
-Grisoudre	27	_	_	_	_	R
-Grisoudre	28	_	_	_	_	R
-Grisoudre	29	_	_	_	_	_
-Grisoudre	30	_	_	_	_	QGIS
+greenynorfolk	03	United Kingdom	London	_	_	_
+greenynorfolk	13	United Kingdom	_	_	_	_
+Grisoudre	01	France	Lille	_	_	R
+Grisoudre	02	France	Lille	_	_	R
+Grisoudre	03	France	_	_	_	R
+Grisoudre	04	France	Lille	_	_	R
+Grisoudre	05	France	Lille	_	_	_
+Grisoudre	06	France	Lille	_	_	R
+Grisoudre	07	France	_	_	_	R
+Grisoudre	08	France	Lille	_	_	R
+Grisoudre	09	France	Lille	_	_	R
+Grisoudre	10	France	_	_	_	R
+Grisoudre	11	France	_	_	_	QGIS
+Grisoudre	12	France	_	_	_	R
+Grisoudre	13	France	_	_	_	R
+Grisoudre	14	France	_	_	_	R
+Grisoudre	15	France	_	_	_	R
+Grisoudre	16	France	_	_	_	R
+Grisoudre	17	France	Lille	_	_	R,D3.js
+Grisoudre	18	World	_	_	_	R
+Grisoudre	19	France	Lille	_	_	R
+Grisoudre	20	France	_	_	_	R
+Grisoudre	21	France	_	_	_	R
+Grisoudre	22	France	Lille	_	_	R
+Grisoudre	23	France	_	_	_	R
+Grisoudre	24	France	_	_	_	R
+Grisoudre	25	France	_	_	_	R
+Grisoudre	26	France	_	_	_	R
+Grisoudre	27	France	Lille	_	_	R
+Grisoudre	28	France	_	_	_	R
+Grisoudre	29	France	_	_	_	_
+Grisoudre	30	France	Charleville-Mézières	_	_	QGIS
 GrrdJul	10	France	_	_	_	QGIS
 GrrdJul	15	France	_	_	_	QGIS
 Gustav_Ahumada	05	_	_	_	_	_
@@ -1428,12 +1428,12 @@ GutierrezyMarco	10	_	_	_	_	_
 GutierrezyMarco	11	_	_	_	_	_
 GutierrezyMarco	15	_	_	_	_	_
 GutierrezyMarco	19	Mexico	_	_	_	_
-hailmika	01	_	_	_	_	_
-hailmika	02	_	_	_	_	_
-hailmika	03	_	_	_	_	_
-hailmika	04	_	_	_	_	_
+hailmika	01	Denmark	Copenhagen	_	_	_
+hailmika	02	Denmark	Copenhagen	_	_	_
+hailmika	03	Denmark	Copenhagen	_	_	_
+hailmika	04	Denmark	Copenhagen	_	_	_
 hailmika	05	Denmark	_	_	_	_
-hailmika	06	_	_	_	_	_
+hailmika	06	Denmark	Copenhagen	_	_	_
 hansakwast	11	Germany	Tharandt	_	_	QGIS,three.js,Inkscape
 hansakwast	17	Netherlands	_	_	_	_
 hansakwast	22	Netherlands	Rotterdam	_	_	QGIS
@@ -1471,79 +1471,79 @@ HeikkiVesanto	25	North America	_	weather	lines	QGIS
 HeikkiVesanto	26	Scotland	Glasgow	water	_	QGIS
 HeikkiVesanto	27	United Kingdom	_	_	_	QGIS
 HeikkiVesanto	28	United Kingdom	London	_	_	QGIS
-HeikkiVesanto	29	Scotland	_	_	animation	D3
+HeikkiVesanto	29	Scotland	_	_	animation	D3.js
 HeikkiVesanto	30	Ireland	_	_	lego	QGIS
-HelenOfStow	01	_	_	_	_	_
-HelenOfStow	02	_	_	_	_	_
-HelenOfStow	03	_	_	_	_	_
-HelenOfStow	04	_	_	_	_	_
-HelenOfStow	05	_	_	_	_	_
-HelenOfStow	06	_	_	_	_	ArcGIS
-HelenOfStow	07	_	_	_	_	ArcGIS
-HelenOfStow	08	_	_	_	_	_
-HelenOfStow	11	_	_	_	_	_
-HelenOfStow	13	_	_	_	_	_
-HelenOfStow	19	_	_	_	_	_
-hendrikxleo	01	_	_	_	_	QGIS
-hendrikxleo	02	_	_	_	_	_
-hendrikxleo	03	_	_	_	_	_
-hendrikxleo	04	_	_	_	_	_
-hendrikxleo	05	_	_	_	_	_
-hendrikxleo	06	_	_	_	_	_
-hendrikxleo	07	_	_	_	_	_
-hendrikxleo	08	_	_	_	_	_
-hendrikxleo	09	_	_	_	_	_
-hendrikxleo	10	_	_	_	_	_
+HelenOfStow	01	United Kingdom	London	_	_	_
+HelenOfStow	02	United Kingdom	_	_	_	_
+HelenOfStow	03	United Kingdom	London	_	_	_
+HelenOfStow	04	United Kingdom	Manchester	_	_	_
+HelenOfStow	05	United Kingdom	_	_	_	_
+HelenOfStow	06	United Kingdom	_	_	_	ArcGIS
+HelenOfStow	07	United Kingdom	Southampton	_	_	ArcGIS
+HelenOfStow	08	United Kingdom	_	_	_	_
+HelenOfStow	11	United Kingdom	_	_	_	_
+HelenOfStow	13	United Kingdom	_	_	_	_
+HelenOfStow	19	United Kingdom	Oxford	_	_	_
+hendrikxleo	01	New Zealand	_	_	_	QGIS
+hendrikxleo	02	Netherlands	Nijmegen	_	_	_
+hendrikxleo	03	Europe	_	_	_	_
+hendrikxleo	04	USA	_	_	_	_
+hendrikxleo	05	New Zealand	_	_	_	_
+hendrikxleo	06	USA	_	_	_	_
+hendrikxleo	07	India	_	_	_	_
+hendrikxleo	08	USA	_	_	_	_
+hendrikxleo	09	Europe	_	_	_	_
+hendrikxleo	10	Italy	_	_	_	_
 hendrikxleo	12	_	_	_	_	_
 hendrikxleo	13	_	_	_	_	_
-hendrikxleo	14	_	_	_	_	_
-hendrikxleo	15	_	_	_	_	_
+hendrikxleo	14	Australia	_	_	_	_
+hendrikxleo	15	Italy	_	_	_	_
 hendrikxleo	16	_	_	_	_	_
-hendrikxleo	17	_	_	_	_	_
-hendrikxleo	18	_	_	_	_	QGIS
-hendrikxleo	19	_	_	_	_	_
-hendrikxleo	20	_	_	_	_	_
-hendrikxleo	21	_	_	_	_	_
-hendrikxleo	22	_	_	_	_	_
-hendrikxleo	23	_	_	_	_	_
+hendrikxleo	17	New Zealand	Porirua	_	_	_
+hendrikxleo	18	World	_	_	_	QGIS
+hendrikxleo	19	Netherlands	Amsterdam	_	_	_
+hendrikxleo	20	Netherlands	_	_	_	_
+hendrikxleo	21	New Zealand	_	_	_	_
+hendrikxleo	22	North Korea,South Korea	_	_	_	_
+hendrikxleo	23	Netherlands	_	_	_	_
 hendrikxleo	24	_	_	_	_	_
-hendrikxleo	25	_	_	_	_	_
-hendrikxleo	26	_	_	_	_	_
+hendrikxleo	25	World	_	_	_	_
+hendrikxleo	26	Australia	_	_	_	_
 hendrikxleo	27	_	_	_	_	_
-hendrikxleo	28	_	_	_	_	_
-hendrikxleo	29	_	_	_	_	_
+hendrikxleo	28	Netherlands	_	_	_	_
+hendrikxleo	29	Japan	_	_	_	_
 hendrikxleo	30	_	_	_	_	_
-hireuter	01	_	_	_	_	_
+hireuter	01	Europe	_	_	_	_
 hireuter	02	Europe	_	transport	lines	D3.js
 hireuter	03	Europe	_	administrative boundaries	_	_
-hireuter	04	_	_	_	_	_
-hireuter	05	_	_	_	_	_
-hireuter	06	_	_	_	_	_
-hireuter	07	_	_	_	_	_
-hireuter	08	_	_	_	_	ArcGIS
-hireuter	09	_	_	_	_	Leaflet
-hireuter	10	_	_	_	_	ArcGIS,Leaflet
-hireuter	11	_	_	_	_	_
-hireuter	12	_	_	_	_	_
-hireuter	13	_	_	_	_	_
-hireuter	14	_	_	_	_	_
+hireuter	04	Europe	_	_	_	_
+hireuter	05	Europe	_	_	_	_
+hireuter	06	Europe	_	_	_	_
+hireuter	07	Europe	_	_	_	_
+hireuter	08	Europe	_	_	_	ArcGIS
+hireuter	09	Europe	_	_	_	Leaflet
+hireuter	10	Europe	_	_	_	ArcGIS,Leaflet
+hireuter	11	Europe	_	_	_	_
+hireuter	12	Europe	_	_	_	_
+hireuter	13	Europe	_	_	_	_
+hireuter	14	Europe	_	_	_	_
 hireuter	15	Europe	_	names	_	_
-hireuter	16	_	_	_	_	_
-hireuter	17	_	_	_	_	_
-hireuter	18	_	_	_	_	_
-hireuter	19	_	_	_	_	_
-hireuter	20	_	_	_	_	_
-hireuter	21	_	_	_	_	_
+hireuter	16	Europe	_	_	_	_
+hireuter	17	Europe	_	_	_	_
+hireuter	18	World	_	_	_	_
+hireuter	19	Europe	_	_	_	_
+hireuter	20	Europe	_	_	_	_
+hireuter	21	Europe	_	_	_	_
 hireuter	22	_	_	_	_	_
-hireuter	23	_	_	_	_	_
-hireuter	24	_	_	_	_	_
-hireuter	25	_	_	_	_	_
+hireuter	23	Europe	_	_	_	_
+hireuter	24	Europe	_	_	_	_
+hireuter	25	Europe	_	_	_	_
 hireuter	26	_	_	_	_	_
-hireuter	27	_	_	_	_	_
-hireuter	28	_	_	_	_	_
+hireuter	27	World	_	_	_	_
+hireuter	28	Europe	_	_	_	_
 hireuter	29	Europe	_	_	PostGIS	PostGIS
-hireuter	30	_	_	_	_	_
-HomesteadPost	11	_	_	_	_	_
+hireuter	30	Europe	Brussels,Strasbourg,Luxembourg	_	_	_
+HomesteadPost	11	United Kingdom	_	_	_	_
 hrbrmstr	01	USA	_	technology	points,small multiples	R
 hrbrmstr	02	World	_	_	lines	R
 hrbrmstr	03	USA	_	technology	heatmap	R
@@ -1574,90 +1574,90 @@ hrbrmstr	27	USA	_	_	_	R
 hrbrmstr	28	Europe	_	_	points	R
 hrbrmstr	29	Other	_	_	_	R
 hrbrmstr	30	USA	_	_	geofacet graphs,choropleth	R
-hudsonseb	01	_	_	_	_	QGIS
-humbertoivanrm	01	_	_	_	_	_
-humbertoivanrm	02	_	_	_	_	_
-humbertoivanrm	04	_	_	_	_	QGIS,ArcGIS
-humbertoivanrm	10	_	_	_	_	_
-HutterNils	13	_	_	_	_	_
-iamreddave	01	_	_	_	_	_
-iamreddave	04	_	_	_	_	_
-iamreddave	21	_	_	_	_	_
-iamreddave	22	_	_	_	_	_
-IIEGJ	01	_	_	_	_	_
-IIEGJ	02	_	_	_	_	_
-IIEGJ	03	_	_	_	_	_
-IIEGJ	04	_	_	_	_	_
-IIEGJ	05	_	_	_	_	_
-IIEGJ	06	_	_	_	_	_
-IIEGJ	07	_	_	_	_	_
-IIEGJ	08	_	_	_	_	_
-IIEGJ	09	_	_	_	_	_
-IIEGJ	10	_	_	_	_	_
-IIEGJ	11	_	_	_	_	_
-IIEGJ	12	_	_	_	_	_
-IIEGJ	13	_	_	_	_	_
-IIEGJ	14	_	_	_	_	_
-IIEGJ	15	_	_	_	_	_
-IIEGJ	16	_	_	_	_	_
-IIEGJ	17	_	_	_	_	_
-IIEGJ	18	_	_	_	_	_
-IIEGJ	19	_	_	_	_	_
-IIEGJ	20	_	_	_	_	_
-IIEGJ	21	_	_	_	_	_
-IIEGJ	22	_	_	_	_	_
-IIEGJ	23	_	_	_	_	_
-IIEGJ	24	_	_	_	_	_
-IIEGJ	25	_	_	_	_	_
-IIEGJ	26	_	_	_	_	_
-IIEGJ	27	_	_	_	_	_
-IIEGJ	28	_	_	_	_	_
-IIEGJ	29	_	_	_	_	_
-IIEGJ	30	_	_	_	_	_
-ijturton	01	_	_	_	_	QGIS
-ijturton	02	_	_	_	_	QGIS
-ijturton	03	_	_	_	_	_
-ijturton	04	_	_	_	_	QGIS
-ijturton	05	_	_	_	_	QGIS
-ijturton	06	_	_	_	_	_
-ijturton	07	_	_	_	_	_
-ijturton	08	_	_	_	_	QGIS
-ijturton	09	_	_	_	_	QGIS
-ijturton	10	_	_	_	_	QGIS
+hudsonseb	01	United Kingdom	_	_	_	QGIS
+humbertoivanrm	01	Chile	Santiago	_	_	_
+humbertoivanrm	02	Chile	Valparaíso	_	_	_
+humbertoivanrm	04	Chile	Valdivia	_	_	QGIS,ArcGIS
+humbertoivanrm	10	Chile	_	transport	_	_
+HutterNils	13	Arctic	_	_	_	_
+iamreddave	01	United Kingdom,Ireland	_	_	_	_
+iamreddave	04	USA	_	_	_	_
+iamreddave	21	Artarctica	_	_	_	_
+iamreddave	22	Ireland	Dingle	_	_	_
+IIEGJ	01	Mexico	Guadalajara	_	_	_
+IIEGJ	02	Mexico	Guadalajara	_	_	_
+IIEGJ	03	Mexico	_	_	_	_
+IIEGJ	04	Mexico	_	_	_	_
+IIEGJ	05	Mexico	_	_	_	_
+IIEGJ	06	Mexico	_	_	_	_
+IIEGJ	07	Mexico	_	_	_	_
+IIEGJ	08	Mexico	_	_	_	_
+IIEGJ	09	Mexico	_	_	_	_
+IIEGJ	10	Mexico	Guadalajara	_	_	_
+IIEGJ	11	Mexico	_	_	_	_
+IIEGJ	12	Mexico	Puerto Vallarta	_	_	_
+IIEGJ	13	Mexico	_	_	_	_
+IIEGJ	14	Mexico	_	_	_	_
+IIEGJ	15	Mexico	_	_	_	_
+IIEGJ	16	Mexico	Guadalajara	_	_	_
+IIEGJ	17	Mexico	_	_	_	_
+IIEGJ	18	World	_	_	_	_
+IIEGJ	19	Mexico	_	_	_	_
+IIEGJ	20	Mexico	_	_	_	_
+IIEGJ	21	Mexico	_	_	_	_
+IIEGJ	22	Mexico	_	_	_	_
+IIEGJ	23	Mexico	_	_	_	_
+IIEGJ	24	Mexico	_	_	_	_
+IIEGJ	25	Mexico	_	_	_	_
+IIEGJ	26	Mexico	_	_	_	_
+IIEGJ	27	Mexico	_	_	_	_
+IIEGJ	28	Mexico	_	_	_	_
+IIEGJ	29	Mexico	Guadalajara	_	_	_
+IIEGJ	30	Mexico	_	_	_	_
+ijturton	01	World	_	_	_	QGIS
+ijturton	02	World	_	_	_	QGIS
+ijturton	03	USA	_	_	_	_
+ijturton	04	United Kingdom	_	_	_	QGIS
+ijturton	05	United Kingdom	_	_	_	QGIS
+ijturton	06	Europe	_	_	_	_
+ijturton	07	Australia	_	_	_	_
+ijturton	08	United Kingdom	_	_	_	QGIS
+ijturton	09	World	_	_	_	QGIS
+ijturton	10	United Kingdom	Goring-by-Sea	_	_	QGIS
 ijturton	11	_	_	_	_	QGIS
-ijturton	12	_	_	_	_	QGIS
-ijturton	13	_	_	_	_	_
-ijturton	14	_	_	_	_	_
-ijturton	15	_	_	_	_	_
-ijturton	16	_	_	_	_	_
-ijturton	17	_	_	_	_	_
-ijturton	18	_	_	_	_	QGIS
-ijturton	19	_	_	_	_	QGIS
-ijturton	20	_	_	_	_	_
-ijturton	21	_	_	_	_	QGIS
-ijturton	22	_	_	_	_	QGIS
-ijturton	23	_	_	_	_	_
-ijturton	24	_	_	_	_	_
-ijturton	25	_	_	_	_	QGIS
-ijturton	26	_	_	_	_	_
-ijturton	27	_	_	_	_	QGIS
-ijturton	28	_	_	_	_	_
-ijturton	29	_	_	_	_	QGIS
-ijturton	30	_	_	_	_	_
-ikashnitsky	01	_	_	_	_	R
-ikashnitsky	23	_	_	_	_	R
-ImperiiaProject	26	_	_	_	_	_
+ijturton	12	Europe	_	_	_	QGIS
+ijturton	13	United Kingdom	_	_	_	_
+ijturton	14	North Korea,South Korea	_	_	_	_
+ijturton	15	United Kingdom	_	_	_	_
+ijturton	16	USA	_	_	_	_
+ijturton	17	World	_	_	_	_
+ijturton	18	World	_	_	_	QGIS
+ijturton	19	World	_	_	_	QGIS
+ijturton	20	United Kingdom	_	_	_	_
+ijturton	21	World,Arctic,Antarctica	_	_	_	QGIS
+ijturton	22	World	_	_	_	QGIS
+ijturton	23	United Kingdom	_	_	_	_
+ijturton	24	United Kingdom	_	_	_	_
+ijturton	25	World	_	_	_	QGIS
+ijturton	26	United Kingdom	_	_	_	_
+ijturton	27	United Kingdom,Ireland	_	_	_	QGIS
+ijturton	28	World	_	_	_	_
+ijturton	29	United Kingdom	_	_	_	QGIS
+ijturton	30	World	_	_	_	_
+ikashnitsky	01	USA	_	_	_	R
+ikashnitsky	23	Europe	_	_	_	R
+ImperiiaProject	26	Russia	_	_	_	_
 inari_ta	01	_	_	_	_	_
-inari_ta	02	_	_	_	_	_
-inari_ta	03	_	_	_	_	_
-inari_ta	04	_	_	_	_	_
-inari_ta	05	_	_	_	_	_
-inari_ta	06	_	_	_	_	_
-inari_ta	07	_	_	_	_	_
-inari_ta	08	_	_	_	_	_
-inari_ta	09	_	_	_	_	_
-inari_ta	10	_	_	_	_	_
-inari_ta	11	_	_	_	_	_
+inari_ta	02	Europe	_	_	_	_
+inari_ta	03	World	_	_	_	_
+inari_ta	04	World	_	_	_	_
+inari_ta	05	Spain	Madrid	_	_	_
+inari_ta	06	Spain	_	population	cartogram	_
+inari_ta	07	World	_	_	_	_
+inari_ta	08	Spain	Madrid	_	_	_
+inari_ta	09	World	_	_	_	_
+inari_ta	10	World	_	_	_	_
+inari_ta	11	Other	_	_	_	_
 indiaviz	01	_	_	_	_	_
 indiaviz	02	Ethiopia	_	_	_	_
 indiaviz	04	Europe	_	_	_	_
@@ -1874,39 +1874,39 @@ Juanizio_C	29	Chile	Santiago	_	_	_
 Juanizio_C	30	Chile	Santiago	_	_	_
 Junevgt	03	Other	_	_	_	_
 Junevgt	04	World	_	_	_	_
-Junevgt	12	_	_	_	_	_
-Junevgt	13	_	_	_	_	_
-Junevgt	22	_	_	_	_	_
-JuvenalCamposF	01	_	_	_	_	R
-JuvenalCamposF	02	_	_	_	_	R
-JuvenalCamposF	03	_	_	_	_	R
-JuvenalCamposF	04	_	_	_	_	R
-JuvenalCamposF	05	_	_	_	_	_
-JuvenalCamposF	06	_	_	_	_	R
-JuvenalCamposF	07	_	_	_	_	_
-JuvenalCamposF	08	_	_	_	_	_
-JuvenalCamposF	09	_	_	_	_	R
-JuvenalCamposF	10	_	_	_	_	R
-JuvenalCamposF	11	_	_	_	_	R
-JuvenalCamposF	12	_	_	_	_	R
-JuvenalCamposF	13	_	_	_	_	R
-JuvenalCamposF	14	_	_	_	_	_
-JuvenalCamposF	15	_	_	_	_	_
-JuvenalCamposF	16	_	_	_	_	R
-JuvenalCamposF	17	_	_	_	_	R
-JuvenalCamposF	18	_	_	_	_	R
-JuvenalCamposF	19	_	_	_	_	_
-JuvenalCamposF	20	_	_	_	_	R
-JuvenalCamposF	21	_	_	_	_	R
-JuvenalCamposF	22	_	_	_	_	R
-JuvenalCamposF	23	_	_	_	_	R
-JuvenalCamposF	24	_	_	_	_	R
-JuvenalCamposF	25	_	_	_	_	R
-JuvenalCamposF	26	_	_	_	_	R
-JuvenalCamposF	27	_	_	_	_	_
-JuvenalCamposF	28	_	_	_	_	R,Leaflet
-JuvenalCamposF	30	_	_	_	_	_
-JWanhalinna	04	_	_	_	_	_
+Junevgt	12	World	_	_	_	hand drawn
+Junevgt	13	Norway	_	_	_	hand drawn
+Junevgt	22	France	_	_	_	hand drawn
+JuvenalCamposF	01	Mexico	Mexico City	_	_	R
+JuvenalCamposF	02	Mexico	Mexico City	_	_	R
+JuvenalCamposF	03	Mexico	Mexico City	_	_	R
+JuvenalCamposF	04	Mexico	Mexico City	_	_	R
+JuvenalCamposF	05	Mexico	_	_	_	_
+JuvenalCamposF	06	Mexico	_	_	_	R,Leaflet
+JuvenalCamposF	07	Mexico	_	_	_	R,Leaflet
+JuvenalCamposF	08	Mexico	_	_	_	R
+JuvenalCamposF	09	Mexico	_	_	_	R
+JuvenalCamposF	10	Mexico	_	_	_	R
+JuvenalCamposF	11	Mexico	_	_	_	R
+JuvenalCamposF	12	Mexico	Mexico City	_	_	R
+JuvenalCamposF	13	Mexico	Mexico City	_	_	R
+JuvenalCamposF	14	Mexico	Mexico City	_	_	R,Leaflet
+JuvenalCamposF	15	Mexico	_	_	_	_
+JuvenalCamposF	16	Mexico	Mexico City	_	_	R
+JuvenalCamposF	17	Mexico	Mexico City	_	_	R,Leaflet
+JuvenalCamposF	18	World	_	_	_	R,Plotly
+JuvenalCamposF	19	Mexico	Mexico City	_	_	R,Leaflet
+JuvenalCamposF	20	Mexico	_	_	_	R
+JuvenalCamposF	21	Mexico	_	_	_	R
+JuvenalCamposF	22	Mexico	Mexico City	_	_	R
+JuvenalCamposF	23	Mexico	_	_	_	R
+JuvenalCamposF	24	Mexico	_	_	_	R,Leaflet
+JuvenalCamposF	25	Mexico	Mexico City	_	_	R,Leaflet
+JuvenalCamposF	26	Mexico	Mexico City	_	_	R,Leaflet
+JuvenalCamposF	27	Mexico	Mexico City	_	_	_
+JuvenalCamposF	28	Mexico	_	_	_	R,Leaflet
+JuvenalCamposF	30	Mexico	_	_	_	_
+JWanhalinna	04	Finland	Helsinki	transport	hexagons	_
 jwoLondon	02	United Kingdom	_	_	_	Vega-Lite
 jwoLondon	03	United Kingdom	London	_	_	Vega-Lite
 jwoLondon	04	United Kingdom	_	_	_	Vega-Lite
@@ -1938,8 +1938,8 @@ jwoLondon	30	United Kingdom	_	_	_	Vega-Lite
 kaankalkan	02	Turkey	_	_	_	_
 kahosford	19	Canada	Vancouver	_	_	_
 Kaihopu	04	New Zealand	_	_	_	_
-Kaihopu	06	_	_	_	_	_
-Kaihopu	11	_	_	_	_	_
+Kaihopu	06	New Zealand	_	_	_	_
+Kaihopu	11	New Zealand	_	_	_	_
 karim_douieb	01	World	_	_	_	_
 karim_douieb	02	Belgium,Netherlands	Brussels,Amsterdam	_	_	_
 karim_douieb	03	USA,Belgium,United Kingdom,Germany,Netherlands,France,Canada,Italy,Japan,India,Egypt,Australia,South Africa,Mexico,Brazil	San Francisco,Brussels,New York City,London,Berlin,Amsterdam,Paris,Montreal,Rome,Tokyo,New Delhi,Cairo,Sydney,Johannesburg,Mexico City,São Paulo	_	_	Mapbox
@@ -1955,38 +1955,38 @@ Kate_GIS	01	United Kingdom,Ireland	_	_	_	_
 Kate_GIS	02	United Kingdom	_	_	_	_
 Kate_GIS	03	United Kingdom	_	_	_	_
 Kate_GIS	06	United Kingdom	_	_	_	_
-kbakaric1	01	_	_	_	_	R
-kbakaric1	04	_	_	_	_	R
-KeirClarke	12	_	_	_	_	_
-kemby_geo	07	_	_	_	_	_
-kemby_geo	15	_	_	_	_	_
-kemby_geo	30	_	_	_	_	_
-kendelldotio	12	_	_	_	_	_
-kendelldotio	20	_	_	_	_	_
+kbakaric1	01	World	_	_	_	R
+kbakaric1	04	World	_	_	_	R
+KeirClarke	12	Australia	_	_	_	_
+kemby_geo	07	USA	_	_	_	_
+kemby_geo	15	USA	_	_	_	_
+kemby_geo	30	Other	_	_	_	_
+kendelldotio	12	USA	_	_	_	_
+kendelldotio	20	USA	_	_	_	_
 kennethfield	06	_	_	_	_	_
-kennethfield	07	_	_	_	_	_
-kennethfield	08	_	_	_	_	_
-kerooksblog	01	_	_	_	_	_
-kerooksblog	06	_	_	_	_	QGIS
-kerooksblog	08	_	_	_	_	QGIS
+kennethfield	07	Other	_	sport	_	_
+kennethfield	08	World	_	_	choropleth	_
+kerooksblog	01	World	_	_	_	_
+kerooksblog	06	Italy	_	_	_	QGIS
+kerooksblog	08	Germany	Munich	_	_	QGIS
 kerooksblog	13	_	_	_	_	_
-kerooksblog	26	_	_	_	_	QGIS
-kevpluck	01	_	_	_	_	_
-kevpluck	02	_	_	_	_	_
+kerooksblog	26	Italy	_	_	_	QGIS
+kevpluck	01	World	_	_	_	_
+kevpluck	02	World	_	_	_	_
 kgjenkins	01	_	_	_	_	_
 kgjenkins	02	_	_	_	_	_
-Kim_Fitter	08	_	_	_	_	_
-Kim_Fitter	10	_	_	_	_	R
-Kim_Fitter	11	_	_	_	_	_
-Kim_Fitter	13	_	_	_	_	R
-Kim_Fitter	15	_	_	_	_	R,D3.js
-kimus_93	01	_	_	_	_	_
-kimus_93	02	_	_	_	_	QGIS
-kimus_93	04	_	_	_	_	_
-kimus_93	05	_	_	_	_	_
-kimus_93	06	_	_	_	_	GIMP
-kimus_93	07	_	_	_	_	_
-kimus_93	08	_	_	_	_	QGIS
+Kim_Fitter	08	New Zealand	_	_	_	_
+Kim_Fitter	10	Other	_	_	_	R
+Kim_Fitter	11	New Zealand	_	_	_	_
+Kim_Fitter	13	New Zealand	_	_	_	R
+Kim_Fitter	15	New Zealand	_	_	_	R,D3.js
+kimus_93	01	United Kingdom	London	_	_	_
+kimus_93	02	France	_	_	_	QGIS
+kimus_93	04	France	_	_	_	_
+kimus_93	05	United Kingdom	_	_	_	Blender
+kimus_93	06	Europe	_	_	_	GIMP
+kimus_93	07	France	_	_	_	_
+kimus_93	08	France	_	_	_	QGIS
 KiriCarini	02	USA	New York City	_	_	QGIS,D3.js
 kiwirebecca	13	New Zealand	Wellington	_	_	_
 knozi1	08	Austria	_	_	_	_
@@ -2738,7 +2738,9 @@ rajbhagatt	01	_	_	_	_	_
 rajbhagatt	02	India	_	_	_	_
 rajbhagatt	03	_	_	_	_	_
 rajbhagatt	04	Asia	_	earthquakes	_	_
+ramya_ragupathy	01	India	_	_	_	_
 ramya_ragupathy	02	India	_	_	_	_
+ramya_ragupathy	03	India	Bengaluru	_	_	D3.js
 ramya_ragupathy	04	India	_	_	_	_
 ramya_ragupathy	05	Asia	_	_	_	_
 ramya_ragupathy	06	India	Bengaluru	_	_	_
@@ -2888,10 +2890,10 @@ samedelstein	15	_	_	_	_	R
 samedelstein	16	_	_	_	_	R
 samedelstein	17	_	_	_	_	ArcGIS
 SamIAmFargo	11	_	_	_	_	_
-SamiKurani	27	_	_	_	_	QGIS
-SamiKurani	28	_	_	_	_	QGIS
-sammyhawkrad	03	_	_	_	_	_
-sammyhawkrad	22	_	_	_	_	_
+SamiKurani	27	Canada	_	_	_	QGIS
+SamiKurani	28	Canada	_	_	_	QGIS
+sammyhawkrad	03	Ghana	_	_	_	_
+sammyhawkrad	22	Ghana	Accra	_	_	_
 samwise_v	01	Antarctica	_	_	_	QGIS
 samwise_v	02	Montenegro	_	_	joyplot	_
 samwise_v	03	United Kingdom	_	_	_	_
@@ -2950,24 +2952,24 @@ SannaJokela1	27	_	_	_	_	_
 SannaJokela1	28	_	_	_	_	_
 SannaJokela1	29	_	_	_	_	_
 SannaJokela1	30	_	_	_	_	_
-sasha_trub	02	_	_	_	_	_
-sasha_trub	03	_	_	_	_	_
-SchalkValentin	07	_	_	_	_	_
-SchalkValentin	08	_	_	_	_	QGIS
-SchalkValentin	11	_	_	_	_	QGIS,Blender
-SDGeoGirl	01	_	_	_	_	_
-SDGeoGirl	03	_	_	_	_	_
-SDGeoGirl	04	_	_	_	_	_
-SDGeoGirl	06	_	_	_	_	_
-SDGeoGirl	08	_	_	_	_	_
-SDGeoGirl	11	_	_	_	_	hand drawn
-SDGeoGirl	13	_	_	_	_	_
-SDGeoGirl	16	_	_	_	_	_
-SDGeoGirl	17	_	_	_	_	_
-SDGeoGirl	30	_	_	_	_	_
-seba_jh	01	_	_	_	_	_
-seba_jh	11	_	_	_	_	_
-sergioajv1	02	_	_	_	_	QGIS
+sasha_trub	02	Europe	_	_	_	_
+sasha_trub	03	Russia	Moscow	_	_	_
+SchalkValentin	07	Austria	Vienna	_	_	_
+SchalkValentin	08	Europe	_	_	_	QGIS
+SchalkValentin	11	Europe	_	_	_	QGIS,Blender
+SDGeoGirl	01	USA	_	_	_	_
+SDGeoGirl	03	USA	San Diego	_	_	_
+SDGeoGirl	04	USA	San Diego	_	_	_
+SDGeoGirl	06	USA	_	_	_	_
+SDGeoGirl	08	USA	_	_	_	_
+SDGeoGirl	11	USA	_	_	_	hand drawn
+SDGeoGirl	13	Other	_	_	_	_
+SDGeoGirl	16	USA	San Diego	_	_	_
+SDGeoGirl	17	USA	San Diego	_	_	_
+SDGeoGirl	30	Other	_	_	_	_
+seba_jh	01	Chile	_	_	_	_
+seba_jh	11	Chile	_	_	_	_
+sergioajv1	02	Brazil	Porto Alegre	_	_	QGIS
 SergioIbarraEs1	02	_	_	_	_	R
 SergioIbarraEs1	03	Brazil	São Paulo	_	heatmap	R
 SergioIbarraEs1	05	_	_	_	_	R
@@ -2992,26 +2994,26 @@ SergioIbarraEs1	24	_	_	_	_	R
 SergioIbarraEs1	25	_	_	_	_	R
 SergioIbarraEs1	28	_	_	_	_	R
 SergioIbarraEs1	30	_	_	_	_	_
-shakasom	03	_	_	_	_	_
-shakasom	04	_	_	_	_	QGIS
-shakasom	05	_	_	_	_	_
-shakasom	06	_	_	_	_	_
-shakasom	07	_	_	_	_	_
-shakasom	08	_	_	_	_	_
-shakasom	11	_	_	_	_	_
-shakasom	12	_	_	_	_	_
-shakasom	13	_	_	_	_	_
-ShinagawaJP	01	_	_	_	_	_
-ShinagawaJP	02	_	_	_	_	_
-SimonGIS	01	_	_	_	_	_
-SimonGIS	02	_	_	_	_	_
-SimonGIS	03	_	_	_	_	_
-SimonGIS	05	_	_	_	_	_
-SimonGIS	06	_	_	_	_	_
-SimonGIS	07	_	_	_	_	_
-SimonGIS	11	_	_	_	_	_
-SimonGIS	13	_	_	_	_	_
-SimonGIS	30	_	_	_	_	_
+shakasom	03	United Kingdom	_	_	_	_
+shakasom	04	USA	Chicago	_	_	QGIS
+shakasom	05	Somalia	Beledweyne	_	animation	_
+shakasom	06	Sweden	Gothenburg	_	_	_
+shakasom	07	World	_	_	_	_
+shakasom	08	World	_	_	_	_
+shakasom	11	United Kingdom	_	_	_	_
+shakasom	12	North America	_	animals	animation	Plotly
+shakasom	13	North America	_	animals	animation	Plotly
+ShinagawaJP	01	World	_	_	_	_
+ShinagawaJP	02	Japan	_	transport	lines	_
+SimonGIS	01	Australia	_	_	_	_
+SimonGIS	02	Australia	Hobart	_	_	_
+SimonGIS	03	Australia	Sydney	_	_	_
+SimonGIS	05	Australia	Brisbane	_	_	_
+SimonGIS	06	Australia	Rockhampton	_	_	_
+SimonGIS	07	Australia	_	_	_	_
+SimonGIS	11	Australia	_	_	_	_
+SimonGIS	13	Australia	_	_	_	_
+SimonGIS	30	Australia	Melbourne	_	_	_
 SouthArrowMaps	01	New Zealand	_	_	_	_
 SouthArrowMaps	02	New Zealand	_	_	_	_
 SouthArrowMaps	03	New Zealand	_	_	lego	_
@@ -3040,8 +3042,8 @@ SouthArrowMaps	26	New Zealand	_	_	_	_
 SouthArrowMaps	28	New Zealand	Auckland	_	_	_
 SouthArrowMaps	29	United Kingdom	_	_	interactive	_
 SouthArrowMaps	30	New Zealand	Auckland	_	_	_
-Spriteware	03	_	_	_	_	_
-ssp_guadalupe	27	_	_	_	_	_
+Spriteware	03	Canada	Toronto	_	_	_
+ssp_guadalupe	27	Mexico	Guadalupe	crime	_	_
 StatnMap	01	_	_	_	_	R
 StatnMap	02	_	_	_	_	R
 StatnMap	03	_	_	_	_	R,Leaflet
@@ -3072,10 +3074,10 @@ surfacelibre	04	_	_	_	_	_
 surfacelibre	06	_	_	_	_	_
 surfacelibre	08	_	_	_	_	_
 surfacelibre	11	_	_	_	_	QGIS
-SWAC_OECD	19	_	_	_	_	_
-SWAC_OECD	20	_	_	_	_	_
-SWAC_OECD	22	_	_	_	_	_
-SWAC_OECD	29	_	_	_	_	_
+SWAC_OECD	19	Africa	_	_	_	_
+SWAC_OECD	20	Africa	_	_	_	_
+SWAC_OECD	22	Nigeria	Onitsha	_	_	_
+SWAC_OECD	29	Africa	_	_	_	_
 swiss_geoportal	19	_	_	_	_	_
 swiss_geoportal	20	_	_	_	_	_
 swiss_geoportal	21	_	_	_	_	_
@@ -3124,24 +3126,24 @@ ThomasBanafa	04	Finland	_	_	_	_
 ThomasBanafa	12	Finland	_	_	_	QGIS,GIMP,PostGIS
 ThomasBanafa	15	Finland	Helsinki	_	_	QGIS
 ThomasBanafa	26	Finland	Helsinki	_	_	QGIS
-ThomasG77	01	_	_	_	_	_
-ThomasG77	02	_	_	_	_	QGIS
-ThomasG77	03	_	_	_	_	QGIS
-ThomasG77	04	_	_	_	_	QGIS
-ThomasG77	05	_	_	_	_	QGIS,GIMP,PostGIS
-ThomasG77	07	_	_	_	_	_
-ThomasG77	08	_	_	_	_	QGIS,PostGIS
-ThomasG77	09	_	_	_	_	QGIS
-ThomasG77	10	_	_	_	_	QGIS
-ThomasG77	11	_	_	_	_	QGIS
-ThomasG77	12	_	_	_	_	QGIS
-ThomasG77	13	_	_	_	_	_
-ThomasG77	14	_	_	_	_	_
-ThomasG77	15	_	_	_	_	_
-ThomasG77	16	_	_	_	_	_
-ThomasG77	17	_	_	_	_	_
-ThomasG77	19	_	_	_	_	_
-ThomasG77	20	_	_	_	_	_
+ThomasG77	01	France	_	_	_	_
+ThomasG77	02	France	Nantes	_	_	QGIS
+ThomasG77	03	World	_	_	small multiples	QGIS
+ThomasG77	04	France	_	_	_	QGIS
+ThomasG77	05	France	Nantes	_	_	QGIS,GIMP,PostGIS
+ThomasG77	07	France	_	_	_	_
+ThomasG77	08	France	_	_	small multiples	QGIS,PostGIS
+ThomasG77	09	World	_	_	_	QGIS
+ThomasG77	10	Europe	_	_	_	QGIS
+ThomasG77	11	France	Nantes	_	_	QGIS
+ThomasG77	12	France	_	_	_	QGIS
+ThomasG77	13	Other	_	sport	_	_
+ThomasG77	14	Germany	Berlin	_	_	_
+ThomasG77	15	France	_	_	_	_
+ThomasG77	16	France	_	_	_	_
+ThomasG77	17	France	_	_	_	_
+ThomasG77	19	France	_	_	_	_
+ThomasG77	20	France	_	_	_	_
 Thoughtfulnz	03	New Zealand	_	_	_	R
 Thoughtfulnz	04	New Zealand	_	_	_	R
 Thoughtfulnz	09	New Zealand	_	animals	_	R
