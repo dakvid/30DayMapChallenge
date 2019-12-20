@@ -71,42 +71,48 @@ cities <-
 
 topics <- 
   map_classification %>% 
-  select(topics) %>% 
+  select(topics, handle) %>% 
   separate_rows(topics, sep = ",") %>% 
-  count(topics) %>% 
+  group_by(topics) %>% 
+  summarise(num_maps = n(),
+            num_people = n_distinct(handle)) %>% 
+  ungroup() %>% 
   arrange(topics)
 topics <- 
   bind_rows(
     topics %>% filter(topics != "_"),
     topics %>% filter(topics == "_")
-  ) %>% 
-  rename(num_maps = n)
+  )
 
 types_of_maps <- 
   map_classification %>% 
-  select(types) %>% 
+  select(types, handle) %>% 
   separate_rows(types, sep = ",") %>% 
-  count(types) %>% 
+  group_by(types) %>% 
+  summarise(num_maps = n(),
+            num_people = n_distinct(handle)) %>% 
+  ungroup() %>% 
   arrange(types)
 types_of_maps <- 
   bind_rows(
     types_of_maps %>% filter(types != "_"),
     types_of_maps %>% filter(types == "_")
-  ) %>% 
-  rename(num_maps = n)
+  )
 
 tools <- 
   map_classification %>% 
-  select(tools) %>% 
+  select(tools, handle) %>% 
   separate_rows(tools, sep = ",") %>% 
-  count(tools) %>% 
+  group_by(tools) %>% 
+  summarise(num_maps = n(),
+            num_people = n_distinct(handle)) %>% 
+  ungroup() %>% 
   arrange(tools)
 tools <- 
   bind_rows(
     tools %>% filter(tools != "_"),
     tools %>% filter(tools == "_")
-  ) %>% 
-  rename(num_maps = n)
+  )
 
 
 
@@ -270,7 +276,7 @@ g_countries_data <-
   ) %>% 
   filter(area != "_") %>% 
   arrange(desc(num_maps)) %>% 
-  head(20) %>% 
+  head(30) %>% 
   mutate(area = area %>% fct_inorder() %>% fct_rev())
 g_countries <- 
   ggplot(g_countries_data,
@@ -287,19 +293,56 @@ g_countries <-
   coord_flip() +
   theme_minimal_vgrid(font_family = CHART_FONT) +
   labs(x = NULL, y = NULL,
-       title = "Top 20 Map Areas")
+       title = "Top 30 Map Areas")
 ggsave(filename = "area_count.png",
        path = "images/",
        plot = g_countries,
+       width = 7, height = 5.5, units = "cm")
+
+g_cities_data <- 
+  cities %>% 
+  filter(city != "_") %>% 
+  arrange(desc(num_maps)) %>% 
+  head(20) %>% 
+  mutate(city = city %>% fct_inorder() %>% fct_rev())
+g_cities <- 
+  ggplot(g_cities_data,
+         aes(x = city, y = num_maps)) +
+  geom_col() +
+  geom_col(data = g_cities_data,
+           aes(x = city, y = num_people),
+           fill = "orange", width = 0.3) +
+  geom_text(data = g_cities_data,
+            aes(x = city, y = num_maps, label = num_maps),
+            hjust = 1, nudge_y = -1,
+            color = "white",
+            family = CHART_FONT) +
+  coord_flip() +
+  theme_minimal_vgrid(font_family = CHART_FONT) +
+  labs(x = NULL, y = NULL,
+       title = "Top 20 Cities Mapped")
+ggsave(filename = "city_count.png",
+       path = "images/",
+       plot = g_cities,
        width = 7, height = 4, units = "cm")
 
-g_tools <- 
+g_tools_data <- 
   tools %>% 
   filter(tools != "_") %>% 
-  arrange(desc(n)) %>% 
-  mutate(tools = tools %>% fct_inorder() %>% fct_rev()) %>% 
-  ggplot(aes(x = tools, y = n)) +
+  arrange(desc(num_maps)) %>% 
+  mutate(tools = tools %>% fct_inorder() %>% fct_rev())
+g_tools <- 
+  ggplot(g_tools_data,
+         aes(x = tools, y = num_maps)) +
   geom_col() +
+  geom_col(data = g_tools_data,
+           aes(x = tools, y = num_people),
+           fill = "orange", width = 0.3) +
+  geom_text(data = g_tools_data,
+            aes(x = tools, y = num_maps, label = num_maps),
+            hjust = 1, nudge_y = -1,
+            color = "white",
+            family = CHART_FONT) +
   coord_flip() +
   theme_minimal_vgrid(font_family = CHART_FONT) +
   labs(x = NULL, y = NULL,
@@ -376,12 +419,15 @@ stats_page <-
                   ),
                 p(tags$em("I'll aim to identify the location of all the map authors, but haven't done that yet.")),
                 h3("Places"),
-                p(glue("Bear in mind that only {100 - pc_unc_area}% of the maps have an area assigned.")),
+                p(glue("Bear in mind that only {100 - pc_unc_area}% of the maps have an area assigned. ",
+                       "And only {100 - pc_unc_city}% have a city assigned.")),
                 p("The main bar is the number of maps with that label.",
                   "The small orange bar is the number of cartographers who have produced the maps in that area."),
                 img(src = "images/area_count.png"),
+                img(src = "images/city_count.png"),
                 h3("Tools"),
-                p("Only approximately one third of the tweets mention the tools used."),
+                p("Only approximately one third of the tweets mention the tools used.",
+                  glue("Only {100 - pc_unc_tool}% of the maps have a tool assigned so far.")),
                 img(src = "images/tool_count.png"),
                 h3("Map Types"),
                 p(tags$em("Best to wait until we have more data.")),
@@ -417,7 +463,7 @@ make_a_card <-
         `data-date-posted` = date_posted,
         `data-handle` = handle %>% str_to_lower(),
         a(`data-toggle` = "modal",
-          `data-target` = glue("#{mapid}_details"),
+          `data-target` = glue("#{if_else(str_detect(mapid,'^[0-9]'),'_','')}{mapid}_details"),
           div(class = "card",
               div(class = glue("aspect aspect--{aspect}"),
                   div(class = "aspect__inner",
@@ -453,7 +499,7 @@ map_cards <-
 
 make_a_modal <- 
   function(mapid, extension, Day, Theme, handle, date_posted, tweet_id, website, area, city, topics, types, tools, description, username, realname, location, ...) {
-    div(id = glue("{mapid}_details"),
+    div(id = glue("{if_else(str_detect(mapid,'^[0-9]'),'_','')}{mapid}_details"),
         class = "modal fade",
         tabindex = "-1",
         role = "dialog",
